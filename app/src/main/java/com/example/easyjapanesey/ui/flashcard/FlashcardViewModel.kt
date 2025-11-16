@@ -4,8 +4,12 @@ import android.content.Context
 import android.speech.tts.TextToSpeech
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.easyjapanesey.data.model.CardStatus
+import com.example.easyjapanesey.data.model.FilterMode
 import com.example.easyjapanesey.data.model.VocabularyCard
+import com.example.easyjapanesey.data.preferences.UserProgressRepository
 import com.example.easyjapanesey.data.repository.VocabularyRepository
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -22,19 +26,20 @@ data class FlashcardUiState(
 
 class FlashcardViewModel(
     private val context: Context,
-    category: String,
-    level1: String,
-    level2: String?
+    private val category: String,
+    private val level1: String,
+    private val level2: String?
 ) : ViewModel() {
     
     private val repository = VocabularyRepository(context)
+    private val progressRepo = UserProgressRepository(context)
     private var tts: TextToSpeech? = null
     
     private val _uiState = MutableStateFlow(FlashcardUiState())
     val uiState: StateFlow<FlashcardUiState> = _uiState.asStateFlow()
     
-    // Store position per collection
-    private val cardPositions = mutableMapOf<String, Int>()
+    // Store all cards and filtered cards
+    private var allCards: List<VocabularyCard> = emptyList()
     private val collectionKey = "$category-$level1-${level2 ?: ""}"
     
     init {
@@ -44,11 +49,37 @@ class FlashcardViewModel(
     
     private fun loadCards(category: String, level1: String, level2: String?) {
         viewModelScope.launch {
-            val cards = repository.getCardsForPath(category, level1, level2)
-            val savedPosition = cardPositions[collectionKey] ?: 0
+            allCards = repository.getCardsForPath(category, level1, level2)
+            applyFilter()
+        }
+    }
+    
+    private fun applyFilter() {
+        val filterMode = progressRepo.getFilterMode()
+        val filtered = when (filterMode) {
+            FilterMode.ALL -> allCards
+            FilterMode.WRONG_ONLY -> allCards.filter { card ->
+                val cardId = progressRepo.generateCardId(category, level1, level2, card.english)
+                progressRepo.getCardStatus(cardId) == CardStatus.WRONG
+            }
+            FilterMode.WRONG_AND_UNSEEN -> allCards.filter { card ->
+                val cardId = progressRepo.generateCardId(category, level1, level2, card.english)
+                val status = progressRepo.getCardStatus(cardId)
+                status == CardStatus.WRONG || status == CardStatus.UNSEEN
+            }
+        }
+        
+        if (filtered.isEmpty()) {
+            // If filter results in no cards, show message or all cards
             _uiState.value = _uiState.value.copy(
-                cards = cards,
-                currentIndex = savedPosition.coerceIn(0, cards.size - 1)
+                cards = allCards,
+                currentIndex = 0
+            )
+        } else {
+            val savedPosition = progressRepo.getCurrentPosition(collectionKey)
+            _uiState.value = _uiState.value.copy(
+                cards = filtered,
+                currentIndex = savedPosition.coerceIn(0, filtered.size - 1)
             )
         }
     }
@@ -88,7 +119,7 @@ class FlashcardViewModel(
         val currentState = _uiState.value
         if (currentState.cards.isNotEmpty()) {
             val newIndex = (currentState.currentIndex + 1) % currentState.cards.size
-            cardPositions[collectionKey] = newIndex
+            progressRepo.setCurrentPosition(collectionKey, newIndex)
             _uiState.value = currentState.copy(
                 currentIndex = newIndex,
                 isFlipped = false
@@ -104,11 +135,35 @@ class FlashcardViewModel(
             } else {
                 currentState.currentIndex - 1
             }
-            cardPositions[collectionKey] = newIndex
+            progressRepo.setCurrentPosition(collectionKey, newIndex)
             _uiState.value = currentState.copy(
                 currentIndex = newIndex,
                 isFlipped = false
             )
+        }
+    }
+    
+    fun markCardCorrect() {
+        val currentState = _uiState.value
+        if (currentState.cards.isNotEmpty()) {
+            val currentCard = currentState.cards[currentState.currentIndex]
+            val cardId = progressRepo.generateCardId(category, level1, level2, currentCard.english)
+            progressRepo.setCardStatus(cardId, CardStatus.CORRECT)
+            
+            // Auto-advance to next card
+            nextCard()
+        }
+    }
+    
+    fun markCardWrong() {
+        val currentState = _uiState.value
+        if (currentState.cards.isNotEmpty()) {
+            val currentCard = currentState.cards[currentState.currentIndex]
+            val cardId = progressRepo.generateCardId(category, level1, level2, currentCard.english)
+            progressRepo.setCardStatus(cardId, CardStatus.WRONG)
+            
+            // Auto-advance to next card
+            nextCard()
         }
     }
     

@@ -2,6 +2,7 @@ package com.example.easyjapanesey.ui.flashcard
 
 import androidx.compose.animation.core.animateFloatAsState
 import androidx.compose.animation.core.tween
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
@@ -11,6 +12,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.platform.LocalContext
@@ -87,7 +89,7 @@ fun FlashcardScreen(
                 
                 // Main content - changes layout based on orientation
                 if (isLandscape) {
-                    // Landscape: Row layout (emoji left, card center, button right)
+                    // Landscape: Row layout (emoji left, card center, buttons right)
                     Row(
                         modifier = Modifier
                             .weight(1f)
@@ -114,30 +116,104 @@ fun FlashcardScreen(
                                 .height(140.dp)
                         )
                         
-                        // Speaker button on right
+                        // Right column: Progress buttons + Speaker button stacked
                         Column(
                             horizontalAlignment = Alignment.CenterHorizontally,
                             verticalArrangement = Arrangement.Center,
-                            modifier = Modifier.padding(8.dp)
+                            modifier = Modifier.padding(horizontal = 8.dp)
                         ) {
-                            Button(
+                            var wrongPressed by remember { mutableStateOf(false) }
+                            var correctPressed by remember { mutableStateOf(false) }
+                            
+                            val wrongScale by animateFloatAsState(
+                                targetValue = if (wrongPressed) 0.85f else 1f,
+                                animationSpec = tween(100),
+                                label = "wrongScale"
+                            )
+                            
+                            val correctScale by animateFloatAsState(
+                                targetValue = if (correctPressed) 0.85f else 1f,
+                                animationSpec = tween(100),
+                                label = "correctScale"
+                            )
+                            
+                            // Reset pressed states when card changes
+                            LaunchedEffect(uiState.currentIndex) {
+                                wrongPressed = false
+                                correctPressed = false
+                            }
+                            
+                            // Wrong button (Red X)
+                            IconButton(
+                                onClick = { 
+                                    wrongPressed = true
+                                    viewModel.markCardWrong()
+                                },
+                                modifier = Modifier
+                                    .size(48.dp)
+                                    .graphicsLayer {
+                                        scaleX = wrongScale
+                                        scaleY = wrongScale
+                                    }
+                            ) {
+                                Surface(
+                                    color = MaterialTheme.colorScheme.error,
+                                    shape = MaterialTheme.shapes.medium,
+                                    modifier = Modifier.size(44.dp)
+                                ) {
+                                    Box(contentAlignment = Alignment.Center) {
+                                        Text("❌", fontSize = 20.sp)
+                                    }
+                                }
+                            }
+                            
+                            Spacer(modifier = Modifier.height(8.dp))
+                            
+                            // Correct button (Green Check)
+                            IconButton(
+                                onClick = { 
+                                    correctPressed = true
+                                    viewModel.markCardCorrect()
+                                },
+                                modifier = Modifier
+                                    .size(48.dp)
+                                    .graphicsLayer {
+                                        scaleX = correctScale
+                                        scaleY = correctScale
+                                    }
+                            ) {
+                                Surface(
+                                    color = Color(0xFF4CAF50),
+                                    shape = MaterialTheme.shapes.medium,
+                                    modifier = Modifier.size(44.dp)
+                                ) {
+                                    Box(contentAlignment = Alignment.Center) {
+                                        Text("✅", fontSize = 20.sp)
+                                    }
+                                }
+                            }
+                            
+                            Spacer(modifier = Modifier.height(12.dp))
+                            
+                            // Speaker button
+                            IconButton(
                                 onClick = { 
                                     if (uiState.ttsAvailable) {
                                         viewModel.speakWord(currentCard.romaji)
                                     }
                                 },
-                                enabled = uiState.ttsAvailable
+                                enabled = uiState.ttsAvailable,
+                                modifier = Modifier.size(48.dp)
                             ) {
-                                Text("🔊\nPlay")
+                                Text("🔊", fontSize = 24.sp)
                             }
                             
                             if (uiState.ttsError != null) {
-                                Spacer(modifier = Modifier.height(4.dp))
                                 Text(
-                                    text = "TTS N/A",
+                                    text = "N/A",
                                     style = MaterialTheme.typography.bodySmall,
                                     color = MaterialTheme.colorScheme.error,
-                                    textAlign = TextAlign.Center
+                                    fontSize = 8.sp
                                 )
                             }
                         }
@@ -186,6 +262,89 @@ fun FlashcardScreen(
                                 color = MaterialTheme.colorScheme.error,
                                 textAlign = TextAlign.Center
                             )
+                        }
+                    }
+                }
+                
+                // Progress buttons (Correct/Wrong) - different layout per orientation
+                if (isLandscape) {
+                    // In landscape, buttons are on the right in the main Row
+                } else {
+                    // Portrait: buttons centered below card
+                    var wrongPressed by remember { mutableStateOf(false) }
+                    var correctPressed by remember { mutableStateOf(false) }
+                    
+                    val wrongScale by animateFloatAsState(
+                        targetValue = if (wrongPressed) 0.85f else 1f,
+                        animationSpec = tween(100),
+                        label = "wrongScale"
+                    )
+                    
+                    val correctScale by animateFloatAsState(
+                        targetValue = if (correctPressed) 0.85f else 1f,
+                        animationSpec = tween(100),
+                        label = "correctScale"
+                    )
+                    
+                    // Reset pressed states when card changes
+                    LaunchedEffect(uiState.currentIndex) {
+                        wrongPressed = false
+                        correctPressed = false
+                    }
+                    
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.Center,
+                        verticalAlignment = Alignment.CenterVertically
+                    ) {
+                        // Wrong button (Red X)
+                        IconButton(
+                            onClick = { 
+                                wrongPressed = true
+                                viewModel.markCardWrong()
+                            },
+                            modifier = Modifier
+                                .size(56.dp)
+                                .graphicsLayer {
+                                    scaleX = wrongScale
+                                    scaleY = wrongScale
+                                }
+                        ) {
+                            Surface(
+                                color = MaterialTheme.colorScheme.error,
+                                shape = MaterialTheme.shapes.medium,
+                                modifier = Modifier.size(48.dp)
+                            ) {
+                                Box(contentAlignment = Alignment.Center) {
+                                    Text("❌", fontSize = 24.sp)
+                                }
+                            }
+                        }
+                        
+                        Spacer(modifier = Modifier.width(16.dp))
+                        
+                        // Correct button (Green Check)
+                        IconButton(
+                            onClick = { 
+                                correctPressed = true
+                                viewModel.markCardCorrect()
+                            },
+                            modifier = Modifier
+                                .size(56.dp)
+                                .graphicsLayer {
+                                    scaleX = correctScale
+                                    scaleY = correctScale
+                                }
+                        ) {
+                            Surface(
+                                color = Color(0xFF4CAF50),
+                                shape = MaterialTheme.shapes.medium,
+                                modifier = Modifier.size(48.dp)
+                            ) {
+                                Box(contentAlignment = Alignment.Center) {
+                                    Text("✅", fontSize = 24.sp)
+                                }
+                            }
                         }
                     }
                 }

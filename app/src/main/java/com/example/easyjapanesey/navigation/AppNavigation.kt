@@ -6,11 +6,15 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
+import com.example.easyjapanesey.ui.home.HomeScreen
+import com.example.easyjapanesey.ui.settings.SettingsScreen
 import com.example.easyjapanesey.ui.sidebar.SidebarScreen
 import com.example.easyjapanesey.ui.flashcard.FlashcardScreen
 
 sealed class Screen(val route: String) {
+    object Home : Screen("home")
     object Sidebar : Screen("sidebar")
+    object Settings : Screen("settings")
     object Flashcard : Screen("flashcard/{category}/{level1}?level2={level2}") {
         fun createRoute(category: String, level1: String, level2: String?): String {
             return if (level2 != null) {
@@ -26,10 +30,18 @@ sealed class Screen(val route: String) {
 fun AppNavigation(navController: NavHostController) {
     NavHost(
         navController = navController,
-        startDestination = Screen.Sidebar.route
+        startDestination = Screen.Home.route
     ) {
+        composable(Screen.Home.route) {
+            HomeScreen(navController = navController)
+        }
+        
         composable(Screen.Sidebar.route) {
             SidebarScreen(navController = navController)
+        }
+        
+        composable(Screen.Settings.route) {
+            SettingsScreen(navController = navController)
         }
         
         composable(
