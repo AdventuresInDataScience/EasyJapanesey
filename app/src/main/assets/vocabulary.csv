@@ -1,0 +1,20 @@
+category,level1,level2,emoji,english,romaji
+Noun,Food,Fruit,🍎,apple,ringo
+Noun,Food,Fruit,🍊,orange,mikan
+Noun,Food,Fruit,🍌,banana,banana
+Noun,Food,Fruit,🍓,strawberry,ichigo
+Noun,Food,Fruit,🍇,grape,budou
+Noun,Food,Vegetable,🥕,carrot,ninjin
+Noun,Food,Vegetable,🍅,tomato,tomato
+Noun,Food,Vegetable,🥒,cucumber,kyuuri
+Noun,Colors,,🔴,red,aka
+Noun,Colors,,🔵,blue,ao
+Noun,Colors,,🟢,green,midori
+Noun,Colors,,🟡,yellow,kiiro
+Verb,Daily Actions,,🍽️,to eat,taberu
+Verb,Daily Actions,,🥤,to drink,nomu
+Verb,Daily Actions,,😴,to sleep,neru
+Verb,Daily Actions,,🚶,to walk,aruku
+Adjective,Feelings,,😊,happy,ureshii
+Adjective,Feelings,,😢,sad,kanashii
+Adjective,Feelings,,😠,angry,okoraseru

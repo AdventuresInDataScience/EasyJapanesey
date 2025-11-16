@@ -1,0 +1,122 @@
+{
+  "vocabulary": [
+    {
+      "name": "Vocabulary",
+      "categories": [
+        {
+          "name": "Noun",
+          "subGroups": [
+            {
+              "name": "Food - Fruit",
+              "cards": [
+                {
+                  "id": "fruit_001",
+                  "romaji": "ringo",
+                  "english": "apple",
+                  "emoji": "🍎"
+                },
+                {
+                  "id": "fruit_002",
+                  "romaji": "mikan",
+                  "english": "orange",
+                  "emoji": "🍊"
+                },
+                {
+                  "id": "fruit_003",
+                  "romaji": "banana",
+                  "english": "banana",
+                  "emoji": "🍌"
+                },
+                {
+                  "id": "fruit_004",
+                  "romaji": "ichigo",
+                  "english": "strawberry",
+                  "emoji": "🍓"
+                },
+                {
+                  "id": "fruit_005",
+                  "romaji": "budou",
+                  "english": "grape",
+                  "emoji": "🍇"
+                }
+              ]
+            },
+            {
+              "name": "Food - Vegetables",
+              "cards": [
+                {
+                  "id": "veg_001",
+                  "romaji": "ninjin",
+                  "english": "carrot",
+                  "emoji": "🥕"
+                },
+                {
+                  "id": "veg_002",
+                  "romaji": "tomato",
+                  "english": "tomato",
+                  "emoji": "🍅"
+                },
+                {
+                  "id": "veg_003",
+                  "romaji": "kyuuri",
+                  "english": "cucumber",
+                  "emoji": "🥒"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Verb",
+          "subGroups": [
+            {
+              "name": "Daily Actions",
+              "cards": [
+                {
+                  "id": "verb_001",
+                  "romaji": "taberu",
+                  "english": "to eat",
+                  "emoji": "🍽️"
+                },
+                {
+                  "id": "verb_002",
+                  "romaji": "nomu",
+                  "english": "to drink",
+                  "emoji": "🥤"
+                },
+                {
+                  "id": "verb_003",
+                  "romaji": "neru",
+                  "english": "to sleep",
+                  "emoji": "😴"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Adjective",
+          "subGroups": [
+            {
+              "name": "Feelings",
+              "cards": [
+                {
+                  "id": "adj_001",
+                  "romaji": "ureshii",
+                  "english": "happy",
+                  "emoji": "😊"
+                },
+                {
+                  "id": "adj_002",
+                  "romaji": "kanashii",
+                  "english": "sad",
+                  "emoji": "😢"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
