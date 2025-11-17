@@ -1,0 +1,184 @@
+I'll create a comprehensive buildings and places CSV with various categories, and include the verb "shopping" as well.
+<artifact identifier="japanese-buildings-places-csv" type="application/vnd.ant.code" language="csv" title="Japanese Buildings & Places Flashcard CSV">
+category,level1,level2,emoji,english,romaji
+Noun,Buildings,Shops,🏪,shop,mise
+Noun,Buildings,Shops,🏬,store,sutoa
+Noun,Buildings,Shops,🛒,supermarket,sūpā
+Noun,Buildings,Shops,🏪,convenience store,konbini
+Noun,Buildings,Shops,🍞,bakery,panya
+Noun,Buildings,Shops,📚,bookstore,honya
+Noun,Buildings,Shops,💊,pharmacy,yakkyoku
+Noun,Buildings,Shops,🛍️,department store,depāto
+Noun,Buildings,Shops,🛒,grocery store,shokuryōhinten
+Noun,Buildings,Shops,💐,flower shop,hanaya
+Noun,Buildings,Shops,🥩,butcher,nikuya
+Noun,Buildings,Shops,🐟,fish market,sakanaya
+Noun,Buildings,Shops,🍎,fruit shop,kudamonoya
+Noun,Buildings,Shops,👕,clothing store,yōfukuya
+Noun,Buildings,Shops,👞,shoe store,kutsuya
+Noun,Buildings,Shops,💍,jewelry store,hōsekiten
+Noun,Buildings,Shops,📱,electronics store,denkiya
+Noun,Buildings,Shops,🪑,furniture store,kaguya
+Noun,Buildings,Shops,🎁,gift shop,omiyageya
+Noun,Buildings,Shops,🧸,toy store,omocha ya
+Noun,Buildings,Shops,📖,stationery store,bunbōguya
+Noun,Buildings,Shops,🛠️,hardware store,kanamonoya
+Noun,Buildings,Shops,🏬,shopping mall,shoppingu mōru
+Noun,Buildings,Shops,🎪,market,ichiba
+Noun,Buildings,Shops,🪟,shopping center,shoppingu sentā
+Noun,Buildings,Food,🍽️,restaurant,resutoran
+Noun,Buildings,Food,☕,cafe,kafe
+Noun,Buildings,Food,🍺,bar,bā
+Noun,Buildings,Food,🍜,ramen shop,rāmenya
+Noun,Buildings,Food,🍣,sushi restaurant,sushiya
+Noun,Buildings,Food,🍔,fast food,fasuto fūdo
+Noun,Buildings,Food,🍕,pizzeria,pizaya
+Noun,Buildings,Food,🥘,izakaya,izakaya
+Noun,Buildings,Food,🍵,tea house,ochaya
+Noun,Buildings,Food,🍰,cake shop,kēkiya
+Noun,Buildings,Food,🍦,ice cream shop,aisukurīmuya
+Noun,Buildings,Food,☕,coffee shop,kissaten
+Noun,Buildings,Food,🍱,bento shop,bentōya
+Noun,Buildings,Food,🏪,food court,fūdo kōto
+Noun,Buildings,Food,🥡,takeout,teikuauto
+Noun,Buildings,Civic,📚,library,toshokan
+Noun,Buildings,Civic,👮,police station,keisatsusho
+Noun,Buildings,Civic,🚒,fire station,shōbōsho
+Noun,Buildings,Civic,📮,post office,yūbinkyoku
+Noun,Buildings,Civic,🏛️,city hall,shiyakusho
+Noun,Buildings,Civic,⚖️,court,saibansho
+Noun,Buildings,Civic,🏛️,government office,yakusho
+Noun,Buildings,Civic,🏛️,town hall,kōkaido
+Noun,Buildings,Civic,🆔,ward office,kuyakusho
+Noun,Buildings,Civic,🏛️,embassy,taishikan
+Noun,Buildings,Civic,🏛️,museum,hakubutsukan
+Noun,Buildings,Civic,🎨,art gallery,bijutsukan
+Noun,Buildings,Civic,🎭,theater,gekijō
+Noun,Buildings,Civic,🎬,cinema,eigakan
+Noun,Buildings,Civic,🏞️,zoo,dōbutsuen
+Noun,Buildings,Civic,🌺,botanical garden,shokubutsuen
+Noun,Buildings,Civic,🏊,swimming pool,pūru
+Noun,Buildings,Civic,🏟️,stadium,sutajiamu
+Noun,Buildings,Civic,🏛️,community center,kōminkan
+Noun,Buildings,Work,🏢,office,jimusho
+Noun,Buildings,Work,🏭,factory,kōjō
+Noun,Buildings,Work,🏢,company,kaisha
+Noun,Buildings,Work,🏗️,construction site,kōji genba
+Noun,Buildings,Work,🏢,headquarters,honsha
+Noun,Buildings,Work,🏢,branch office,shisha
+Noun,Buildings,Work,📞,call center,kōru sentā
+Noun,Buildings,Work,🏢,corporate building,bijinessu biru
+Noun,Buildings,Work,🏭,warehouse,sōko
+Noun,Buildings,Work,🏢,studio,sutajio
+Noun,Buildings,Work,🏢,workshop,kōbō
+Noun,Buildings,Work,🚜,farm,nōjō
+Noun,Buildings,Education,🏫,school,gakkō
+Noun,Buildings,Education,🎓,university,daigaku
+Noun,Buildings,Education,🏫,high school,kōkō
+Noun,Buildings,Education,🏫,junior high,chūgakkō
+Noun,Buildings,Education,🏫,elementary school,shōgakkō
+Noun,Buildings,Education,👶,kindergarten,yōchien
+Noun,Buildings,Education,👶,nursery,hoikuen
+Noun,Buildings,Education,📖,cram school,juku
+Noun,Buildings,Education,🎓,college,tanki daigaku
+Noun,Buildings,Education,📚,academy,gakuin
+Noun,Buildings,Education,🏫,vocational school,senmon gakkō
+Noun,Buildings,Education,🎓,graduate school,daigakuin
+Noun,Buildings,Education,🌍,language school,gogaku gakkō
+Noun,Buildings,Health,🏥,hospital,byōin
+Noun,Buildings,Health,🏥,clinic,kurinikku
+Noun,Buildings,Health,💊,pharmacy,yakkyoku
+Noun,Buildings,Health,🦷,dentist,haisha
+Noun,Buildings,Health,👁️,eye doctor,gankai
+Noun,Buildings,Health,💉,doctor's office,shinryōjo
+Noun,Buildings,Health,🧪,laboratory,kensakushitsu
+Noun,Buildings,Health,🚑,emergency room,kyūkyū shitsu
+Noun,Buildings,Health,🏥,medical center,iryō sentā
+Noun,Buildings,Health,💆,massage parlor,massāji
+Noun,Buildings,Health,💇,hair salon,biyōin
+Noun,Buildings,Health,💇,barber,tokoya
+Noun,Buildings,Transport,🚉,station,eki
+Noun,Buildings,Transport,✈️,airport,kūkō
+Noun,Buildings,Transport,🚌,bus stop,basu tei
+Noun,Buildings,Transport,🚇,subway station,chikatetsu no eki
+Noun,Buildings,Transport,🚂,train station,tetsudō eki
+Noun,Buildings,Transport,🅿️,parking lot,chūshajō
+Noun,Buildings,Transport,🚕,taxi stand,takushī noriba
+Noun,Buildings,Transport,⛽,gas station,gasorinsutando
+Noun,Buildings,Transport,🚢,port,minato
+Noun,Buildings,Transport,🚢,harbor,kōwan
+Noun,Buildings,Transport,🚏,bus terminal,basu tāminaru
+Noun,Buildings,Transport,🚉,platform,hōmu
+Noun,Buildings,Transport,🎫,ticket office,kippu uriba
+Noun,Buildings,Leisure,🎬,cinema,eigakan
+Noun,Buildings,Leisure,🎭,theater,gekijō
+Noun,Buildings,Leisure,🎤,karaoke,karaoke
+Noun,Buildings,Leisure,🏟️,arena,arēna
+Noun,Buildings,Leisure,🎪,amusement park,yūenchi
+Noun,Buildings,Leisure,🎰,arcade,gēmu sentā
+Noun,Buildings,Leisure,🎳,bowling alley,bōringujō
+Noun,Buildings,Leisure,💪,gym,jimu
+Noun,Buildings,Leisure,🏋️,fitness center,fittonesu kurabu
+Noun,Buildings,Leisure,🏊,sports center,supōtsu sentā
+Noun,Buildings,Leisure,⛳,golf course,gorufu kōsu
+Noun,Buildings,Leisure,🎾,tennis court,tenisu kōto
+Noun,Buildings,Leisure,🎨,art studio,atorie
+Noun,Buildings,Leisure,📚,bookstore cafe,hon kafe
+Noun,Buildings,Leisure,🎮,manga cafe,manga kissa
+Noun,Buildings,Leisure,♨️,hot spring,onsen
+Noun,Buildings,Leisure,🛁,public bath,sentō
+Noun,Buildings,Leisure,🎪,club,kurabu
+Noun,Buildings,Leisure,🎵,live house,raibu hausu
+Noun,Buildings,Accommodation,🏨,hotel,hoteru
+Noun,Buildings,Accommodation,🏨,inn,ryokan
+Noun,Buildings,Accommodation,🏠,house,ie
+Noun,Buildings,Accommodation,🏢,apartment,apāto
+Noun,Buildings,Accommodation,🏢,mansion,manshon
+Noun,Buildings,Accommodation,🏠,home,uchi
+Noun,Buildings,Accommodation,🏚️,dormitory,ryō
+Noun,Buildings,Accommodation,🛏️,guest house,gesuto hausu
+Noun,Buildings,Accommodation,🏕️,hostel,hosuteru
+Noun,Buildings,Accommodation,🏢,condominium,kondominiyamu
+Noun,Buildings,Accommodation,🏡,villa,bessō
+Noun,Buildings,Accommodation,🏘️,housing complex,danchi
+Noun,Buildings,Financial,🏦,bank,ginkō
+Noun,Buildings,Financial,🏧,ATM,ē tī emu
+Noun,Buildings,Financial,💳,credit union,shinkin
+Noun,Buildings,Financial,💱,currency exchange,ryōgaejo
+Noun,Buildings,Financial,💼,insurance company,hoken gaisha
+Noun,Buildings,Financial,📊,stock exchange,shōken torihikijo
+Noun,Buildings,Religious,⛩️,shrine,jinja
+Noun,Buildings,Religious,🛕,temple,otera
+Noun,Buildings,Religious,⛪,church,kyōkai
+Noun,Buildings,Religious,🕌,mosque,mosuku
+Noun,Buildings,Religious,🛕,Buddhist temple,bukkyō jiin
+Noun,Buildings,Religious,⛩️,Shinto shrine,shintō jinja
+Noun,Buildings,Religious,🙏,prayer hall,reidō
+Noun,Buildings,Other,🏢,building,tatemono
+Noun,Buildings,Other,🏗️,tower,tō
+Noun,Buildings,Other,🏰,castle,shiro
+Noun,Buildings,Other,🏛️,monument,kinenhi
+Noun,Buildings,Other,⛲,fountain,funsui
+Noun,Buildings,Other,🚻,restroom,toire
+Noun,Buildings,Other,🅿️,parking garage,chūsha biru
+Noun,Buildings,Other,🏗️,skyscraper,kōsō biru
+Noun,Buildings,Other,🏢,elevator,erebētā
+Noun,Buildings,Other,🪜,stairs,kaidan
+Noun,Buildings,Other,🚪,entrance,iriguchi
+Noun,Buildings,Other,🚪,exit,deguchi
+Noun,Buildings,Other,🪟,window,mado
+Noun,Buildings,Other,🚪,door,doa
+Noun,Buildings,Other,🛗,escalator,esukarētā
+Noun,Buildings,Other,🏛️,lobby,robī
+Noun,Buildings,Other,🏢,floor,kai
+Noun,Buildings,Other,🛎️,reception,uketsuke
+Verb,Activities,Shopping,🛍️,shopping,kaimono
+Verb,Activities,Shopping,🛒,shop,kaimono suru
+Verb,Activities,Shopping,💳,buy,kau
+Verb,Activities,Shopping,💰,sell,uru
+Verb,Activities,Shopping,💵,pay,shiharau
+Verb,Activities,Shopping,🏷️,bargain,nebiki kōshō suru
+Verb,Activities,Shopping,👀,browse,mite mawaru
+Verb,Activities,Shopping,🔍,look for,sagasu
+Verb,Activities,Shopping,👜,carry,hakobu
+Verb,Activities,Shopping,💳,purchase,kōnyū suru

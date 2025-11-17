@@ -1,0 +1,123 @@
+category,level1,level2,emoji,english,romaji
+Noun,Food,Fruit,🍎,apple,ringo
+Noun,Food,Fruit,🍊,orange,mikan
+Noun,Food,Fruit,🍌,banana,banana
+Noun,Food,Fruit,🍓,strawberry,ichigo
+Noun,Food,Fruit,🍇,grape,budou
+Noun,Food,Fruit,🍑,peach,momo
+Noun,Food,Fruit,🍉,watermelon,suika
+Noun,Food,Fruit,🍈,melon,meron
+Noun,Food,Fruit,🍐,pear,nashi
+Noun,Food,Fruit,🍒,cherry,sakuranbo
+Noun,Food,Fruit,🍋,lemon,remon
+Noun,Food,Fruit,🥝,kiwi,kiwi
+Noun,Food,Fruit,🍍,pineapple,painappuru
+Noun,Food,Fruit,🥭,mango,mango
+Noun,Food,Fruit,🍏,green apple,ao-ringo
+Noun,Food,Fruit,🫐,blueberry,burūberī
+Noun,Food,Vegetable,🥕,carrot,ninjin
+Noun,Food,Vegetable,🍅,tomato,tomato
+Noun,Food,Vegetable,🥒,cucumber,kyuuri
+Noun,Food,Vegetable,🧅,onion,tamanegi
+Noun,Food,Vegetable,🥔,potato,jagaimo
+Noun,Food,Vegetable,🌽,corn,tōmorokoshi
+Noun,Food,Vegetable,🥬,lettuce,retasu
+Noun,Food,Vegetable,🥦,broccoli,burokkori
+Noun,Food,Vegetable,🫑,green pepper,pīman
+Noun,Food,Vegetable,🍆,eggplant,nasu
+Noun,Food,Vegetable,🍄,mushroom,kinoko
+Noun,Food,Vegetable,🥗,salad,sarada
+Noun,Food,Vegetable,🌶️,chili pepper,tōgarashi
+Noun,Food,Vegetable,🥜,peanut,piinattsu
+Noun,Food,Vegetable,🫛,peas,endō
+Noun,Food,Vegetable,🥑,avocado,abokado
+Noun,Food,Vegetable,🧄,garlic,ninniku
+Noun,Food,Vegetable,🫚,ginger,shōga
+Noun,Food,Vegetable,🥕,radish,daikon
+Noun,Food,Vegetable,🥬,cabbage,kyabetsu
+Noun,Food,Vegetable,🥒,spinach,hōrensō
+Noun,Food,Meals,🍚,rice,gohan
+Noun,Food,Meals,🍜,ramen,rāmen
+Noun,Food,Meals,🍱,bento,bentō
+Noun,Food,Meals,🍛,curry,karē
+Noun,Food,Meals,🍙,rice ball,onigiri
+Noun,Food,Meals,🍣,sushi,sushi
+Noun,Food,Meals,🍝,pasta,pasuta
+Noun,Food,Meals,🍕,pizza,piza
+Noun,Food,Meals,🥪,sandwich,sandoitchi
+Noun,Food,Meals,🌮,taco,tako
+Noun,Food,Meals,🍔,hamburger,hanbāgā
+Noun,Food,Meals,🍟,french fries,furaido potato
+Noun,Food,Meals,🥟,dumpling,gyōza
+Noun,Food,Meals,🍲,hot pot,nabe
+Noun,Food,Meals,🥘,paella,paeria
+Noun,Food,Meals,🍳,fried egg,medamayaki
+Noun,Food,Meals,🥙,kebab,kebabu
+Noun,Food,Meals,🌭,hot dog,hotto doggu
+Noun,Food,Meals,🥗,salad,sarada
+Noun,Food,Meals,🍖,meat on bone,niku
+Noun,Food,Meals,🥩,steak,sutēki
+Noun,Food,Meals,🍢,oden,oden
+Noun,Food,Meals,🍡,dango,dango
+Noun,Food,Meals,🥮,mooncake,geppei
+Noun,Food,Meals,🍧,shaved ice,kakigōri
+Noun,Food,Meals,🍥,fish cake,kamaboko
+Noun,Food,Meals,🥠,fortune cookie,fōchun kukkī
+Noun,Food,Meals,🥡,takeout box,teikuauto
+Noun,Food,Meals,🍴,fork and knife,fōku to naifu
+Noun,Food,Dessert,🍰,cake,kēki
+Noun,Food,Dessert,🍪,cookie,kukkī
+Noun,Food,Dessert,🍩,donut,dōnatsu
+Noun,Food,Dessert,🍫,chocolate,chokorēto
+Noun,Food,Dessert,🍬,candy,kyandī
+Noun,Food,Dessert,🍭,lollipop,kyandī
+Noun,Food,Dessert,🍮,pudding,purin
+Noun,Food,Dessert,🎂,birthday cake,bāsudē kēki
+Noun,Food,Dessert,🧁,cupcake,kappukēki
+Noun,Food,Dessert,🥧,pie,pai
+Noun,Food,Dessert,🍨,ice cream,aisukurīmu
+Noun,Food,Dessert,🍦,soft serve,sofuto kurīmu
+Noun,Food,Dessert,🍧,shaved ice,kakigōri
+Noun,Food,Dessert,🍡,dango,dango
+Noun,Food,Dessert,🍘,rice cracker,senbei
+Noun,Food,Dessert,🍥,mochi,mochi
+Noun,Food,Dessert,🥮,mooncake,geppei
+Noun,Food,Dessert,🍯,honey,hachimitsu
+Noun,Food,Dessert,🧇,waffle,waffuru
+Noun,Food,Dessert,🥞,pancake,pankēki
+Noun,Food,Mealtime,🌅,breakfast,chōshoku
+Noun,Food,Mealtime,🌞,lunch,chūshoku
+Noun,Food,Mealtime,🌙,dinner,yūshoku
+Noun,Food,Mealtime,☕,morning,asa
+Noun,Food,Mealtime,🌆,evening,yoru
+Noun,Food,Mealtime,🍽️,meal,shokuji
+Noun,Food,Mealtime,🥣,breakfast,asagohan
+Noun,Food,Mealtime,🍱,lunch,hirugohan
+Noun,Food,Mealtime,🍜,dinner,bangohan
+Noun,Food,Mealtime,🥪,snack,oyatsu
+Noun,Food,Mealtime,🍵,tea time,ochakai
+Noun,Food,Mealtime,🌃,midnight snack,yashoku
+Noun,Food,Mealtime,🍴,eating,taberu
+Noun,Food,Mealtime,🥤,drinking,nomu
+Noun,Food,Meat,🥩,beef,gyūniku
+Noun,Food,Meat,🐷,pork,butaniku
+Noun,Food,Meat,🐔,chicken,toriniku
+Noun,Food,Meat,🦆,duck,kamo
+Noun,Food,Meat,🐟,fish,sakana
+Noun,Food,Meat,🦐,shrimp,ebi
+Noun,Food,Meat,🦀,crab,kani
+Noun,Food,Meat,🦑,squid,ika
+Noun,Food,Meat,🐙,octopus,tako
+Noun,Food,Meat,🦞,lobster,robusutā
+Noun,Food,Meat,🥓,bacon,bēkon
+Noun,Food,Meat,🌭,sausage,sōsēji
+Noun,Food,Meat,🍗,chicken leg,chikin
+Noun,Food,Meat,🥩,steak,sutēki
+Noun,Food,Meat,🍖,meat,niku
+Noun,Food,Meat,🐑,lamb,ramu
+Noun,Food,Meat,🦴,bone,hone
+Noun,Food,Meat,🥚,egg,tamago
+Noun,Food,Meat,🍳,fried egg,medamayaki
+Noun,Food,Meat,🐠,tuna,maguro
+Noun,Food,Meat,🦈,salmon,sake
+Noun,Food,Meat,🐡,mackerel,saba

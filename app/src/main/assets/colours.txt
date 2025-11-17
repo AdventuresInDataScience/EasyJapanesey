@@ -1,0 +1,78 @@
+category,level1,level2,emoji,english,romaji
+Adjective,Colours,Basic,🔴,red,aka
+Adjective,Colours,Basic,🔵,blue,ao
+Adjective,Colours,Basic,🟡,yellow,kiiro
+Adjective,Colours,Basic,🟢,green,midori
+Adjective,Colours,Basic,🟠,orange,orenji
+Adjective,Colours,Basic,🟣,purple,murasaki
+Adjective,Colours,Basic,🟤,brown,chairo
+Adjective,Colours,Basic,⚫,black,kuro
+Adjective,Colours,Basic,⚪,white,shiro
+Adjective,Colours,Basic,🩷,pink,pinku
+Adjective,Colours,Basic,🩶,gray,haiiro
+Adjective,Colours,Basic,💛,gold,kin'iro
+Adjective,Colours,Basic,🩵,silver,gin'iro
+Adjective,Colours,Basic,🤎,beige,bēju
+Adjective,Colours,Basic,💚,emerald,emerarudo
+Adjective,Colours,Light,🌸,light pink,usui pinku
+Adjective,Colours,Light,💙,light blue,mizuiro
+Adjective,Colours,Light,💛,light yellow,usui kiiro
+Adjective,Colours,Light,💚,light green,usui midori
+Adjective,Colours,Light,🟨,pale yellow,usuki iro
+Adjective,Colours,Light,🤍,pure white,masshiro
+Adjective,Colours,Light,🩵,sky blue,sorairo
+Adjective,Colours,Light,💗,pale pink,usubeni
+Adjective,Colours,Light,🟦,pastel blue,pasuteruburū
+Adjective,Colours,Light,🌼,cream,kurīmu iro
+Adjective,Colours,Light,💫,ivory,aibori
+Adjective,Colours,Dark,❤️,dark red,aka kuroi
+Adjective,Colours,Dark,💙,dark blue,kon
+Adjective,Colours,Dark,💚,dark green,moyogi
+Adjective,Colours,Dark,🖤,jet black,makkuro
+Adjective,Colours,Dark,🤎,dark brown,koi chairo
+Adjective,Colours,Dark,💜,dark purple,koi murasaki
+Adjective,Colours,Dark,🟫,chocolate,chokorēto iro
+Adjective,Colours,Dark,💙,navy blue,neibī
+Adjective,Colours,Dark,🖤,charcoal,sumiro
+Adjective,Colours,Dark,🌑,midnight,mayonaka
+Adjective,Colours,Bright,❤️,bright red,akaaka
+Adjective,Colours,Bright,💙,bright blue,aoi
+Adjective,Colours,Bright,💛,bright yellow,kiiroi
+Adjective,Colours,Bright,💚,bright green,midori iro
+Adjective,Colours,Bright,🧡,vivid orange,azayaka na orenji
+Adjective,Colours,Bright,💗,hot pink,hotto pinku
+Adjective,Colours,Bright,💜,vivid purple,azayaka na murasaki
+Adjective,Colours,Bright,✨,brilliant,kagayaku
+Adjective,Colours,Bright,🌟,shiny,hikaru
+Adjective,Colours,Bright,💫,sparkling,kirakira
+Adjective,Colours,Bright,🔆,neon,neon
+Adjective,Colours,Shades,🌈,rainbow,niji
+Adjective,Colours,Shades,🎨,color,iro
+Adjective,Colours,Shades,🩷,rose,bara iro
+Adjective,Colours,Shades,💙,turquoise,tākoizu
+Adjective,Colours,Shades,💜,violet,sumire iro
+Adjective,Colours,Shades,💚,lime,raimu
+Adjective,Colours,Shades,🤎,tan,taniro
+Adjective,Colours,Shades,🩶,slate,surēto
+Adjective,Colours,Shades,💙,teal,tīru
+Adjective,Colours,Shades,💛,amber,kohaku iro
+Adjective,Colours,Shades,💜,indigo,ai iro
+Adjective,Colours,Shades,💚,jade,hisui iro
+Adjective,Colours,Shades,🤍,pearl,shinju iro
+Adjective,Colours,Shades,🤎,copper,dō iro
+Adjective,Colours,Shades,🩶,bronze,seidō iro
+Adjective,Colours,Shades,🩷,coral,sango iro
+Adjective,Colours,Shades,💜,lavender,rabendā
+Adjective,Colours,Shades,🤎,maroon,enji iro
+Adjective,Colours,Shades,💙,cyan,shian
+Adjective,Colours,Shades,💛,lemon,remon iro
+Adjective,Colours,Patterns,⚫⚪,striped,shimamoyo
+Adjective,Colours,Patterns,🔵⚪,polka dot,mizutama
+Adjective,Colours,Patterns,🟦⬜,checkered,chekku
+Adjective,Colours,Patterns,🌈,multicolored,niji iro
+Adjective,Colours,Patterns,✨,glittery,kira kira
+Adjective,Colours,Patterns,🎨,patterned,moyō
+Adjective,Colours,Patterns,🌟,metallic,kinzoku
+Adjective,Colours,Patterns,💎,transparent,tōmei
+Adjective,Colours,Patterns,🌫️,opaque,fukōmei
+Adjective,Colours,Patterns,🌊,gradient,guradiēshon

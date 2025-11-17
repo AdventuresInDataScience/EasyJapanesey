@@ -1,0 +1,357 @@
+category,level1,level2,emoji,english,romaji
+Verb,Stage,Beginning,▶️,start,hajimaru
+Verb,Stage,Beginning,🌱,begin,hajimeru
+Verb,Stage,Beginning,👁️,appear,arawareru
+Verb,Stage,Beginning,📈,grow,sodatsu
+Verb,Stage,Beginning,🔄,become,naru
+Verb,Stage,Beginning,📝,prepare,junbi suru
+Verb,Stage,Beginning,⏰,be late,okureru
+Verb,Stage,Continuation,⏩,continue,tsuzuku
+Verb,Stage,Continuation,⏳,last,tsuzuku
+Verb,Stage,Continuation,⏱️,take time,kakaru
+Verb,Stage,Continuation,⏸️,delay,okuraseru
+Verb,Stage,Continuation,📆,put off,enki suru
+Verb,Stage,Continuation,🔁,repeat,kurikaesu
+Verb,Stage,Continuation,▶️,resume,saikai suru
+Verb,Stage,End,🏁,finish,owaru
+Verb,Stage,End,✅,complete,kanryō suru
+Verb,Stage,End,⏸️,break,chūdan suru
+Verb,Stage,End,⏸️,interrupt,saegiru
+Verb,Stage,End,⏯️,suspend,teishi suru
+Verb,Stage,End,⏹️,cease,yameru
+Verb,Stage,End,🛑,stop,tomeru
+Verb,Movement,Ways,🚶,move,ugoku
+Verb,Movement,Ways,🛑,stop,tomaru
+Verb,Movement,Ways,🚶,go,iku
+Verb,Movement,Ways,⛸️,slide,suberu
+Verb,Movement,Ways,⚽,roll,korogaru
+Verb,Movement,Ways,↩️,turn,magaru
+Verb,Movement,Ways,🪢,bend,mageru
+Verb,Movement,Ways,👋,wave,furu
+Verb,Movement,Ways,🤝,shake,yurasu
+Verb,Movement,Ways,⛷️,swing,yureru
+Verb,Movement,Ways,🏊,swim,oyogu
+Verb,Movement,Ways,🔄,rotate,kaiten suru
+Verb,Movement,Ways,⛷️,ski,sukī suru
+Verb,Movement,Ways,⛸️,skate,sukēto suru
+Verb,Movement,Upward,⬆️,raise,ageru
+Verb,Movement,Upward,📈,lift,mochi ageru
+Verb,Movement,Upward,⬆️,rise,agaru
+Verb,Movement,Upward,🧗,climb,noboru
+Verb,Movement,Upward,⛰️,ascend,tōjō suru
+Verb,Movement,Downward,⬇️,lower,sageru
+Verb,Movement,Downward,⬇️,sink,shizumu
+Verb,Movement,Downward,💧,drop,otosu
+Verb,Movement,Downward,🍂,fall,ochiru
+Verb,Movement,Downward,⬇️,descend,kudaru
+Verb,Movement,Speed,⏰,hurry,isogu
+Verb,Movement,Speed,✈️,fly,tobu
+Verb,Movement,Speed,🏇,ride,noru
+Verb,Movement,Speed,🏃,run,hashiru
+Verb,Movement,Speed,🐌,creep,hau
+Verb,Movement,Speed,🐌,crawl,yotsunbai de aruku
+Verb,Movement,Speed,🚶,walk,aruku
+Verb,Movement,Speed,⚡,speed up,kasoku suru
+Verb,Movement,Speed,🚗,brake,burēki wo kakeru
+Verb,Movement,Speed,🐢,slow down,okuraseru
+Verb,Movement,Pursuit,🏃,pursue,tsuiseki suru
+Verb,Movement,Pursuit,🚗,drive,unten suru
+Verb,Movement,Pursuit,🏃‍♂️,catch up,oitsuku
+Verb,Movement,Pursuit,🏆,surpass,koeru
+Verb,Movement,Pursuit,👋,leave behind,ato ni nokosu
+Verb,Movement,Pursuit,🤲,catch,tsukamaru
+Verb,Movement,Pursuit,🏃‍♀️,escape,nigeru
+Verb,Movement,Pursuit,🏃,flee,tōbō suru
+Verb,Movement,Pursuit,🚫,avoid,sakeru
+Verb,Movement,Cycle,🚪,depart,shuppatsu suru
+Verb,Movement,Cycle,🚶,leave,deru
+Verb,Movement,Cycle,🚪,go out,dekakeru
+Verb,Movement,Cycle,📈,advance,susumu
+Verb,Movement,Cycle,🤝,meet,au
+Verb,Movement,Cycle,👥,come across,deaukau
+Verb,Movement,Cycle,🚶,follow,shitagau
+Verb,Movement,Cycle,🚶,go along,~ni sotte iku
+Verb,Movement,Cycle,🚶,cross,wataru
+Verb,Movement,Cycle,💥,run into,butsu karu
+Verb,Movement,Cycle,👋,pass,tōrisugiru
+Verb,Movement,Cycle,↩️,turn,magaru
+Verb,Movement,Cycle,🏁,arrive,tsuku
+Verb,Movement,Cycle,👋,come,kuru
+Verb,Movement,Cycle,🎯,reach,todoku
+Verb,Movement,Cycle,🎯,attain,tasseisuru
+Verb,Movement,Cycle,↩️,return,modoru
+Verb,Movement,Cycle,🚪,enter,hairu
+Verb,Movement,Cycle,🚪,go in,naka ni hairu
+Verb,Movement,Water,🌊,flow,nagareru
+Verb,Movement,Water,🏊,swim,oyogu
+Verb,Movement,Water,🛟,float,ukabu
+Verb,Movement,Water,🚣,row,kogu
+Verb,Movement,Water,⛵,sail,kōkai suru
+Verb,Movement,Water,🤿,dive,moguru
+Verb,Movement,Water,💦,plunge,tobikomi
+Verb,Movement,Water,⬇️,sink,shizumu
+Verb,Movement,Water,💀,drown,oboreru
+Verb,Movement,Water,⬆️,emerge,ukabi agaru
+Verb,Everyday,Live,👶,bear,umu
+Verb,Everyday,Live,👶,give birth,shussan suru
+Verb,Everyday,Live,👶,be born,umareru
+Verb,Everyday,Live,🏠,live,kurasu
+Verb,Everyday,Live,💚,be alive,ikite iru
+Verb,Everyday,Live,😮‍💨,breathe,kokyū suru
+Verb,Everyday,Live,📛,name,namae wo tsukeru
+Verb,Everyday,Live,💍,marry,kekkon suru
+Verb,Everyday,Live,🏡,dwell,sumu
+Verb,Everyday,Work,💼,work,hataraku
+Verb,Everyday,Work,💼,take a job,shūshoku suru
+Verb,Everyday,Work,🤝,employ,koyō suru
+Verb,Everyday,Work,👋,dismiss,kaiko suru
+Verb,Everyday,Work,💰,earn,kasegu
+Verb,Everyday,Work,💵,pay,harau
+Verb,Everyday,Work,💸,spend,tsukau
+Verb,Everyday,Work,💰,economize,setsuyaku suru
+Verb,Everyday,Work,🏦,save,tameru
+Verb,Everyday,Work,💸,waste,muda ni suru
+Verb,Everyday,Work,😴,rest,yasumu
+Verb,Everyday,Eat,🍽️,eat,taberu
+Verb,Everyday,Eat,😋,be hungry,onaka ga suita
+Verb,Everyday,Eat,🍼,feed,tabeaseru
+Verb,Everyday,Eat,😬,bite,kamu
+Verb,Everyday,Eat,😋,chew,kamu
+Verb,Everyday,Eat,😮,swallow,nomikomu
+Verb,Everyday,Eat,🥤,drink,nomu
+Verb,Everyday,Eat,😓,be thirsty,nodo ga kawaita
+Verb,Everyday,Eat,🍳,cook,ryōri suru
+Verb,Everyday,Eat,🍰,bake,yaku
+Verb,Everyday,Eat,🍳,fry,itameru
+Verb,Everyday,Eat,♨️,boil,wakasu
+Verb,Everyday,Eat,🍲,stew,niru
+Verb,Everyday,Dress,👔,wear,kiru
+Verb,Everyday,Dress,👗,dress,kigaeru
+Verb,Everyday,Dress,👕,put on,kiru
+Verb,Everyday,Dress,👕,take off,nugu
+Verb,Everyday,Dress,🧺,wash,arau
+Verb,Everyday,Dress,🧺,launder,sentaku suru
+Verb,Everyday,Dress,👗,iron,airon wo kakeru
+Verb,Everyday,Dress,📝,order,chūmon suru
+Verb,Everyday,Dress,🪡,sew,nuu
+Verb,Everyday,Dress,✂️,cut out,kiru
+Verb,Everyday,Dress,👔,fit,au
+Verb,Everyday,Dress,👗,suit,niau
+Verb,Everyday,Dress,✨,be in fashion,hayatte iru
+Verb,Everyday,Dress,📉,be out of fashion,hayattenai
+Verb,Everyday,Sleep,😴,sleep,neru
+Verb,Everyday,Sleep,😴,fall asleep,nemuru
+Verb,Everyday,Sleep,🛏️,go to bed,neru
+Verb,Everyday,Sleep,⏰,wake,okiru
+Verb,Everyday,Sleep,🛏️,get up,okiru
+Verb,Everyday,Sleep,🛏️,get out of bed,beddo kara deru
+Verb,Everyday,Sleep,🚿,wash oneself,kao wo arau
+Verb,Everyday,Sleep,🦷,brush teeth,ha wo migaku
+Verb,Everyday,Sleep,💇,comb hair,kami wo tokasu
+Verb,Everyday,Sleep,🧖,dry oneself,karada wo fuku
+Verb,Everyday,Sleep,🪒,shave,hige wo soru
+Verb,Everyday,Sleep,💄,make up,kesho suru
+Verb,Everyday,Sleep,💇,do hair,kami wo setto suru
+Verb,Everyday,Sleep,💇,perm,pāma wo kakeru
+Verb,Everyday,Illness,🤒,be ill,byōki da
+Verb,Everyday,Illness,😣,ache,itamu
+Verb,Everyday,Illness,🤧,catch cold,kaze wo hiku
+Verb,Everyday,Illness,😷,cough,seki wo suru
+Verb,Everyday,Illness,🤧,sneeze,kushami wo suru
+Verb,Everyday,Illness,😊,recover,kaifuku suru
+Verb,Everyday,Illness,💊,treat,chiryō suru
+Verb,Everyday,Illness,✅,cure,naosu
+Verb,Everyday,Illness,🩹,heal,iyasu
+Verb,Everyday,Illness,😔,weaken,yowaru
+Verb,Everyday,Illness,💀,die,shinu
+Verb,Everyday,Illness,⚰️,bury,hōmuru
+Verb,Feeling,Good,❤️,love,ai suru
+Verb,Feeling,Good,💕,fall in love,koi ni ochiru
+Verb,Feeling,Good,😊,like,suki da
+Verb,Feeling,Good,👍,prefer,konomu
+Verb,Feeling,Good,🙏,respect,sonkei suru
+Verb,Feeling,Good,⭐,esteem,tattō suru
+Verb,Feeling,Good,👏,praise,homeru
+Verb,Feeling,Good,😍,admire,kanshin suru
+Verb,Feeling,Good,🥰,adore,aishite yamanu
+Verb,Feeling,Bad,😡,hate,nikumu
+Verb,Feeling,Bad,😒,dislike,kirai da
+Verb,Feeling,Bad,🙈,disregard,mushi suru
+Verb,Feeling,Bad,😠,quarrel,kenka suru
+Verb,Feeling,Bad,😤,scold,shikaru
+Verb,Feeling,Bad,😔,reproach,hinan suru
+Verb,Feeling,Bad,👎,accuse,semeru
+Verb,Feeling,Bad,😒,envy,urayamu
+Verb,Feeling,Grief,😢,suffer,kurushimu
+Verb,Feeling,Grief,😣,endure,taeru
+Verb,Feeling,Grief,💪,bear,taekomu
+Verb,Feeling,Grief,🦾,stand,taekomu
+Verb,Feeling,Grief,🏳️,give up,akirameru
+Verb,Feeling,Grief,🏳️,surrender,kōsan suru
+Verb,Feeling,Grief,😢,complain,fuhei wo iu
+Verb,Feeling,Grief,😭,weep,naku
+Verb,Feeling,Grief,😭,cry,naku
+Verb,Feeling,Grief,😰,worry,shinpai suru
+Verb,Feeling,Grief,🤗,comfort,nagusameru
+Verb,Feeling,Grief,😌,calm down,ochitsuku
+Verb,Feeling,Joy,😄,laugh,warau
+Verb,Feeling,Joy,😊,smile,hohoemu
+Verb,Feeling,Joy,🎉,rejoice,yorokobu
+Verb,Feeling,Joy,😌,enjoy,tanoshimu
+Verb,Feeling,Pride,😎,be proud,hokori ni omou
+Verb,Feeling,Pride,😏,boast,jiman suru
+Verb,Feeling,Pride,😤,put on airs,kidoru
+Verb,Feeling,Pride,😠,be insolent,zōchō da
+Verb,Feeling,Pride,😤,be impudent,atsukamashii
+Verb,Feeling,Modesty,😊,be modest,kenkyo da
+Verb,Feeling,Modesty,😳,be shy,hazukashigaru
+Verb,Feeling,Confidence,🙏,hope,kibō suru
+Verb,Feeling,Confidence,🙏,believe,shinjiru
+Verb,Feeling,Confidence,🤝,rely,tayoru
+Verb,Feeling,Confidence,✅,be sure,tashika da
+Verb,Feeling,Doubt,🤔,doubt,utagau
+Verb,Feeling,Doubt,🤷,hesitate,tamerau
+Verb,Feeling,Doubt,🤨,suspect,ayashimu
+Verb,Feeling,Diligence,💪,care,ki wo tsukeru
+Verb,Feeling,Diligence,💯,try best,zenryoku wo tsukusu
+Verb,Feeling,Laziness,😴,be lazy,namakeru
+Verb,Feeling,Laziness,🙈,neglect,nageru
+Verb,Feeling,Laziness,😴,shirk,saboru
+Verb,Feeling,Laziness,😫,be tired,tsukareru
+Verb,Feeling,Laziness,😩,get tired,tsukarete kuru
+Verb,Feeling,Emotion,😲,excite,kōfun saseru
+Verb,Feeling,Emotion,😰,agitate,dōyō saseru
+Verb,Feeling,Emotion,😢,move,kandō saseru
+Verb,Feeling,Emotion,😱,frighten,odosu
+Verb,Feeling,Emotion,😨,fear,osoreru
+Verb,Feeling,Emotion,😮,surprise,odoroku
+Verb,Feeling,Emotion,😲,astonish,bikkuri saseru
+Verb,Feeling,Emotion,🤯,amaze,kyōtan saseru
+Verb,Feeling,Emotion,😔,hurt,kizutsukeru
+Verb,Feeling,Emotion,😠,offend,fuyukai ni suru
+Verb,Feeling,Emotion,🗡️,wound,kizutsukeru
+Verb,Feeling,Emotion,😡,be angry,okoru
+Verb,Perception,See,👀,see,miru
+Verb,Perception,See,👁️,look,mimoru
+Verb,Perception,See,👓,watch,mitsumeru
+Verb,Perception,See,🔍,observe,kansatsu suru
+Verb,Perception,See,👀,notice,kizuku
+Verb,Perception,See,🔍,examine,shiruberu
+Verb,Perception,See,🔎,inspect,kensa suru
+Verb,Perception,See,👁️,view,nagameru
+Verb,Perception,See,👀,glimpse,chira to miru
+Verb,Perception,See,🔦,spot,mitsukeru
+Verb,Perception,Hear,👂,hear,kiku
+Verb,Perception,Hear,👂,listen,kiku
+Verb,Perception,Hear,🎧,listen to,kiku
+Verb,Perception,Touch,🤚,touch,sawaru
+Verb,Perception,Touch,🤲,feel,kanjiru
+Verb,Perception,Touch,👋,stroke,naderu
+Verb,Perception,Touch,🫴,handle,atsukai
+Verb,Perception,Touch,🤝,grasp,tsukamu
+Verb,Perception,Smell,👃,smell,nioi ga suru
+Verb,Perception,Smell,🌹,sniff,kagu
+Verb,Perception,Taste,👅,taste,aji wo miru
+Verb,Perception,Taste,😋,savor,ajiwau
+Verb,Working,Think,🤔,think,kangaeru
+Verb,Working,Think,💭,consider,kosatsu suru
+Verb,Working,Think,🧠,reason,suiron suru
+Verb,Working,Think,💡,realize,satoru
+Verb,Working,Think,🎯,understand,rikai suru
+Verb,Working,Think,📖,know,shiru
+Verb,Working,Think,🧠,remember,oboeru
+Verb,Working,Think,🤷,forget,wasureru
+Verb,Working,Think,💭,imagine,sōzō suru
+Verb,Working,Think,💡,recognize,mitomeru
+Verb,Working,Learn,📚,learn,manabu
+Verb,Working,Learn,📖,study,benkyō suru
+Verb,Working,Learn,👨‍🏫,teach,oshieru
+Verb,Working,Learn,📝,practice,renshū suru
+Verb,Working,Learn,✅,master,shūtoku suru
+Verb,Working,Learn,📖,read,yomu
+Verb,Working,Learn,✍️,write,kaku
+Verb,Working,Learn,🧮,calculate,keisan suru
+Verb,Working,Learn,📐,measure,hakaru
+Verb,Working,Learn,🔬,research,kenkyū suru
+Verb,Working,Make,🏗️,make,tsukuru
+Verb,Working,Make,🔨,build,tateru
+Verb,Working,Make,🎨,create,sōzō suru
+Verb,Working,Make,🔨,construct,kenchiku suru
+Verb,Working,Make,🔧,assemble,kumitate
+Verb,Working,Make,🏭,produce,seisan suru
+Verb,Working,Make,🏭,manufacture,seizō suru
+Verb,Working,Make,✂️,cut,kiru
+Verb,Working,Make,🪚,saw,noko de kiru
+Verb,Working,Make,🔨,hammer,kanazuchi de utsu
+Verb,Working,Change,🔄,change,kaeru
+Verb,Working,Change,🔧,fix,shūri suru
+Verb,Working,Change,🔧,repair,naos
+Verb,Working,Change,✨,improve,kaizen suru
+Verb,Working,Change,🔄,transform,henkei saseru
+Verb,Working,Change,🔄,adjust,chōsei suru
+Verb,Working,Change,🔄,modify,henkō suru
+Verb,Working,Change,📈,develop,hatten saseru
+Verb,Working,Break,💥,break,kowasu
+Verb,Working,Break,🔨,smash,kudaku
+Verb,Working,Break,🗡️,destroy,hakai suru
+Verb,Working,Break,💥,damage,songai wo ataeru
+Verb,Working,Break,🔪,cut,kiru
+Verb,Working,Break,✂️,tear,yabuku
+Verb,Working,Break,🔥,burn,yakeru
+Verb,Intercourse,Speak,🗣️,speak,hanasu
+Verb,Intercourse,Speak,💬,talk,hanashi au
+Verb,Intercourse,Speak,🗣️,say,iu
+Verb,Intercourse,Speak,📢,tell,tsugeru
+Verb,Intercourse,Speak,📞,call,yobu
+Verb,Intercourse,Speak,📣,shout,sakebu
+Verb,Intercourse,Speak,🗣️,cry out,sakende iu
+Verb,Intercourse,Speak,🤫,whisper,sasayaku
+Verb,Intercourse,Speak,💬,chat,oshaberi suru
+Verb,Intercourse,Speak,🗨️,mention,noberu
+Verb,Intercourse,Ask,❓,ask,kiku
+Verb,Intercourse,Ask,❔,question,situmon suru
+Verb,Intercourse,Ask,💬,inquire,toiawaseru
+Verb,Intercourse,Ask,🙏,request,irai suru
+Verb,Intercourse,Ask,🙏,beg,tanomikomu
+Verb,Intercourse,Answer,💬,answer,kotaeru
+Verb,Intercourse,Answer,💡,reply,henji suru
+Verb,Intercourse,Answer,📢,respond,ōtō suru
+Verb,Intercourse,Answer,💬,explain,setsumei suru
+Verb,Intercourse,Answer,📖,describe,byōsha suru
+Verb,Intercourse,Give,🎁,give,ageru
+Verb,Intercourse,Give,🤲,offer,teikyō suru
+Verb,Intercourse,Give,🎁,present,okurimono suru
+Verb,Intercourse,Give,🤝,share,wakeau
+Verb,Intercourse,Give,🤲,hand,watasu
+Verb,Intercourse,Take,🤚,take,toru
+Verb,Intercourse,Take,🤲,receive,uketoru
+Verb,Intercourse,Take,✅,accept,ukeireru
+Verb,Intercourse,Take,🙅,refuse,kotowaru
+Verb,Intercourse,Take,🙅,reject,kyozetsu suru
+Verb,Intercourse,Meet,🤝,meet,au
+Verb,Intercourse,Meet,👋,greet,aisatsu suru
+Verb,Intercourse,Meet,🤗,welcome,kangei suru
+Verb,Intercourse,Meet,🎉,invite,shōtai suru
+Verb,Intercourse,Meet,🚪,visit,hōmon suru
+Verb,Fighting,Attack,⚔️,attack,kōgeki suru
+Verb,Fighting,Attack,👊,fight,tatakau
+Verb,Fighting,Attack,💥,hit,naguru
+Verb,Fighting,Attack,👊,strike,utsu
+Verb,Fighting,Attack,🥊,punch,panchi suru
+Verb,Fighting,Attack,👟,kick,keru
+Verb,Fighting,Attack,🔪,stab,sasu
+Verb,Fighting,Attack,🔫,shoot,utsu
+Verb,Fighting,Attack,💣,bomb,bakugeki suru
+Verb,Fighting,Attack,🔥,set fire,hi wo tsukeru
+Verb,Fighting,Defend,🛡️,defend,mamoru
+Verb,Fighting,Defend,🛡️,protect,hogo suru
+Verb,Fighting,Defend,⚔️,resist,teikō suru
+Verb,Fighting,Defend,🏃,retreat,kōtai suru
+Verb,Fighting,Defend,🏃,flee,nigeru
+Verb,Fighting,Defend,🙅,surrender,kōsan suru
+Verb,Fighting,Win,🏆,win,katsu
+Verb,Fighting,Win,🥇,defeat,tahosu
+Verb,Fighting,Win,✅,conquer,정복suru
+Verb,Fighting,Win,👑,overcome,kokufuku suru
+Verb,Fighting,Lose,😔,lose,makeru
+Verb,Fighting,Lose,🏳️,fail,shippai suru

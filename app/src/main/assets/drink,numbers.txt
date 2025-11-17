@@ -1,0 +1,140 @@
+category,level1,level2,emoji,english,romaji
+Noun,Drinks,Beverage,💧,water,mizu
+Noun,Drinks,Beverage,🍵,tea,ocha
+Noun,Drinks,Beverage,☕,coffee,kōhī
+Noun,Drinks,Beverage,🥛,milk,gyūnyū
+Noun,Drinks,Beverage,🧃,juice,jūsu
+Noun,Drinks,Beverage,🍊,orange juice,orenji jūsu
+Noun,Drinks,Beverage,🍎,apple juice,ringo jūsu
+Noun,Drinks,Beverage,🍇,grape juice,gurēpu jūsu
+Noun,Drinks,Beverage,🍹,tropical drink,toropikaru dorinku
+Noun,Drinks,Beverage,🥤,soda,sōda
+Noun,Drinks,Beverage,🥤,cola,kōra
+Noun,Drinks,Beverage,🍋,lemonade,remonēdo
+Noun,Drinks,Beverage,🧋,bubble tea,tapioka
+Noun,Drinks,Beverage,🍵,green tea,ryokucha
+Noun,Drinks,Beverage,🍵,black tea,kōcha
+Noun,Drinks,Beverage,🫖,tea pot,kyūsu
+Noun,Drinks,Beverage,☕,hot coffee,hotto kōhī
+Noun,Drinks,Beverage,🧊,iced coffee,aisu kōhī
+Noun,Drinks,Beverage,🥤,sports drink,supōtsu dorinku
+Noun,Drinks,Beverage,🧃,vegetable juice,yasai jūsu
+Noun,Drinks,Beverage,🍅,tomato juice,tomato jūsu
+Noun,Drinks,Beverage,🥥,coconut water,kokonattsu wōtā
+Noun,Drinks,Beverage,🍼,baby milk,miruku
+Noun,Drinks,Beverage,🥛,soy milk,tōnyū
+Noun,Drinks,Beverage,🍯,honey drink,hachimitsu dorinku
+Noun,Drinks,Beverage,🫗,hot water,oyu
+Noun,Drinks,Beverage,🧊,cold water,tsumetai mizu
+Noun,Drinks,Beverage,💧,mineral water,mineraru wōtā
+Noun,Drinks,Beverage,🥤,smoothie,sumūjī
+Noun,Drinks,Beverage,🍫,hot chocolate,hotto chokorēto
+Noun,Drinks,Alcohol,🍺,beer,bīru
+Noun,Drinks,Alcohol,🍶,sake,sake
+Noun,Drinks,Alcohol,🍷,wine,wain
+Noun,Drinks,Alcohol,🍷,red wine,aka wain
+Noun,Drinks,Alcohol,🍷,white wine,shiro wain
+Noun,Drinks,Alcohol,🥃,whiskey,uisukī
+Noun,Drinks,Alcohol,🍸,cocktail,kakuteru
+Noun,Drinks,Alcohol,🍹,tropical cocktail,toropikaru kakuteru
+Noun,Drinks,Alcohol,🍾,champagne,shanpen
+Noun,Drinks,Alcohol,🥂,sparkling wine,supākuringu wain
+Noun,Drinks,Alcohol,🍻,cheers,kanpai
+Noun,Drinks,Alcohol,🥃,shochu,shōchū
+Noun,Drinks,Alcohol,🍺,draft beer,nama bīru
+Noun,Drinks,Alcohol,🍺,canned beer,kan bīru
+Noun,Drinks,Alcohol,🥃,brandy,burandē
+Noun,Drinks,Alcohol,🍸,martini,mātonī
+Noun,Drinks,Alcohol,🥃,rum,ramu
+Noun,Drinks,Alcohol,🍸,gin,jin
+Noun,Drinks,Alcohol,🥃,vodka,uokka
+Noun,Drinks,Alcohol,🍺,alcohol,osake
+</artifact>
+<artifact identifier="japanese-numbers-csv" type="application/vnd.ant.code" language="csv" title="Japanese Numbers Flashcard CSV">
+category,level1,level2,emoji,english,romaji
+Number,Numbers,Basic,1️⃣,one,ichi
+Number,Numbers,Basic,2️⃣,two,ni
+Number,Numbers,Basic,3️⃣,three,san
+Number,Numbers,Basic,4️⃣,four,shi/yon
+Number,Numbers,Basic,5️⃣,five,go
+Number,Numbers,Basic,6️⃣,six,roku
+Number,Numbers,Basic,7️⃣,seven,shichi/nana
+Number,Numbers,Basic,8️⃣,eight,hachi
+Number,Numbers,Basic,9️⃣,nine,kyū/ku
+Number,Numbers,Basic,🔟,ten,jū
+Number,Numbers,Basic,0️⃣,zero,zero/rei
+Number,Numbers,Tens,🔢,eleven,jūichi
+Number,Numbers,Tens,🔢,twelve,jūni
+Number,Numbers,Tens,🔢,thirteen,jūsan
+Number,Numbers,Tens,🔢,fourteen,jūshi/jūyon
+Number,Numbers,Tens,🔢,fifteen,jūgo
+Number,Numbers,Tens,🔢,sixteen,jūroku
+Number,Numbers,Tens,🔢,seventeen,jūshichi/jūnana
+Number,Numbers,Tens,🔢,eighteen,jūhachi
+Number,Numbers,Tens,🔢,nineteen,jūkyū/jūku
+Number,Numbers,Tens,🔢,twenty,nijū
+Number,Numbers,Tens,🔢,thirty,sanjū
+Number,Numbers,Tens,🔢,forty,yonjū
+Number,Numbers,Tens,🔢,fifty,gojū
+Number,Numbers,Tens,🔢,sixty,rokujū
+Number,Numbers,Tens,🔢,seventy,nanajū
+Number,Numbers,Tens,🔢,eighty,hachijū
+Number,Numbers,Tens,🔢,ninety,kyūjū
+Number,Numbers,Hundreds,💯,hundred,hyaku
+Number,Numbers,Hundreds,💯,two hundred,nihyaku
+Number,Numbers,Hundreds,💯,three hundred,sanbyaku
+Number,Numbers,Hundreds,💯,four hundred,yonhyaku
+Number,Numbers,Hundreds,💯,five hundred,gohyaku
+Number,Numbers,Hundreds,💯,six hundred,roppyaku
+Number,Numbers,Hundreds,💯,seven hundred,nanahyaku
+Number,Numbers,Hundreds,💯,eight hundred,happyaku
+Number,Numbers,Hundreds,💯,nine hundred,kyūhyaku
+Number,Numbers,Thousands,🔢,thousand,sen
+Number,Numbers,Thousands,🔢,two thousand,nisen
+Number,Numbers,Thousands,🔢,three thousand,sanzen
+Number,Numbers,Thousands,🔢,four thousand,yonsen
+Number,Numbers,Thousands,🔢,five thousand,gosen
+Number,Numbers,Thousands,🔢,six thousand,rokusen
+Number,Numbers,Thousands,🔢,seven thousand,nanasen
+Number,Numbers,Thousands,🔢,eight thousand,hassen
+Number,Numbers,Thousands,🔢,nine thousand,kyūsen
+Number,Numbers,Thousands,🔢,ten thousand,ichiman
+Number,Numbers,Large,🔢,ten thousand,man
+Number,Numbers,Large,🔢,hundred thousand,jūman
+Number,Numbers,Large,🔢,million,hyakuman
+Number,Numbers,Large,🔢,ten million,senman
+Number,Numbers,Large,🔢,hundred million,oku
+Number,Numbers,Large,🔢,billion,jūoku
+Number,Numbers,Large,🔢,trillion,chō
+Number,Numbers,Ordinal,🥇,first,ichiban
+Number,Numbers,Ordinal,🥈,second,niban
+Number,Numbers,Ordinal,🥉,third,sanban
+Number,Numbers,Ordinal,4️⃣,fourth,yonban
+Number,Numbers,Ordinal,5️⃣,fifth,goban
+Number,Numbers,Ordinal,🔢,last,saigo
+Number,Numbers,Counter,👤,one person,hitori
+Number,Numbers,Counter,👥,two people,futari
+Number,Numbers,Counter,👥,three people,sannin
+Number,Numbers,Counter,👥,four people,yonin
+Number,Numbers,Counter,👥,five people,gonin
+Number,Numbers,Counter,📏,one long object,ippon
+Number,Numbers,Counter,📏,two long objects,nihon
+Number,Numbers,Counter,📏,three long objects,sanbon
+Number,Numbers,Counter,📄,one flat object,ichimai
+Number,Numbers,Counter,📄,two flat objects,nimai
+Number,Numbers,Counter,📄,three flat objects,sanmai
+Number,Numbers,Counter,🐕,one animal,ippiki
+Number,Numbers,Counter,🐕,two animals,nihiki
+Number,Numbers,Counter,🐕,three animals,sanbiki
+Number,Numbers,Counter,🏢,one building,ikken
+Number,Numbers,Counter,🏢,two buildings,niken
+Number,Numbers,Counter,🏢,three buildings,sangen
+Number,Numbers,Counter,📚,one book,issatsu
+Number,Numbers,Counter,📚,two books,nisatsu
+Number,Numbers,Counter,📚,three books,sansatsu
+Number,Numbers,Counter,🚗,one vehicle,ichidai
+Number,Numbers,Counter,🚗,two vehicles,nidai
+Number,Numbers,Counter,🚗,three vehicles,sandai
+Number,Numbers,Counter,🔢,how many,ikutsu
+Number,Numbers,Counter,❓,how many people,nannin
+Number,Numbers,Counter,❓,what number,nanban

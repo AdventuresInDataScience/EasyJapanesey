@@ -1,0 +1,183 @@
+category,level1,level2,emoji,english,romaji
+Noun,Jobs,Professional,👨‍⚕️,doctor,isha
+Noun,Jobs,Professional,👩‍⚕️,nurse,kangoshi
+Noun,Jobs,Professional,👨‍🏫,teacher,sensei
+Noun,Jobs,Professional,👨‍⚖️,lawyer,bengoshi
+Noun,Jobs,Professional,👨‍💼,businessman,bijinesuman
+Noun,Jobs,Professional,👩‍💼,businesswoman,bijinesuūman
+Noun,Jobs,Professional,👨‍💻,programmer,puroguramā
+Noun,Jobs,Professional,👩‍💻,engineer,enjinia
+Noun,Jobs,Professional,👨‍🔬,scientist,kagakusha
+Noun,Jobs,Professional,👨‍🎓,professor,kyōju
+Noun,Jobs,Professional,👨‍🔧,mechanic,seibishi
+Noun,Jobs,Professional,👨‍🏭,factory worker,kōjō rōdōsha
+Noun,Jobs,Professional,👨‍🌾,farmer,nōfu
+Noun,Jobs,Professional,👨‍🍳,chef,shefu
+Noun,Jobs,Professional,👨‍🎨,artist,geijutsuka
+Noun,Jobs,Professional,👨‍✈️,pilot,pairotto
+Noun,Jobs,Professional,👮,police officer,keisatsukan
+Noun,Jobs,Professional,👨‍🚒,firefighter,shōbōshi
+Noun,Jobs,Professional,👨‍⚖️,judge,saibankan
+Noun,Jobs,Professional,🧑‍💼,accountant,kaikeishi
+Noun,Jobs,Service,💇,hairdresser,biyōshi
+Noun,Jobs,Service,🍕,waiter,weitā
+Noun,Jobs,Service,🍕,waitress,weitoresu
+Noun,Jobs,Service,🚕,taxi driver,takushī untenshu
+Noun,Jobs,Service,🚌,bus driver,basu untenshu
+Noun,Jobs,Service,📬,postal worker,yūbinkyokuinn
+Noun,Jobs,Service,🛒,cashier,rejikakarī
+Noun,Jobs,Service,🏪,shop clerk,tenin
+Noun,Jobs,Service,🏨,hotel staff,hoteru sutaffu
+Noun,Jobs,Service,✈️,flight attendant,kyakushitsu jōmuin
+Noun,Jobs,Service,🧹,cleaner,sōjinin
+Noun,Jobs,Service,🚛,delivery person,haitatsuinn
+Noun,Jobs,Service,🔧,plumber,haikanshu
+Noun,Jobs,Service,💡,electrician,denkikōji
+Noun,Jobs,Service,🎭,actor,haiyū
+Noun,Jobs,Service,🎤,singer,kashu
+Noun,Jobs,Service,🎸,musician,ongakuka
+Noun,Jobs,Creative,📰,journalist,jānarisuto
+Noun,Jobs,Creative,📷,photographer,kameraman
+Noun,Jobs,Creative,🎬,director,kantoku
+Noun,Jobs,Creative,✍️,writer,sakka
+Noun,Jobs,Creative,🎨,designer,dezainā
+Noun,Jobs,Creative,🏗️,architect,kenchikuka
+Noun,Jobs,Creative,📚,librarian,shisho
+Noun,Jobs,Creative,🎭,comedian,komedian
+Noun,Jobs,Creative,🎪,entertainer,geinin
+Noun,Jobs,Creative,📺,TV presenter,terebi shikaisya
+Noun,Jobs,Other,💼,office worker,kaishain
+Noun,Jobs,Other,👔,salaryman,sararīman
+Noun,Jobs,Other,🏢,company employee,shain
+Noun,Jobs,Other,🎓,student,gakusei
+Noun,Jobs,Other,👶,housewife,shufu
+Noun,Jobs,Other,🏃,athlete,supōtsu senshu
+Noun,Jobs,Other,⚽,soccer player,sakkā senshu
+Noun,Jobs,Other,⚾,baseball player,yakyū senshu
+Noun,Jobs,Other,🥋,martial artist,budōka
+Noun,Jobs,Other,👨‍🏫,tutor,katei kyōshi
+Noun,Games,Sports,⚽,soccer,sakkā
+Noun,Games,Sports,⚾,baseball,yakyū
+Noun,Games,Sports,🏀,basketball,basukettobōru
+Noun,Games,Sports,🏐,volleyball,barēbōru
+Noun,Games,Sports,🎾,tennis,tenisu
+Noun,Games,Sports,🏓,table tennis,takkyū
+Noun,Games,Sports,🏸,badminton,badominton
+Noun,Games,Sports,🏏,cricket,kuriketto
+Noun,Games,Sports,🏑,hockey,hokkē
+Noun,Games,Sports,🏒,ice hockey,aisu hokkē
+Noun,Games,Sports,🥊,boxing,bokushingu
+Noun,Games,Sports,🥋,martial arts,budō
+Noun,Games,Sports,🤺,fencing,fenishingu
+Noun,Games,Sports,🤼,wrestling,resuringu
+Noun,Games,Sports,🏈,football,amerikan futtobōru
+Noun,Games,Sports,🏉,rugby,ragubī
+Noun,Games,Sports,⛳,golf,gorufu
+Noun,Games,Sports,🏹,archery,kyūdō
+Noun,Games,Sports,🎣,fishing,tsuri
+Noun,Games,Sports,🏊,swimming,suiei
+Noun,Games,Sports,🏄,surfing,sāfin
+Noun,Games,Sports,⛷️,skiing,sukī
+Noun,Games,Sports,🏂,snowboarding,sunōbōdo
+Noun,Games,Sports,⛸️,ice skating,aisusukēto
+Noun,Games,Sports,🚴,cycling,saikuringu
+Noun,Games,Sports,🏃,running,ran'ningu
+Noun,Games,Sports,🧗,climbing,kuraimingu
+Noun,Games,Sports,🧘,yoga,yoga
+Noun,Games,Sports,🏇,horse racing,keiba
+Noun,Games,Sports,🥅,goalkeeper,gōrukīpā
+Noun,Games,Indoor,🎮,video games,terebi gēmu
+Noun,Games,Indoor,🎯,darts,dātsu
+Noun,Games,Indoor,🎱,billiards,biryādo
+Noun,Games,Indoor,🎳,bowling,bōringu
+Noun,Games,Indoor,♟️,chess,chesu
+Noun,Games,Indoor,🀄,mahjong,mājan
+Noun,Games,Indoor,🎴,karuta,karuta
+Noun,Games,Indoor,🃏,cards,toranpu
+Noun,Games,Indoor,🎲,dice,saikoro
+Noun,Games,Indoor,🧩,puzzle,pazuru
+Noun,Games,Indoor,🎰,pachinko,pachinko
+Noun,Games,Indoor,🎪,game,gēmu
+Noun,Games,Indoor,🕹️,arcade game,gēmusentā
+Noun,Games,Indoor,🎮,Nintendo,nintendō
+Noun,Games,Indoor,🎮,PlayStation,pureisutēshon
+Noun,Games,Traditional,🥋,judo,jūdō
+Noun,Games,Traditional,🥋,karate,karate
+Noun,Games,Traditional,🥋,kendo,kendō
+Noun,Games,Traditional,🏹,kyudo,kyūdō
+Noun,Games,Traditional,🤼,sumo,sumō
+Noun,Games,Traditional,🎴,hanafuda,hanafuda
+Noun,Games,Traditional,♟️,shogi,shōgi
+Noun,Games,Traditional,⚫⚪,go,igo
+Noun,Hobbies,Creative,🎨,painting,kaiga
+Noun,Hobbies,Creative,✏️,drawing,dessan
+Noun,Hobbies,Creative,📸,photography,shashin
+Noun,Hobbies,Creative,✂️,crafts,kōsaku
+Noun,Hobbies,Creative,🧶,knitting,amimono
+Noun,Hobbies,Creative,🪡,sewing,saiō
+Noun,Hobbies,Creative,🎭,theater,engeki
+Noun,Hobbies,Creative,🎬,movie watching,eiga kansho
+Noun,Hobbies,Creative,📺,TV watching,terebi
+Noun,Hobbies,Creative,🎤,karaoke,karaoke
+Noun,Hobbies,Creative,💃,dancing,dansu
+Noun,Hobbies,Creative,🎪,magic,tejina
+Noun,Hobbies,Creative,🎨,calligraphy,shodō
+Noun,Hobbies,Creative,🖌️,brush painting,sumi-e
+Noun,Hobbies,Creative,📖,manga,manga
+Noun,Hobbies,Creative,✍️,writing,sakubun
+Noun,Hobbies,Music,🎸,guitar,gitā
+Noun,Hobbies,Music,🎹,piano,piano
+Noun,Hobbies,Music,🥁,drums,doramu
+Noun,Hobbies,Music,🎺,trumpet,torampetto
+Noun,Hobbies,Music,🎷,saxophone,sakusofon
+Noun,Hobbies,Music,🎻,violin,baiorin
+Noun,Hobbies,Music,🎤,singing,utau
+Noun,Hobbies,Music,🎧,listening to music,ongaku kansho
+Noun,Hobbies,Music,🎼,composing,sakkyoku
+Noun,Hobbies,Music,🎵,music,ongaku
+Noun,Hobbies,Music,🪘,taiko,taiko
+Noun,Hobbies,Music,🎐,wind chime,fūrin
+Noun,Hobbies,Outdoor,🚶,walking,sanpo
+Noun,Hobbies,Outdoor,🏕️,camping,kyanpu
+Noun,Hobbies,Outdoor,🥾,hiking,haikingu
+Noun,Hobbies,Outdoor,🎣,fishing,tsuri
+Noun,Hobbies,Outdoor,🌳,gardening,engei
+Noun,Hobbies,Outdoor,🏃,jogging,jogingu
+Noun,Hobbies,Outdoor,🚴,cycling,saikuringu
+Noun,Hobbies,Outdoor,🏔️,mountain climbing,tozan
+Noun,Hobbies,Outdoor,🦅,bird watching,tanchō
+Noun,Hobbies,Outdoor,📷,nature photography,shizen shashin
+Noun,Hobbies,Outdoor,🏖️,beach activities,bīchi
+Noun,Hobbies,Indoor,📚,reading,dokusho
+Noun,Hobbies,Indoor,🎮,gaming,gēmu
+Noun,Hobbies,Indoor,🧩,puzzles,pazuru
+Noun,Hobbies,Indoor,🍳,cooking,ryōri
+Noun,Hobbies,Indoor,🍰,baking,okashi zukuri
+Noun,Hobbies,Indoor,🧘,meditation,meisō
+Noun,Hobbies,Indoor,🧩,model building,puramuderu
+Noun,Hobbies,Indoor,💻,programming,puroguramingu
+Noun,Hobbies,Indoor,🌐,internet,intānetto
+Noun,Hobbies,Indoor,📱,social media,SNS
+Noun,Hobbies,Indoor,🎬,watching movies,eiga
+Noun,Hobbies,Indoor,📺,watching anime,anime
+Noun,Hobbies,Collecting,💎,collecting,shūshū
+Noun,Hobbies,Collecting,📮,stamps,kitte
+Noun,Hobbies,Collecting,🪙,coins,kōka
+Noun,Hobbies,Collecting,🎴,cards,kādo
+Noun,Hobbies,Collecting,🧸,toys,omocha
+Noun,Hobbies,Collecting,📚,books,hon
+Noun,Hobbies,Collecting,🎵,CDs,shīdī
+Noun,Hobbies,Collecting,🎞️,DVDs,dībuidī
+Noun,Hobbies,Collecting,🖼️,art,bijutsuhin
+Noun,Hobbies,Collecting,👘,antiques,kottō
+Noun,Hobbies,Learning,📖,studying,benkyō
+Noun,Hobbies,Learning,🌏,languages,gaikokugo
+Noun,Hobbies,Learning,🗣️,conversation,kaiwa
+Noun,Hobbies,Learning,✈️,traveling,ryokō
+Noun,Hobbies,Learning,🍜,food tasting,shoku
+Noun,Hobbies,Learning,☕,cafe hopping,kafe meguri
+Noun,Hobbies,Learning,🍶,sake tasting,sake
+Noun,Hobbies,Learning,🍵,tea ceremony,sadō
+Noun,Hobbies,Learning,🌸,flower arranging,ikebana
+Noun,Hobbies,Learning,👘,wearing kimono,kimono
+Noun,Hobbies,Learning,🧠,trivia,zatsudan

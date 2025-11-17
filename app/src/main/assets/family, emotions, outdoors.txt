@@ -1,0 +1,193 @@
+
+category,level1,level2,emoji,english,romaji
+Noun,Family,Immediate,👨,father,otōsan
+Noun,Family,Immediate,👩,mother,okāsan
+Noun,Family,Immediate,👦,older brother,onīsan
+Noun,Family,Immediate,👧,older sister,onēsan
+Noun,Family,Immediate,👶,younger brother,otōto
+Noun,Family,Immediate,👶,younger sister,imōto
+Noun,Family,Immediate,👴,grandfather,ojīsan
+Noun,Family,Immediate,👵,grandmother,obāsan
+Noun,Family,Immediate,👨‍👩‍👧‍👦,family,kazoku
+Noun,Family,Immediate,👪,parents,ryōshin
+Noun,Family,Immediate,👫,siblings,kyōdai
+Noun,Family,Immediate,👶,child,kodomo
+Noun,Family,Immediate,👦,son,musuko
+Noun,Family,Immediate,👧,daughter,musume
+Noun,Family,Immediate,👨‍👩‍👧,husband,otto
+Noun,Family,Immediate,👨‍👩‍👧,wife,tsuma
+Noun,Family,Extended,👨‍👩‍👧‍👦,uncle,ojisan
+Noun,Family,Extended,👨‍👩‍👧‍👦,aunt,obasan
+Noun,Family,Extended,👦,cousin,itoko
+Noun,Family,Extended,👶,nephew,oi
+Noun,Family,Extended,👶,niece,mei
+Noun,Family,Extended,👴,ancestors,senzo
+Noun,Family,Extended,👶,grandchild,mago
+Noun,Family,Extended,👦,grandson,magomusuko
+Noun,Family,Extended,👧,granddaughter,magomusume
+Noun,Family,Extended,👨‍👩‍👧,relatives,shinseki
+Noun,Family,Extended,🏠,household,setai
+Noun,Family,In-laws,👨,father-in-law,giri no chichi
+Noun,Family,In-laws,👩,mother-in-law,giri no haha
+Noun,Family,In-laws,👦,brother-in-law,giri no kyōdai
+Noun,Family,In-laws,👧,sister-in-law,giri no shimai
+Noun,Family,Relationship,💑,boyfriend,kareshi
+Noun,Family,Relationship,💑,girlfriend,kanojo
+Noun,Family,Relationship,💍,fiancé,iinazuke
+Noun,Family,Relationship,👶,baby,akachan
+Noun,Family,Relationship,🧒,twins,futago
+Noun,Family,Relationship,👨,eldest son,chōnan
+Noun,Family,Relationship,👧,eldest daughter,chōjo
+Noun,Family,Relationship,👶,youngest child,suekko
+Noun,Family,Relationship,🏠,only child,hitorikko
+Noun,Family,Relationship,👶,adopted child,yōshi
+Noun,Family,Relationship,👥,stepfather,mamachichi
+Noun,Family,Relationship,👥,stepmother,mamahaha
+Adjective,Emotions,Positive,😊,happy,ureshii
+Adjective,Emotions,Positive,😄,fun,tanoshii
+Adjective,Emotions,Positive,❤️,love,ai
+Adjective,Emotions,Positive,😍,like,suki
+Adjective,Emotions,Positive,🥰,loving,itoshii
+Adjective,Emotions,Positive,😆,joyful,yorokobi
+Adjective,Emotions,Positive,😌,peaceful,odayaka
+Adjective,Emotions,Positive,🤗,warm,atatakai
+Adjective,Emotions,Positive,😊,glad,yokatta
+Adjective,Emotions,Positive,🎉,excited,kōfun
+Adjective,Emotions,Positive,😁,cheerful,akarui
+Adjective,Emotions,Positive,💪,energetic,genki
+Adjective,Emotions,Positive,🙏,grateful,kansha
+Adjective,Emotions,Positive,😇,blessed,shiawase
+Adjective,Emotions,Positive,🌟,hopeful,kibō
+Adjective,Emotions,Positive,😎,confident,jishin
+Adjective,Emotions,Positive,🥳,thrilled,ōyorokobi
+Adjective,Emotions,Positive,😌,satisfied,manzoku
+Adjective,Emotions,Positive,🤩,amazed,odoroku
+Adjective,Emotions,Positive,😊,pleased,ki ni iru
+Adjective,Emotions,Negative,😢,sad,kanashii
+Adjective,Emotions,Negative,😭,crying,naku
+Adjective,Emotions,Negative,😠,angry,okoru
+Adjective,Emotions,Negative,😡,furious,ikari
+Adjective,Emotions,Negative,😰,worried,shinpai
+Adjective,Emotions,Negative,😨,scared,kowai
+Adjective,Emotions,Negative,😱,terrified,osoroshii
+Adjective,Emotions,Negative,😞,disappointed,gakkari
+Adjective,Emotions,Negative,😔,depressed,yūutsu
+Adjective,Emotions,Negative,😩,frustrated,iraira
+Adjective,Emotions,Negative,😫,tired,tsukareru
+Adjective,Emotions,Negative,😣,painful,kurushii
+Adjective,Emotions,Negative,😖,suffering,itai
+Adjective,Emotions,Negative,😤,annoyed,meiwaku
+Adjective,Emotions,Negative,😒,bored,taikutsu
+Adjective,Emotions,Negative,😟,anxious,fuan
+Adjective,Emotions,Negative,😓,nervous,kinchō
+Adjective,Emotions,Negative,😥,regretful,zannen
+Adjective,Emotions,Negative,😪,sleepy,nemui
+Adjective,Emotions,Negative,🤢,sick,kimochi warui
+Adjective,Emotions,Negative,😡,hate,kirai
+Adjective,Emotions,Negative,😭,lonely,sabishii
+Adjective,Emotions,Negative,😰,embarrassed,hazukashii
+Adjective,Emotions,Negative,😳,shy,hazukashigaru
+Adjective,Emotions,Negative,😬,awkward,kimochi
+Adjective,Emotions,Neutral,😐,calm,ochitsuku
+Adjective,Emotions,Neutral,😶,quiet,shizuka
+Adjective,Emotions,Neutral,😑,normal,futsū
+Adjective,Emotions,Neutral,🤔,thinking,kangaeru
+Adjective,Emotions,Neutral,😕,confused,mayou
+Adjective,Emotions,Neutral,😲,surprised,bikkuri
+Adjective,Emotions,Neutral,🤨,doubtful,utagau
+Adjective,Emotions,Neutral,😯,amazed,odoroki
+Adjective,Emotions,Neutral,🙄,indifferent,mudanshin
+Adjective,Emotions,Neutral,😐,serious,majime
+Adjective,Emotions,Neutral,🤐,silent,damaru
+Adjective,Emotions,Neutral,😶‍🌫️,empty,munashii
+Noun,Outdoors,Weather,☀️,sunny,hare
+Noun,Outdoors,Weather,☁️,cloudy,kumori
+Noun,Outdoors,Weather,🌧️,rainy,ame
+Noun,Outdoors,Weather,⛈️,storm,arashi
+Noun,Outdoors,Weather,❄️,snow,yuki
+Noun,Outdoors,Weather,🌨️,snowy,yuki ga furu
+Noun,Outdoors,Weather,💨,wind,kaze
+Noun,Outdoors,Weather,🌪️,typhoon,taifū
+Noun,Outdoors,Weather,⚡,thunder,kaminari
+Noun,Outdoors,Weather,🌈,rainbow,niji
+Noun,Outdoors,Weather,🌫️,fog,kiri
+Noun,Outdoors,Weather,🌡️,hot,atsui
+Noun,Outdoors,Weather,🥶,cold,samui
+Noun,Outdoors,Weather,🌡️,warm,atatakai
+Noun,Outdoors,Weather,🧊,cool,suzushii
+Noun,Outdoors,Weather,💧,humid,mushiatsui
+Noun,Outdoors,Weather,🏜️,dry,kansō
+Noun,Outdoors,Weather,🌡️,temperature,kion
+Noun,Outdoors,Weather,🌊,weather,tenki
+Noun,Outdoors,Weather,☂️,umbrella,kasa
+Noun,Outdoors,Weather,🌦️,changing weather,henkō
+Noun,Outdoors,Weather,🌅,clear sky,hareta sora
+Noun,Outdoors,Weather,🌩️,lightning,inazuma
+Noun,Outdoors,Weather,💨,breeze,soyokaze
+Noun,Outdoors,Weather,🌬️,strong wind,tsuyoi kaze
+Noun,Outdoors,Places,🏞️,park,kōen
+Noun,Outdoors,Places,⛰️,mountain,yama
+Noun,Outdoors,Places,🏖️,beach,hama
+Noun,Outdoors,Places,🏝️,island,shima
+Noun,Outdoors,Places,🌊,ocean,umi
+Noun,Outdoors,Places,🏞️,lake,mizuumi
+Noun,Outdoors,Places,🏞️,river,kawa
+Noun,Outdoors,Places,🌲,forest,mori
+Noun,Outdoors,Places,🏕️,camping,kyanpu
+Noun,Outdoors,Places,🏔️,summit,chōjō
+Noun,Outdoors,Places,🗻,Mt. Fuji,fujisan
+Noun,Outdoors,Places,🌄,valley,tani
+Noun,Outdoors,Places,🏜️,desert,sabaku
+Noun,Outdoors,Places,🌾,field,hatake
+Noun,Outdoors,Places,🛤️,trail,michi
+Noun,Outdoors,Places,🌉,bridge,hashi
+Noun,Outdoors,Places,💧,waterfall,taki
+Noun,Outdoors,Places,🏞️,pond,ike
+Noun,Outdoors,Places,🏞️,stream,ogawa
+Noun,Outdoors,Places,🏔️,cliff,gake
+Noun,Outdoors,Places,🪨,cave,dōkutsu
+Noun,Outdoors,Places,🌳,garden,niwa
+Noun,Outdoors,Places,🌾,countryside,inaka
+Noun,Outdoors,Places,🏞️,scenic spot,keishō
+Noun,Outdoors,Places,🏕️,campsite,kyanpujō
+Noun,Outdoors,Nature,🌳,tree,ki
+Noun,Outdoors,Nature,🌲,pine tree,matsu
+Noun,Outdoors,Nature,🌸,cherry blossom,sakura
+Noun,Outdoors,Nature,🌺,flower,hana
+Noun,Outdoors,Nature,🌹,rose,bara
+Noun,Outdoors,Nature,🌻,sunflower,himawari
+Noun,Outdoors,Nature,🌷,tulip,chūrippu
+Noun,Outdoors,Nature,🌾,grass,kusa
+Noun,Outdoors,Nature,🍃,leaf,ha
+Noun,Outdoors,Nature,🍂,autumn leaves,kōyō
+Noun,Outdoors,Nature,🌿,plant,shokubutsu
+Noun,Outdoors,Nature,🪴,potted plant,uekibachi
+Noun,Outdoors,Nature,🌱,sprout,me
+Noun,Outdoors,Nature,🌾,rice plant,ine
+Noun,Outdoors,Nature,🍄,mushroom,kinoko
+Noun,Outdoors,Nature,☀️,sun,taiyō
+Noun,Outdoors,Nature,🌙,moon,tsuki
+Noun,Outdoors,Nature,⭐,star,hoshi
+Noun,Outdoors,Nature,🌌,sky,sora
+Noun,Outdoors,Nature,🌃,night sky,yozora
+Noun,Outdoors,Nature,🌅,sunrise,hinode
+Noun,Outdoors,Nature,🌄,sunset,higure
+Noun,Outdoors,Nature,🌠,shooting star,nagareboshi
+Noun,Outdoors,Nature,🪨,rock,iwa
+Noun,Outdoors,Nature,🪨,stone,ishi
+Noun,Outdoors,Nature,⛰️,soil,tsuchi
+Noun,Outdoors,Nature,💧,dew,tsuyu
+Noun,Outdoors,Nature,🌊,wave,nami
+Noun,Outdoors,Nature,🌬️,air,kūki
+Noun,Outdoors,Nature,🔥,fire,hi
+Noun,Outdoors,Nature,🐦,bird,tori
+Noun,Outdoors,Nature,🦋,butterfly,chō
+Noun,Outdoors,Nature,🐝,bee,hachi
+Noun,Outdoors,Nature,🐛,insect,mushi
+Noun,Outdoors,Nature,🐿️,squirrel,risu
+Noun,Outdoors,Nature,🦌,deer,shika
+Noun,Outdoors,Nature,🐻,bear,kuma
+Noun,Outdoors,Nature,🦊,fox,kitsune
+Noun,Outdoors,Nature,🐸,frog,kaeru
+Noun,Outdoors,Nature,🐢,turtle,kame
+Noun,Outdoors,Nature,🐍,snake,hebi
