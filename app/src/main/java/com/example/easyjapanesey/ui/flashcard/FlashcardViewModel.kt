@@ -8,6 +8,7 @@ import com.example.easyjapanesey.data.model.CardStatus
 import com.example.easyjapanesey.data.model.FilterMode
 import com.example.easyjapanesey.data.model.VocabularyCard
 import com.example.easyjapanesey.data.preferences.UserProgressRepository
+import com.example.easyjapanesey.data.repository.PhrasesRepository
 import com.example.easyjapanesey.data.repository.VocabularyRepository
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -31,7 +32,8 @@ class FlashcardViewModel(
     private val level2: String?
 ) : ViewModel() {
     
-    private val repository = VocabularyRepository(context)
+    private val vocabularyRepository = VocabularyRepository(context)
+    private val phrasesRepository = PhrasesRepository(context)
     private val progressRepo = UserProgressRepository(context)
     private var tts: TextToSpeech? = null
     
@@ -49,7 +51,14 @@ class FlashcardViewModel(
     
     private fun loadCards(category: String, level1: String, level2: String?) {
         viewModelScope.launch {
-            allCards = repository.getCardsForPath(category, level1, level2)
+            // Check if this is a phrases category (N1, N2, N3, N4, N5)
+            allCards = if (category.matches(Regex("N[1-5]"))) {
+                // It's a phrases level
+                phrasesRepository.getCardsForPath(category, level1, level2)
+            } else {
+                // It's vocabulary
+                vocabularyRepository.getCardsForPath(category, level1, level2)
+            }
             applyFilter()
         }
     }

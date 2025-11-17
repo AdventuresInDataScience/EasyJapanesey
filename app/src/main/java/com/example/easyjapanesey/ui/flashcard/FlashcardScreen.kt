@@ -418,7 +418,15 @@ fun FlippableCard(
                     text = frontContent,
                     style = MaterialTheme.typography.displayLarge,
                     textAlign = TextAlign.Center,
-                    modifier = Modifier.padding(16.dp)
+                    modifier = Modifier
+                        .padding(16.dp)
+                        .fillMaxWidth(),
+                    maxLines = 5,
+                    softWrap = true,
+                    lineHeight = 36.sp,
+                    fontSize = if (frontContent.length > 50) 24.sp 
+                              else if (frontContent.length > 30) 32.sp 
+                              else 40.sp
                 )
             } else {
                 // Back side (reversed text for proper display when flipped)
@@ -428,9 +436,16 @@ fun FlippableCard(
                     textAlign = TextAlign.Center,
                     modifier = Modifier
                         .padding(16.dp)
+                        .fillMaxWidth()
                         .graphicsLayer {
                             rotationY = 180f
-                        }
+                        },
+                    maxLines = 5,
+                    softWrap = true,
+                    lineHeight = 32.sp,
+                    fontSize = if (backContent.length > 50) 20.sp 
+                              else if (backContent.length > 30) 28.sp 
+                              else 36.sp
                 )
             }
         }

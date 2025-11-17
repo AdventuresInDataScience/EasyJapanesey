@@ -86,4 +86,13 @@ class UserProgressRepository(context: Context) {
             .replace(" ", "_")
             .lowercase()
     }
+    
+    // Menu Expansion State Management
+    fun isMenuExpanded(menuKey: String): Boolean {
+        return prefs.getBoolean("expanded_$menuKey", false)
+    }
+    
+    fun setMenuExpanded(menuKey: String, isExpanded: Boolean) {
+        prefs.edit().putBoolean("expanded_$menuKey", isExpanded).apply()
+    }
 }

@@ -1,20 +1,1507 @@
-category,level1,level2,emoji,english,romaji
-Noun,Food,Fruit,🍎,apple,ringo
-Noun,Food,Fruit,🍊,orange,mikan
-Noun,Food,Fruit,🍌,banana,banana
-Noun,Food,Fruit,🍓,strawberry,ichigo
-Noun,Food,Fruit,🍇,grape,budou
-Noun,Food,Vegetable,🥕,carrot,ninjin
-Noun,Food,Vegetable,🍅,tomato,tomato
-Noun,Food,Vegetable,🥒,cucumber,kyuuri
-Noun,Colors,,🔴,red,aka
-Noun,Colors,,🔵,blue,ao
-Noun,Colors,,🟢,green,midori
-Noun,Colors,,🟡,yellow,kiiro
-Verb,Daily Actions,,🍽️,to eat,taberu
-Verb,Daily Actions,,🥤,to drink,nomu
-Verb,Daily Actions,,😴,to sleep,neru
-Verb,Daily Actions,,🚶,to walk,aruku
-Adjective,Feelings,,😊,happy,ureshii
-Adjective,Feelings,,😢,sad,kanashii
-Adjective,Feelings,,😠,angry,okoraseru
+Level,Type,Vocabulary,Meaning,Emoji
+N2,Noun; Adverbial Noun,akegata (明け方),dawn,🌅
+N2,Adjective; い-adjective,aojiroi (青白い),pale; bluish-white,⚪
+N2,Noun,ashiato (足跡),footprints,🦶
+N2,Noun; Verb; Suru verb,baibai (売買),trade; buying and selling,🛒
+N2,Noun,baiten (売店),stand; stall; booth; kiosk; store,🏪
+N2,Noun; Verb; Suru verb,boshuu (募集),recruitment; invitation; taking applications; solicitation,🐱
+N2,Noun,chounan (長男),eldest son; first-born son,👦
+N2,Noun,daen (楕円),ellipse,⭕
+N2,Noun,daigakuin (大学院),graduate school,🏫
+N2,Noun,deiriguchi (出入口),exit and entrance,🚪
+N2,Noun,enkai (宴会),party; banquet; reception; feast; dinner,🍽️
+N2,Noun,enshuu (円周),circumference,⭕
+N2,Noun; Verb; Suru verb,ensoku (遠足),excursion; outing; trip,🚌
+N2,Noun,fubo (父母),father and mother; parents,👨‍👩‍👦
+N2,Noun,gakka (学科),study subject; course of study​; department,📖
+N2,Noun,gakkai (学会),scientific society; academic meeting; academic conference,💼
+N2,Noun,gakuryoku (学力),scholarly ability; scholarship; knowledge; literary ability,🚢
+N2,Noun,geka (外科),surgery; department of surgery,🏢
+N2,Noun,hanabi (花火),fireworks,💼
+N2,Noun,hankei (半径),radius,📏
+N2,Noun,hantou (半島),peninsula,🏖️
+N2,Noun; Verb; Suru verb,hatsubai (発売),sale; release (for sale); launch (product),🏷️
+N2,Noun,hayaguchi (早口),fast-talking; rapid talking,👑
+N2,Verb; Ichidan verb; Intransitive verb,hazureru (外れる),to be disconnected; to be off; to miss the mark,🔌
+N2,Verb; Suru verb,heikai (閉会),closure (of a ceremony; event; meeting; etc.),💼
+N2,Noun; Verb; Suru verb,hirune (昼寝),nap; siesta,😴
+N2,Noun; Verb; Adjective; な-adjective; Suru verb,ijiwaru (意地悪),malicious; ill-tempered; unkind,🔴
+N2,Noun; Verb; Suru verb,iten (移転),moving; relocation; change of address,🐱
+N2,Adverb,ittan (一旦),once; for a short time; briefly; temporarily,⏰
+N2,Noun,ji'in (寺院),Buddhist temple; religious building,🏢
+N2,Noun,jinbunkagaku (人文科学),humanities; social sciences; liberal arts,👨
+N2,Noun; Verb; Suru verb,jishuu (自習),self-study; teaching oneself,🍵
+N2,Noun,jisoku (時速),speed (per hour),🕐
+N2,Noun; Verb; Suru verb,jisshuu (実習),practice; training; practical exercise; drill,🌧️
+N2,Noun,kahansuu (過半数),majority,📊
+N2,Noun; Verb; Suru verb,kaikai (開会),opening of a meeting; starting (an event; etc),⭐
+N2,Noun,kaikan (会館),meeting hall; assembly hall,💼
+N2,Noun; Verb; Suru verb,kaiten (回転),rotation; revolution; turning,🔄
+N2,Noun; Verb; Suru verb,kasoku (加速),acceleration; speeding up,⬆️
+N2,Noun,kasokudo (加速度),acceleration,🚀
+N2,Noun; Verb; Suru verb,kengaku (見学),study by observation; field trip; tour; review; inspection,📖
+N2,Noun,kokuou (国王),king; queen; monarch; sovereign,👑
+N2,Noun,kokuritsu (国立),national,🌍
+N2,Noun,kokuseki (国籍),nationality; citizenship,🚢
+N2,Verb; Godan verb; Intransitive verb,korogaru (転がる),to roll; to fall over; to lie down,⬇️
+N2,Verb; Godan verb; Transitive verb,korogasu (転がす),to roll; to turn over,🔄
+N2,Noun,kousha (校舎),school building; schoolhouse,🏠
+N2,Noun,koutei (校庭),schoolyard; playground; school grounds; campus,🏫
+N2,Noun,machiaishitsu (待合室),waiting room,⏳
+N2,Verb; Ichidan verb; Transitive verb,machiawaseru (待ち合わせる),to rendezvous; to meet at a prearranged place and time; to arrange to meet,👂
+N2,Noun,madoguchi (窓口),ticket window; teller window; counter,💨
+N2,Noun; Adverbial Noun,maido (毎度),each time; always; often; thank you for your continued patronage​,⏰
+N2,Noun; Adjective; な-adjective,massao (真っ青),deep blue; bright blue​; ghastly pale; white as a sheet,🔵
+N2,Noun; Adjective; な-adjective,masshiro (真っ白),pure white; blank,⚪
+N2,Noun,meishi (名刺),business card,🚗
+N2,Noun,miseya (店屋),store; shop,🏪
+N2,Noun,mokuzai (木材),lumber; timber; wood,🪵
+N2,Adverb,motomoto (元々),originally; by nature; from the start,⭐
+N2,Noun,naika (内科),internal medicine,💊
+N2,Noun,namiki (並木),roadside tree; row of trees,🌳
+N2,Noun; Verb; Suru verb,nyuusha (入社),joining a company,🏢
+N2,Verb; Ichidan verb; Transitive verb,osaeru (押さえる),to pin down; to hold down; to press down,⬇️
+N2,Noun,rika (理科),science (department; course),📚
+N2,Noun; Verb; Suru verb,ryoushuu (領収),receipt (of money); receiving,💰
+N2,Adverb,saisan (再三),again and again; repeatedly,🍽️
+N2,Verb; Godan verb; Intransitive verb,sasaru (刺さる),to stick into (with a sharp point); to prick; to get stuck (in);,📥
+N2,Noun,sashimi (刺身),sashimi (raw sliced fish; shellfish or crustaceans),🐟
+N2,Adverb,sassoku (早速),at once; immediately; without delay; promptly,⚡
+N2,Verb; Godan verb; Transitive verb,sasu (刺す),to pierce; to stab; to prick; to stick; to thrust; to sting,🗡️
+N2,Noun,seishounen (青少年),youth; young person,👦
+N2,Noun,sekidou (赤道),equator,🌍
+N2,Noun,shakaikagaku (社会科学),social science,🔬
+N2,Noun,shasetsu (社説),editorial; leading article; leader,📰
+N2,Noun; Verb; Suru verb,shikai (司会),master of ceremonies; leading a meeting; presenter; host,🚪
+N2,Noun,shinkansen (新幹線),Japanese bullet train,🌧️
+N2,Noun,shiraga (白髪),white hair; grey hair,⚪
+N2,Noun,shizenkagaku (自然科学),natural science,🔬
+N2,Noun,shoten (書店),bookshop; bookstore,🏪
+N2,Noun,shousha (商社),trading company; firm,🏢
+N2,Noun,shouten (商店),shop; small store; business; firm,🏪
+N2,Noun; Verb; Suru verb,shuugou (集合),gathering; assembly; meeting,💼
+N2,Noun,shuuji (習字),calligraphy; penmanship,🚢
+N2,Noun; Verb; Suru verb,shuukai (集会),meeting; assembly; gathering; convention; rally,💼
+N2,Noun,sokuryoku (速力),speed,💨
+N2,Noun; Verb; Suru verb,sokutatsu (速達),express; special delivery,📬
+N2,Noun,tabi (足袋),Japanese socks (with split toe),🧦
+N2,Verb; Godan verb; Intransitive verb,taru (足る),to be sufficient; to be enough​; to be worth doing; to be worthy of; to deserve​,✅
+N2,Noun; Verb; Suru verb,tokubai (特売),special sale,🏷️
+N2,Noun; Adjective; な-adjective,toumei (透明),transparent; clear,👂
+N2,Noun,touyou (東洋),Orient,🌏
+N2,Noun,ureyuki (売れ行き),sales; demand,👨
+N2,Noun,uriage (売上),amount sold; sales; proceeds; turnover,🏷️
+N2,Noun,urikire (売り切れ),sold out,📜
+N2,Verb; Ichidan verb; Intransitive verb,urikireru (売り切れる),to be sold out,📜
+N2,Pre-noun adjectival,waga (我が),my; our; one's own,1️⃣
+N2,Noun,youhinten (洋品店),shop that handles Western-style apparel and accessories,🏪
+N2,Noun; Verb; Suru verb,yuketsu (輸血),blood transfusion,🩸
+N2,Noun; Verb; Suru verb,yusou (輸送),transport; transportation,⚽
+N2,Noun,zaimoku (材木),lumber; timber,🪵
+N3,Noun,akari (明かり),light; illumination; glow; gleam,🌍
+N3,Verb; Ichidan verb; Transitive verb,akeru (明ける),to dawn;to become daylight,🌅
+N3,Adjective; な-adjective,akiraka (明らか),clear; obvious,👂
+N3,Noun,akuma (悪魔),devil; demon; fiend; Satan,👹
+N3,Noun; Verb; Suru verb,anki (暗記),memorization; learning by heart,👂
+N3,Noun; Adjective; な-adjective,arata (新た),new; fresh; novel,🆕
+N3,Pre-noun adjectival,arayuru (有らゆる),all; every​,💯
+N3,Noun,atsumari (集まり),gathering; meeting; assembly; collection; attendance,💃
+N3,Noun,bubun (部分),portion; section; part,🧩
+N3,Noun; Suffix,bun (分),part; segment; share; ration,🧩
+N3,Noun,bunmei (文明),civilization; culture,🏛️
+N3,Noun; Verb; Suru verb,bunseki (分析),analysis,🔬
+N3,Noun,bunya (分野),field; sphere; realm; division; branch,🏢
+N3,Noun,chichioya (父親),father,👨
+N3,Noun,chiheisen (地平線),horizon (related to land)​,⏰
+N3,Noun,chii (地位),(social) position; status,👔
+N3,Noun,chouki (長期),long-term,📏
+N3,Noun; Prefix; Suffix,chuu (中),during; while; medium; middle,⏳
+N3,Noun,chuugaku (中学),junior high school; middle school,🏫
+N3,Noun,chuushoku (昼食),lunch; midday meal,🍽️
+N3,Noun,daibubun (大部分),most part; greater part; majority,🍽️
+N3,Noun; Adjective; な-adjective,dame (駄目),no good; cannot,🚶
+N3,Noun,danshi (男子),youth; young man,👨
+N3,Noun,deai (出会い),meeting; rendezvous; encounter,💼
+N3,Verb,deau (出会う),to meet (by chance); to come across; to run across; to encounter,🏃
+N3,Noun; Verb; Suru verb,dokusho (読書),reading,📖
+N3,Noun; Verb; Suru verb,doryoku (努力),effort; exertion; endeavor; hard work; striving,💼
+N3,Adjective; な-adjective,douitsu (同一),identical; same; one and the same; equal,1️⃣
+N3,Noun,en (円),yen; Japanese monetary unit; circle,1️⃣
+N3,Noun; Adjective; な-adjective,furi (不利),disadvantage; handicap; unfavorable position,✋
+N3,Noun; Adjective; な-adjective; Verb; Suru verb,fusoku (不足),insufficiency; shortage; deficiency; lack; dearth,👂
+N3,Adverb,futatabi (再び),again; once more; a second time,⏰
+N3,Noun,gaikou (外交),diplomacy,🤝
+N3,Noun; Verb; Suru verb,gaishutsu (外出),going out; outing; leaving (one's home; office; etc.),🏠
+N3,Noun,gakki (学期),school term; semester,🏫
+N3,Noun; Suffix,gaku (学),learning; education; study of,🐱
+N3,Noun; Verb; Suru verb,gakumon (学問),scholarship; study; learning,🚢
+N3,Noun,gakusha (学者),scholar,👨‍🎓
+N3,Noun; Verb; Suru verb,gakushuu (学習),study; learning; tutorial,👂
+N3,Noun,gichou (議長),chairman; president; moderator,👨
+N3,Noun,gikai (議会),congress; parliament; diet; legislative assembly,🦵
+N3,Noun,gogaku (語学),study of foreign languages; linguistics,📖
+N3,Adjective; い-adjective,hageshii (激しい),violent; extreme; intense,💥
+N3,Noun,hahaoya (母親),mother,👩
+N3,Noun,hakubutsukan (博物館),museum,🏛️
+N3,Noun; Verb; Suru verb,hanbai (販売),sales; selling; marketing,💰
+N3,Noun; Adjective; な-adjective; Verb; Suru verb,hatsumei (発明),invention,💡
+N3,Verb; Godan verb; Transitive verb,hazusu (外す),to remove; to undo; to drop; to miss,🔓
+N3,Noun,hin (品),elegance; article,🦵
+N3,Noun; Verb; Suru verb,hitokoto (一言),single word; a few words; brief comment,🎤
+N3,Noun; Suffix,hitorihitori (一人一人),one by one; each; one at a time,1️⃣
+N3,Noun,honmono (本物),genuine article; real thing; real deal​,📦
+N3,Noun,honnin (本人),the person in question; the person themselves; said person,👦
+N3,Noun; Verb; Suru verb,icchi (一致),agreement; union; match​; coincidence,🪙
+N3,Noun,ichiji (一時),one o'clock,⏰
+N3,Adjective; な-adjective; Adverb,igai (意外),unexpected; surprising,🎤
+N3,Noun,ikka (一家),a family; a household; a home; one's family; whole family,🏠
+N3,Adverb,imani (今に),before long; even now,⏰
+N3,Adverb,imanimo (今にも),at any moment; at any minute; on the verge of,⏱️
+N3,Noun; Adjective; な-adjective,ippan (一般),general; universal; ordinary; average; common,👥
+N3,Noun,ippou (一方),one (esp. of two); one way; the other direction; although,1️⃣
+N3,Noun,isshou (一生),whole life; a lifetime; a generation,⏰
+N3,Noun; Adverb,isshu (一種),species; kind; variety,🌱
+N3,Noun,isshun (一瞬),instant; moment; for an instant,⚡
+N3,Noun; Adverb,issou (一層),much more; still more; all the more; single layer; sooner; preferably​,🎤
+N3,Noun; Adverb,ittai (一体),(what) the heck; (why) in the world,🎩
+N3,Pre-noun adjectival,iwayuru (所謂),what is called; as it is called; the so-called; so to speak​,💬
+N3,Noun; Adjective; な-adjective; Suru verb,jama (邪魔),hindrance,🚧
+N3,Noun,kagaku (化学),chemistry,🧪
+N3,Noun; Suffix,kai (会),meeting; assembly; party; association; club,💼
+N3,Noun,kai'in (会員),member,👤
+N3,Noun; Adjective,kaigai (海外),foreign; abroad; overseas,🌊
+N3,Noun; Verb; Suru verb,kaigou (会合),meeting; assembly; gathering; association,💼
+N3,Noun,kaikei (会計),finance; account; treasurer; bill,💳
+N3,Noun; Verb; Suru verb,kaishi (開始),start; commencement; beginning; initiation​,⭐
+N3,Noun,kamoku (科目),(school) subject; curriculum; course,🏫
+N3,Noun,kenri (権利),right; privilege,🦵
+N3,Noun,kihon (基本),basics; fundamentals; basis; foundation,📐
+N3,Noun,kiji (記事),article; news story; report; account,🆕
+N3,Noun,kimi (気味),sensation; feeling​; tendency,🎭
+N3,Noun; Verb; Suru verb,kinen (記念),commemoration; celebration; honoring the memory of something,🎊
+N3,Verb; Godan verb; Expression,kiniiru (気に入る),to like; to take a liking to,👑
+N3,Noun; Verb; Suru verb,kinyuu (記入),entry; filling in; filling out,✍️
+N3,Noun; Verb; Suru verb,kioku (記憶),memory; recollection; remembrance,🧠
+N3,Noun,kisha (記者),reporter; journalist,📰
+N3,Noun; Verb; Suru verb,kitai (期待),expectation; anticipation; hope,🤞
+N3,Noun,kokka (国家),state; country; nation,🌍
+N3,Noun,kokkai (国会),National Diet; legislative assembly of Japan; parliament; congress,🦵
+N3,Noun,kokkyou (国境),national border,🌍
+N3,Noun,kokugo (国語),national language,💬
+N3,Noun,kokumin (国民),people (of a country); nation; citizen; national,🌍
+N3,Noun; Adverbial Noun,kongo (今後),from now on; hereafter,⏰
+N3,Noun; Adverbial Noun,konkai (今回),now; this time; lately,⏰
+N3,Expression,konnichi (今日),today; this day,📅
+N3,Verb; Godan verb; Intransitive verb,korobu (転ぶ),to fall down; to fall over,⬇️
+N3,Noun; Adjective; な-adjective,kousoku (高速),high-speed; rapid; express,⚡
+N3,Noun; Verb; Suru verb,kunren (訓練),training; drill; practice; discipline,🌧️
+N3,Noun,kyoukasho (教科書),textbook; coursebook; schoolbook,🏫
+N3,Noun; Verb; Suru verb,kyouryoku (協力),cooperation; collaboration,🤝
+N3,Noun; Adjective; な-adjective,kyouryoku (強力),powerful; strong,💪
+N3,Adjective; な-adjective,kyuugeki (急激),sudden; abrupt; rapid; sharp; drastic; radical,⬆️
+N3,Adverb,kyuuni (急に),swiftly; rapidly; quickly; immediately; hastily,⚡
+N3,Noun; Verb; Suru verb,kyuushuu (吸収),absorption; suction; attraction,🧽
+N3,Noun; Adjective; な-adjective,kyuusoku (急速),rapid (e.g. progress),⚡
+N3,Noun; Adjective; な-adjective,majime (真面目),serious; earnest,👂
+N3,Noun; Adjective; な-adjective,makka (真っ赤),bright red; deep red; flushed (of face),😊
+N3,Verb; Godan verb; Transitive verb,manabu (学ぶ),to study (in depth); to learn; to take lessons in,👂
+N3,Noun; Adverb,manichi (万一),emergency; unlikely event​; by some chance; by some possibility,👍
+N3,Noun; Adjective; な-adjective; Verb; Suru verb,manzoku (満足),satisfaction; contentment;​ sufficient; enough,✅
+N3,Adjective; な-adjective,meikaku (明確),clear; precise; definite; distinct,👂
+N3,Noun,meshi (飯),cooked rice; meal,🍽️
+N3,Noun; Verb; Suru verb,mikata (味方),friend; ally; supporter; taking sides with; supporting,👥
+N3,Noun,miryoku (魅力),charm; fascination; glamour; attraction; appeal,💪
+N3,Noun; Adverbial Noun,mokuyou (木曜),Thursday,📅
+N3,Noun; Adverbial Noun; Suffix; Adverbial noun,nakaba (半ば),middle; half; semi; halfway; partly,½
+N3,Noun; Adjective; な-adjective,nesshin (熱心),enthusiastic; eager,🔥
+N3,Noun,nihon (日本),Japan,🇯🇵
+N3,Noun,nouryoku (能力),ability; faculty,💪
+N3,Noun; Verb; Suru verb,nyuujou (入場),entrance; admission; entering,🚪
+N3,Noun,ohiru (お昼),lunch; midday; daytime,🍱
+N3,Verb; Ichidan verb; Transitive verb,osameru (収める),to supply; to dedicate; to make an offering; to pay,🐱
+N3,Noun; Verb; Suru verb,renzoku (連続),continuation; succession; series,📊
+N3,Noun; Verb; Suru verb,rieki (利益),profit; gains; benefit,📈
+N3,Noun; Adjective; な-adjective,rikou (利口),clever; intelligent; wise; bright; sharp,✅
+N3,Noun; Verb; Suru verb,ryuugaku (留学),studying abroad,📖
+N3,Noun,sakuhin (作品),work of art; performance,👨
+N3,Noun; Verb; Suru verb,sayuu (左右),left and right,⬅️
+N3,Noun; Verb; Suru verb,seichou (成長),growth; development; growing up; becoming an adult,⬆️
+N3,Noun,seihin (製品),manufactured goods; finished goods; product,👨
+N3,Noun,seinen (青年),youth; young man,👨
+N3,Noun; Verb; Suru verb,shigeki (刺激),stimulus; impetus; incentive; encouragement; motivation; provocation; excitement; thrill,🐱
+N3,Noun,shihon (資本),funds; capital,💰
+N3,Noun,shina (品),article; item; thing; goods; stock; quality,🚶
+N3,Noun,shinchou (身長),body height; stature,🧍
+N3,Noun; Verb; Suru verb,shingaku (進学),entering a higher-level school (often university),🏫
+N3,Adjective; な-adjective,shinsen (新鮮),fresh,🥬
+N3,Noun,shiten (支店),branch office; branch store​,🏪
+N3,Noun; Verb; Suru verb,shiyou (使用),use; application; employment; utilization.,🐱
+N3,Noun,shokuhin (食品),food; food products,🍱
+N3,Noun,shomotsu (書物),book; volume,📖
+N3,Noun,shorui (書類),document; official papers,📄
+N3,Noun,shosai (書斎),study; library; den; home office; reading room,🏠
+N3,Noun,shoubai (商売),trade; business; commerce; transaction; occupation,🚌
+N3,Noun,shougakukin (奨学金),scholarship; stipend; student loan,🚢
+N3,Noun; Adverbial Noun,shougo (正午),midday,📅
+N3,Noun,shouhin (商品),commodity; article of commerce; goods; stock; merchandise,✋
+N3,Noun,shoujo (少女),little girl; maiden; young lady,👧
+N3,Noun; Verb; Suru verb,shoumei (証明),proof; verification; certification,🐱
+N3,Noun,shounen (少年),boy; juvenile; young boy; youth; lad,👦
+N3,Noun; Adverbial Noun,shoushou (少々),just a minute; small quantity,⏱️
+N3,Noun; Verb; Suru verb,shoutai (招待),invitation,💌
+N3,Noun; Suffix,shuu (週),week,📅
+N3,Noun; Verb; Suru verb,shuuchuu (集中),concentration; focusing; centralization; integration,🎤
+N3,Noun,shuudan (集団),group; mass,⬆️
+N3,Noun; Verb; Suru verb,shuukaku (収穫),harvest; crop; fruits (of one's labors),🍎
+N3,Noun,shuukan (週間),week,📅
+N3,Noun,shuukan (週刊),weekly publication,🐱
+N3,Noun,shuunyuu (収入),income; receipts; revenue; salary,👋
+N3,Noun,sokudo (速度),speed; velocity; pace; rate,💨
+N3,Adverb,sukoshimo (少しも),anything of; not one bit (with negative sentence),1️⃣
+N3,Noun; Adverbial Noun,taihan (大半),majority; more than half; most; largely; mainly,⬆️
+N3,Noun,taikai (大会),convention; rally; conference; tournament;,🎤
+N3,Pre-noun adjectival,taishita (大した),considerable; great; important; significant; a big deal,🍽️
+N3,Pre-noun adjectival,tannaru (単なる),mere; simple; sheer,✅
+N3,Noun; Adverb,tashou (多少),more or less; somewhat; a little; a few; some,🎩
+N3,Noun,tejina (手品),magic trick; illusion,🪄
+N3,Noun,tetsugaku (哲学),philosophy,🤔
+N3,Noun; Verb; Suru verb,tetsuya (徹夜),staying up all night,🌙
+N3,Noun,tochi (土地),plot of land; lot; soil,🏞️
+N3,Noun,tokai (都会),(big) city,⬆️
+N3,Verb; Ichidan verb; Intransitive verb; Transitive verb,toreru (取れる),to come off; to be removed; to be obtainable,👋
+N3,Verb; Ichidan verb; Transitive verb,toriageru (取り上げる),to pick up,⬆️
+N3,Noun,tosho (図書),books,📖
+N3,Noun; Verb; Suru verb,tsuugaku (通学),commuting to school; school commute,🏫
+N3,Verb; Godan verb; Transitive verb,uketoru (受け取る),to receive; to understand,📦
+N3,Adjective; い-adjective,umai (上手い),skillful; delicious,💪
+N3,Noun; Verb; Suru verb,unten (運転),operation; driving,🚗
+N3,Verb; Ichidan verb; Intransitive verb,ureru (売れる),to sell (well),💰
+N3,Verb; Ichidan verb; Transitive verb,wakeru (分ける),to divide; to split; to part; to separate,➗
+N3,Noun; Verb; Suru verb,waruguchi (悪口),slander; bad-mouthing; abuse; insult; speaking ill (of),🚌
+N3,Noun,yoake (夜明け),dawn; daybreak,🌅
+N3,Noun,yobun (余分),extra; excess; surplus,➕
+N3,Noun,yomi (読み),reading (of a kanji; situation; etc),📖
+N3,Noun; Adverbial Noun,yonaka (夜中),middle of the night; dead of night,🌙
+N3,Adjective; い-adjective,yoroshii (宜しい),(respectful) OK; all right,✅
+N3,Noun; Adverbial Noun,yuiitsu (唯一),only; sole; unique,1️⃣
+N3,Noun; Verb; Suru verb,yunyuu (輸入),import; importation; introduction,📥
+N3,Noun; Verb; Suru verb,yushutsu (輸出),export; exportation​,📤
+N3,Noun; Adverbial Noun,yuube (夕べ),evening / last night; yesterday evening,🌆
+N3,Noun; な-adjective,yuuri (有利),advantageous; favorable; profitable,🪑
+N3,Noun,zenkoku (全国),the whole country,🌍
+N3,Adjective; な-adjective; Adverb,zuibun (随分),very; extremely; surprisingly; considerably; awfully,🎤
+N4,Expression,a (あ),Ah; oh,😮
+N4,Adverb,aa (ああ),ah; yes,💭
+N4,Noun; Katakana,afurika (アフリカ),Africa,🌍
+N4,Verb; Godan verb; Intransitive verb,agaru (上がる),to rise,⬆️
+N4,Noun; Suru verb,aisatsu (挨拶),to greet,👋
+N4,Noun,aji (味),flavor; taste​; uniqueness; attractiveness; experience,😋
+N4,Noun; Katakana,ajia (アジア),Asia,🌏
+N4,Noun,akachan (赤ちゃん),baby; infant,👶
+N4,Noun,akanbou (赤ん坊),baby; infant,👶
+N4,Noun; Katakana,akusesarii (アクセサリー),accessory,💍
+N4,Noun; Katakana,amerika (アメリカ),America,🇺🇸
+N4,Noun; Katakana,anaunsaa (アナウンサー),announcer,🎙️
+N4,Pre-noun adjectival,anna (あんな),such,👉
+N4,Noun; Suru verb,annai (案内),to guide,ℹ️
+N4,Noun; Adjective; な-adjective; Suru verb,anshin (安心),peace of mind,😌
+N4,Noun; Adjective; な-adjective,anzen (安全),safety; security​,✅
+N4,Noun; Suru verb; Katakana,arubaito (アルバイト),part-time job,💼
+N4,Noun; Katakana,arukooru (アルコール),alcohol,🍺
+N4,Adjective; い-adjective,asai (浅い),shallow,⬇️
+N4,Noun,asobi (遊び),playing,🎮
+N4,Verb; Godan verb; Intransitive verb,atsumaru (集まる),to gather; to collect; to assemble,👥
+N4,Verb; Ichidan verb; Transitive verb,atsumeru (集める),to collect; to assemble; to gather,📚
+N4,Verb; Godan verb,ayamaru (謝る),to apologize,🙇
+N4,Noun,bai (倍),double,✖️2️⃣
+N4,Noun,bangumi (番組),program (e.g. TV),📺
+N4,Noun,basho (場所),place,📍
+N4,Noun; Katakana,beru (ベル),bell,🔔
+N4,Noun,bijutsukan (美術館),art gallery; art museum,🏛️
+N4,Adverb; Suru verb,bikkuri (びっくり),to be surprised,😲
+N4,Noun; Katakana,biru (ビル),building,🏢
+N4,Pronoun,boku (僕),I (used by males),👦
+N4,Noun; Suru verb,boueki (貿易),trade,💱
+N4,Noun,buchou (部長),manager; head (chief; director) of a section or department,🧠
+N4,Noun,budou (ぶどう),grapes,🍇
+N4,Noun,bungaku (文学),literature,📚
+N4,Noun,bunka (文化),culture,🎭
+N4,Noun,bunpou (文法),grammar,📖
+N4,Suffix,chan (ちゃん),suffix for familiar female person,👦
+N4,Noun; Suru verb; Katakana,chekku (チェック),to check,✅
+N4,Noun,chi (血),blood,🩸
+N4,Noun,chikara (力),energy; force; strength; might; power,💪
+N4,Noun,chiri (地理),geography,🗺️
+N4,Noun,chuugakkou (中学校),junior high school; middle school,🏫
+N4,Noun; Suru verb,chuui (注意),caution,⚠️
+N4,Noun; Suru verb,chuusha (注射),injection,💉
+N4,Noun,chuushajou (駐車場),parking lot,🏞️
+N4,Adverb,daibu (大分),considerably; greatly; a lot​,🍽️
+N4,Noun,daigakusei (大学生),university student; college student,🦵
+N4,Adjective; な-adjective,daiji (大事),important; serious; crucial,⭐
+N4,Noun,daitai (大体),roughly,≈
+N4,Noun; Suru verb,danbou (暖房),heating,🍽️
+N4,Noun,dansei (男性),man; male,👨
+N4,Adverb; Expression,dekiru dake (できるだけ),as much as possible,✅
+N4,Noun,denpou (電報),telegram,🦵
+N4,Noun,dentou (電灯),electric light,💡
+N4,Adverb,dondon (どんどん),rapidly; more and more,⚡
+N4,Noun,dorobou (泥棒),thief,🥷
+N4,Noun,doubutsuen (動物園),zoo; zoological gardens,🏡
+N4,Noun,dougu (道具),tool,🔧
+N4,Noun,eda (枝),branch,🌿
+N4,Noun; Suru verb,enryo (遠慮),reserve; refraining,🌧️
+N4,Verb; Godan verb; Transitive verb,erabu (選ぶ),to choose,☑️
+N4,Noun; Katakana,esukareetaa (エスカレーター),escalator,🛗
+N4,Noun; Suru verb; Katakana,fakkusu (ファックス),fax,📠
+N4,Noun; Adjective; な-adjective,fuben (不便),inconvenience,😞
+N4,Verb; Ichidan verb; Intransitive verb,fueru (増える),to increase,📈
+N4,Adjective; い-adjective,fukai (深い),deep,🕳️
+N4,Noun; Verb; Suru verb,fukushuu (復習),review (of learned material); revision,👂
+N4,Noun; Adjective; な-adjective,fukuzatsu (複雑),complexity; complication,🐱
+N4,Verb; Godan verb; Transitive verb,fumu (踏む),to step on,👣
+N4,Noun,fune (船),ship,🚢
+N4,Verb; Godan verb; Intransitive verb,furidasu (降り出す),to start to rain,⭐
+N4,Noun,futon (布団),Japanese bedding; futon,🛏️
+N4,Verb; Godan verb; Intransitive verb,futoru (太る),to become fat,👋
+N4,Noun; Adverb,futsuu (普通),usually,💯
+N4,Noun; Katakana,garasu (ガラス),a glass,🥃
+N4,Noun; Katakana,gasorin (ガソリン),gasoline; petrol,⛽
+N4,Noun; Katakana,gasorin sutando (ガソリンスタンド),petrol station,🚉
+N4,Noun; Katakana,gasu (ガス),petrol,⛽
+N4,Noun; Suru verb,genin (原因),cause,❓
+N4,Noun; Suru verb,geshuku (下宿),lodging,🏠
+N4,Noun,gijutsu (技術),art;technology;skill,💪
+N4,Noun; Suru verb,gochisou (ごちそう),a feast,🧭
+N4,Noun,gomi (ごみ),rubbish,🗑️
+N4,Verb; Godan verb; Expression,goran ni naru (ご覧になる),(respectful) to see,👀
+N4,Noun,goshujin (ご主人),your husband; her husband,👨
+N4,Noun,gozonji (ご存じ),knowing,⏰
+N4,Noun,guai (具合),condition; health,💊
+N4,Noun,ha (葉),leaves; leaf,🍃
+N4,Noun; Suru verb,haiken (拝見),seeing; looking at​,👑
+N4,Noun,haisha (歯医者),dentist,🦷
+N4,Adverb,hakkiri (はっきり),clearly,👂
+N4,Verb; Godan verb; Transitive verb,hakobu (運ぶ),to carry,🚗
+N4,Noun; Verb; Suru verb,hanami (花見),cherry blossom viewing; flower viewing,🌸
+N4,Noun; Katakana,handobaggu (ハンドバッグ),handbag,✋
+N4,Noun; Adjective; な-adjective; Suru verb,hantai (反対),opposition,🚫
+N4,Verb; Godan verb; Transitive verb,harau (払う),to pay,💳
+N4,Noun; Suru verb,hatsuon (発音),pronunciation,🗣️
+N4,Noun,hayashi (林),woods; forest,🌲
+N4,Adjective; い-adjective,hazukashii (恥ずかしい),embarrassed,😳
+N4,Noun; Adjective; な-adjective,hen (変),strange; peculiar; weird,🤪
+N4,Noun; Suru verb,henji (返事),reply; answer; response,✅
+N4,Noun,hi (火),fire,🔥
+N4,Adjective; い-adjective,hidoi (酷い),terrible; awful​,😱
+N4,Verb; Ichidan verb; Intransitive verb,hieru (冷える),to grow cold,🧊
+N4,Noun,hige (髭),beard,🐻
+N4,Adverb,hijou ni (非常に),extremely,‼️
+N4,Noun,hikari (光),light,💡
+N4,Verb; Godan verb; Intransitive verb,hikaru (光る),to shine,✨
+N4,Noun,hikidashi (引き出し),drawer,🗄️
+N4,Verb; Godan verb; Transitive verb,hikidasu (引き出す),to withdraw,💸
+N4,Verb; Godan verb; Intransitive verb,hikkosu (引っ越す),to move house,🏠
+N4,Noun,hikoujou (飛行場),airfield; airport,✈️
+N4,Verb; Godan verb; Intransitive verb; Transitive verb,hiraku (開く),to open; to undo; to unseal; to unpack,🌊
+N4,Verb; Godan verb; Transitive verb,hirou (拾う),to pick up,⬆️
+N4,Noun,hiruma (昼間),daytime; during the day,⏰
+N4,Noun,hiruyasumi (昼休み),lunch break; noon recess; noon rest period,🍱
+N4,Noun; Adjective; な-adjective,hisashiburi (久しぶり),after a long time,⏰
+N4,Verb; Ichidan verb; Transitive verb,homeru (褒める),to praise,👏
+N4,Noun; Suru verb,honyaku (翻訳),translation,🌐
+N4,Noun,hoshi (星),star,⭐
+N4,Adverbial Noun,hotondo (ほとんど),mostly,≈
+N4,Noun,houritsu (法律),law,⚖️
+N4,Noun; Suru verb,housou (放送),to broadcast,📻
+N4,Noun,ichido (一度),once; one time; on one occasion,1️⃣
+N4,Noun,igai (以外),with the exception of; excepting,🚫
+N4,Noun,igaku (医学),medical science; medicine,🔬
+N4,Verb; Ichidan verb; Transitive verb,ijimeru (いじめる),to tease,🍵
+N4,Noun; Adverbial Noun,ijou (以上),... and more; ... and upwards​,⬆️
+N4,Noun,ika (以下),not exceeding,⬇️
+N4,Noun; Verb; Suru verb,iken (意見),opinion; view; comment,💬
+N4,Noun,ikimono (生き物),living thing,📦
+N4,Verb; Ichidan verb; Intransitive verb,ikiru (生きる),to live,🫁
+N4,Noun; Suffix,inai (以内),within,📏
+N4,Noun,inaka (田舎),countryside,🌍
+N4,Verb; Godan verb; Transitive verb,inoru (祈る),to pray,🙏
+N4,Noun; Adjective; な-adjective; Adverb,ippai (いっぱい),full,🥛
+N4,Pre-noun adjectival,ironna (色んな),various,🎨
+N4,Noun,ishi (石),stone,1️⃣
+N4,Verb; Godan verb; Intransitive verb,isogu (急ぐ),to hurry; to rush; to hasten; to make something happen sooner,🖊️
+N4,Noun; Adverbial Noun; Adjective; な-adjective,isshoukenmei (一生懸命),very hard; with utmost effort,💪
+N4,Verb; Godan verb; Transitive verb,itadaku (頂く),(humble) to receive,📦
+N4,Verb; Godan verb; Transitive verb,itasu (致す),(humble) to do,🙇
+N4,Noun,ito (糸),thread,📖
+N4,Noun; Katakana,jamu (ジャム),jam,🍓
+N4,Noun,ji (字),character,🔤
+N4,Noun,jidai (時代),period,📜
+N4,Noun,jiko (事故),accident,💥
+N4,Noun,jimusho (事務所),office,🏢
+N4,Noun,jinja (神社),Shinto shrine,⛩️
+N4,Noun,jinkou (人口),population,👥
+N4,Noun,jinsei (人生),human life,👨
+N4,Noun,jishin (地震),earthquake,👂
+N4,Noun,jiten (辞典),dictionary,📕
+N4,Noun; Adjective; な-adjective; Expression,jiyuu (自由),freedom,🆓
+N4,Noun,josei (女性),woman; female,👨
+N4,Noun; Suru verb,junbi (準備),to prepare,📋
+N4,Noun; Adjective; な-adjective; Adverb,juubun (十分),enough; sufficient; plenty; adequate; satisfactory,🏭
+N4,Noun,juudou (柔道),judo,🥋
+N4,Noun,juusho (住所),address,👗
+N4,Noun; Katakana,kaaten (カーテン),curtain,🪟
+N4,Noun,kabe (壁),wall,🧱
+N4,Noun,kachou (課長),section manager; section chief,👨
+N4,Noun,kaeri (帰り),return; coming back,🔄
+N4,Verb; Ichidan verb; Transitive verb,kaeru (変える),to change; to transform,🔄
+N4,Noun,kagaku (科学),science,🔬
+N4,Noun,kagami (鏡),mirror,🪞
+N4,Noun,kaigan (海岸),coast,🏖️
+N4,Noun; Verb; Suru verb,kaigi (会議),meeting; conference; session; assembly,💼
+N4,Noun,kaigishitsu (会議室),conference room; conference hall; council room,🎤
+N4,Noun,kaijou (会場),assembly hall; meeting place; venue; grounds,💼
+N4,Noun; Verb; Suru verb,kaiwa (会話),conversation,💬
+N4,Noun,kaji (火事),fire,🔥
+N4,Noun,kakkou (格好),appearance,👂
+N4,Verb; Godan verb,kamau (構う),to mind,🤷
+N4,Noun,kami (髪),hair,💇
+N4,Verb; Godan verb; Transitive verb,kamu (噛む),to bite;to chew,🦷
+N4,Noun,kanai (家内),(my) wife; inside the home; one's family,🏠
+N4,Adverb,kanarazu (必ず),always; certainly,💯
+N4,Adjective; い-adjective,kanashii (悲しい),sad,😢
+N4,Verb; Ichidan verb; Transitive verb,kangaeru (考える),to think,🤔
+N4,Noun,kangofu (看護婦),female nurse,👩‍⚕️
+N4,Noun; Suru verb,kankei (関係),relationship,🚢
+N4,Pronoun,kanojo (彼女),she; her​,👩
+N4,Noun; Adjective; な-adjective,kantan (簡単),simple; easy,👍
+N4,Pronoun,kare (彼),he; him​; his,👨
+N4,Pronoun,karera (彼ら),they; them,👥
+N4,Noun,katachi (形),shape,🔷
+N4,Verb; Ichidan verb; Transitive verb,katadzukeru (片付ける),to tidy up,⬆️
+N4,Adjective; い-adjective,katai (硬い),hard,💪
+N4,Verb; Godan verb; Intransitive verb,katsu (勝つ),to win,🏆
+N4,Verb; Godan verb; Intransitive verb,kawaku (乾く),to get dry,📥
+N4,Noun,kawari (代わり),instead; in place,🍵
+N4,Verb; Godan verb; Intransitive verb,kawaru (変わる),to change,🔄
+N4,Verb; Godan verb; Intransitive verb,kayou (通う),to commute,🚶‍♂️
+N4,Verb; Godan verb; Transitive verb,kazaru (飾る),to decorate,🎀
+N4,Noun,ke (毛),hair or fur,🦱
+N4,Noun; Katakana,keeki (ケーキ),cake,🎂
+N4,Noun; Suru verb,kega (怪我),to injure,🤕
+N4,Noun; Suru verb,keikaku (計画),to plan,📅
+N4,Noun; Suru verb,keiken (経験),to experience,📊
+N4,Noun,keisatsu (警察),police,👮
+N4,Noun,keizai (経済),finance; economy,💰
+N4,Noun; Suru verb,kenbutsu (見物),sightseeing; visit,👀
+N4,Noun; Suru verb,kenka (喧嘩),to quarrel,🤜
+N4,Noun; Suru verb,kenkyuu (研究),research,🌊
+N4,Noun,kenkyuushitsu (研究室),laboratory,🔬
+N4,Noun,keshigomu (消しゴム),eraser,🧹
+N4,Noun,keshiki (景色),scenery,🖼️
+N4,Noun,ki (気),spirit,🌬️
+N4,Adjective; い-adjective,kibishii (厳しい),strict,😠
+N4,Noun,kibun (気分),feeling; mood,😊
+N4,Noun,kikai (機会),chance; opportunity,🎯
+N4,Noun; Adjective; な-adjective,kiken (危険),danger,⚠️
+N4,Verb; Ichidan verb; Intransitive verb,kikoeru (聞こえる),to be heard; to be audible; to be said,👂
+N4,Verb; Godan verb; Intransitive verb,kimaru (決まる),to be decided,✔️
+N4,Verb; Ichidan verb; Transitive verb,kimeru (決める),to decide,✅
+N4,Pronoun,kimi (君),You,👤
+N4,Noun,kimochi (気持ち),feeling,💗
+N4,Noun,kimono (着物),kimono; Japanese traditional clothing,📦
+N4,Noun,kinjo (近所),neighbourhood,🏘️
+N4,Noun,kinu (絹),silk,🧵
+N4,Noun,kisetsu (季節),season,🌊
+N4,Noun,kisha (汽車),train,🌧️
+N4,Noun,kisoku (規則),rule,📜
+N4,Noun,ko (子),child,👶
+N4,Noun,kokoro (心),heart,👂
+N4,Noun,kokusai (国際),international,🌍
+N4,Adjective; い-adjective,komakai (細かい),small; fine,⬇️
+N4,Noun,kome (米),(husked grains of) rice,🌧️
+N4,Verb; Godan verb; Intransitive verb,komu (込む),to be crowded,🚶‍♀️🚶‍♂️🚶
+N4,Noun,kondo (今度),this time; next time,⏰
+N4,Adverbial Noun,kono aida (この間),the other day; recently,📅
+N4,Adverbial Noun,kono goro (このごろ),these days; nowadays,📅
+N4,Noun; Katakana,konpyuuta (コンピュータ),computer,💻
+N4,Noun; Katakana,konsaato (コンサート),concert,🎵
+N4,Noun,konya (今夜),this evening; tonigh,🌆
+N4,Conjunction,korekara (これから),after this,➡️
+N4,Noun; Suru verb,koshou (故障),to break-down,⬇️
+N4,Noun,kotae (答え),response,💬
+N4,Noun,kotori (小鳥),small bird,🐦
+N4,Adverb,kou (こう),this way,👉
+N4,Noun,kouchou (校長),principal; headmaster,🧠
+N4,Noun,koudou (講堂),auditorium,🏛️
+N4,Noun,kougai (郊外),suburb; residential area on the outskirt of a city,🏘️
+N4,Noun; Suru verb,kougi (講義),lecture,👨‍🏫
+N4,Noun,kougyou (工業),industry,🏭
+N4,Noun,koujou (工場),factory,🏭
+N4,Noun,koukou (高校),senior high school; high school​,🏫
+N4,Noun,koukousei (高校生),high school student,🏫
+N4,Noun,koumuin (公務員),government worker,💼
+N4,Noun,koutougakkou (高等学校),high school,🏫
+N4,Noun,koutsuu (交通),traffic,🚦
+N4,Adjective; い-adjective,kowai (怖い),frightening,✅
+N4,Verb; Ichidan verb; Intransitive verb,kowareru (壊れる),to be broken,💔
+N4,Verb; Godan verb; Transitive verb,kowasu (壊す),to break,🔨
+N4,Noun,kubi (首),neck,👤
+N4,Verb; Godan verb,kudasaru (下さる),(respectful) to give,🎁
+N4,Noun,kumo (雲),cloud,☁️
+N4,Suffix,kun (君),suffix for familiar young male,👶
+N4,Verb; Ichidan verb; Transitive verb,kuraberu (比べる),to compare,⚖️
+N4,Verb; Ichidan verb; Intransitive verb,kureru (暮れる),to get dark,📥
+N4,Noun,kusa (草),grass,🌿
+N4,Noun,kuuki (空気),air,💨
+N4,Noun,kuukou (空港),airport,✈️
+N4,Noun,kyaku (客),guest; customer,👔
+N4,Noun; Suru verb,kyouiku (教育),education,🐱
+N4,Noun,kyoukai (教会),church; congregation; Christian church,⛪
+N4,Noun,kyoumi (興味),interest (in something); curiosity (about something); zest (for),😌
+N4,Noun; Suru verb,kyousou (競争),competition,🏁
+N4,Adjective; な-adjective,kyuu (急),sudden; abrupt; unexpected,⬆️
+N4,Noun; Verb; Suru verb,kyuukou (急行),hurrying (to somewhere); rushing; hastening,🔢
+N4,Verb; Ichidan verb; Transitive verb,machigaeru (間違える),to make a mistake (in),❌
+N4,Verb; Godan verb; Intransitive verb,mairu (参る),(humble) to go; to come,🚶
+N4,Verb; Ichidan verb; Intransitive verb,makeru (負ける),to lose,😞
+N4,Noun,manga (漫画),comic,📚
+N4,Verb; Godan verb; Intransitive verb,maniau (間に合う),to be in time (for),⏰
+N4,Noun,mannaka (真ん中),middle; centre; center,🚪
+N4,Noun,mawari (周り),around,🔄
+N4,Verb; Godan verb; Intransitive verb,mawaru (回る),to go around,🚶
+N4,Adverb,mazu (まず),first of all,💯
+N4,Verb; Godan verb; Transitive verb,meshiagaru (召し上がる),to eat; to drink​,🥤
+N4,Adjective; い-adjective,mezurashii (珍しい),unusual; rare,✨
+N4,Verb; Ichidan verb; Intransitive verb,mieru (見える),to be seen; to be in sight; to look; to seem,👀
+N4,Noun,minato (港),harbour,⚓
+N4,Noun,miso (味噌),fermented condiment made from soybeans,🍜
+N4,Verb; Godan verb; Intransitive verb,mitsukaru (見つかる),to be found; to be discovered,🔴
+N4,Verb; Ichidan verb; Transitive verb,mitsukeru (見つける),to discover; to find; to come across; to detect; to spot,👋
+N4,Noun,miyako (都),capital,🏛️
+N4,Noun,mizuumi (湖),lake,🏞️
+N4,Verb; Godan verb; Intransitive verb,modoru (戻る),to turn back,⏪
+N4,Noun,momen (木綿),cotton (material),👕
+N4,Noun,mori (森),forest,🌲
+N4,Adverb,moshi (もし),if; in case; supposing,🎤
+N4,Verb; Ichidan verb; Transitive verb,moushiageru (申し上げる),to say; to offer,🙇‍♂️
+N4,Verb; Godan verb; Transitive verb,mousu (申す),to be called; to say,💯
+N4,Adverb; Expression,mousugu (もうすぐ),soon,⏰
+N4,Verb; Ichidan verb; Transitive verb,mukaeru (迎える),to go out to meet,🚶
+N4,Noun; Adverbial noun,mukashi (昔),olden days; former,📅
+N4,Verb; Godan verb; Intransitive verb,mukau (向かう),to head towards,🧠
+N4,Noun; Adjective; な-adjective; Suru verb,muri (無理),impossible,✅
+N4,Noun,mushi (虫),insect,🐛
+N4,Noun,musuko (息子),son,👦
+N4,Noun,musume (娘),daughter,👧
+N4,Verb; Ichidan verb; Transitive verb,nageru (投げる),to throw or cast away,⚾
+N4,Verb; Godan verb,naku (泣く),to weep,😢
+N4,Verb; Godan verb; Intransitive verb,naku naru (無くなる),to disappear; to get lost,👂
+N4,Verb; Godan verb; Intransitive verb,nakunaru (亡くなる),to die,💀
+N4,Noun; Prefix,nama (生),raw,🥩
+N4,Verb; Godan verb; Intransitive verb,naoru (直る),to be fixed;to be repaired,🔴
+N4,Verb; Godan verb; Intransitive verb,naoru (治る),to be cured; to heal,🔴
+N4,Verb; Ichidan verb; Intransitive verb,nareru (慣れる),to get used to,📥
+N4,Verb; Godan verb; Intransitive verb,naru (鳴る),to sound,🔊
+N4,Adverb; Expression,naruhodo (なるほど),now I understand,⏰
+N4,Noun; Verb; Suru verb,nebou (寝坊),sleeping in late; oversleeping,😴
+N4,Noun,nedan (値段),price; cost,🍚
+N4,Adjective; い-adjective,nemui (眠い),sleepy,😴
+N4,Verb; Godan verb; Intransitive verb,nemuru (眠る),to sleep,😴
+N4,Noun,netsu (熱),fever,🤒
+N4,Adjective; い-adjective,nigai (苦い),bitter,😖
+N4,Verb; Ichidan verb; Intransitive verb,nigeru (逃げる),to escape,🏃‍♂️
+N4,Noun,nikaidate (二階建て),two-storied building,🏢
+N4,Noun,ningyou (人形),doll,🪆
+N4,Noun,nioi (匂い),a smell,👃
+N4,Verb; Ichidan verb; Intransitive verb,niru (似る),to be similar,≈
+N4,Noun,nodo (喉),throat,🗣️
+N4,Verb; Godan verb; Intransitive verb,nokoru (残る),to remain,⏳
+N4,Verb; Ichidan verb; Transitive verb,norikaeru (乗り換える),to change between buses or trains,🌧️
+N4,Noun,norimono (乗り物),vehicle,🚗
+N4,Verb; Ichidan verb; Intransitive verb,nureru (濡れる),to get wet,📥
+N4,Verb; Godan verb; Transitive verb,nuru (塗る),to paint; to plaster,😣
+N4,Verb; Godan verb; Transitive verb,nusumu (盗む),to steal,🍵
+N4,Noun; Verb; Suru verb,nyuugaku (入学),entry to school or university; enrollment,🏫
+N4,Noun; Verb; Suru verb,nyuuin (入院),hospitalization,🏥
+N4,Verb; Ichidan verb; Intransitive verb,ochiru (落ちる),to fall or drop,💯
+N4,Noun,odori (踊り),a dance,💃
+N4,Verb; Godan verb; Intransitive verb,odoroku (驚く),to be surprised,😲
+N4,Verb; Godan verb; Intransitive verb,odoru (踊る),to dance,💃
+N4,Verb; Godan verb; Expression,oide ni naru (お出でになる),(respectful) to be,🙏
+N4,Noun; Suru verb,oiwai (お祝い),congratulation,🎉
+N4,Noun,ojousan (お嬢さん),(another's) daughter,👧
+N4,Adjective; い-adjective,okashii (可笑しい),strange or funny,😆
+N4,Verb; Godan verb; Transitive verb,okonau (行う),to perform; to do; to carry out,🚗
+N4,Verb; Godan verb; Intransitive verb,okoru (怒る),to be angry,😠
+N4,Verb; Godan verb; Transitive verb,okosu (起こす),to wake,⏰
+N4,Numeric,oku (億),one hundred million,🦁
+N4,Noun,okujou (屋上),rooftop​,🏠
+N4,Verb; Ichidan verb; Intransitive verb,okureru (遅れる),to be late,⏰
+N4,Noun,okurimono (贈り物),present; gift,🎁
+N4,Verb; Godan verb; Transitive verb,okuru (送る),to send,📤
+N4,Noun,omatsuri (お祭り),festival,🎊
+N4,Noun,omimai (お見舞い),visiting ill or distressed people,🏥
+N4,Noun,omiyage (お土産),souvenir,🎁
+N4,Noun,omocha (おもちゃ),toy,🧸
+N4,Verb; Godan verb; Transitive verb,omoidasu (思い出す),to remember,💭
+N4,Noun,omote (表),the front,⏩
+N4,Noun; Katakana,ootobai (オートバイ),motorcycle,🏍️
+N4,Noun,orei (お礼),thanks,🙏
+N4,Verb; Ichidan verb; Intransitive verb,oreru (折れる),to break; to be broken,💔
+N4,Verb; Ichidan verb; Intransitive verb,oriru (下りる),to get off,📥
+N4,Verb; Godan verb; Transitive verb,oru (折る),to break or to fold,📜
+N4,Noun,oshiire (押し入れ),closet,🔒
+N4,Verb; Godan verb; Transitive verb,ossharu (仰る),(respectful) to say,🗨️
+N4,Noun,otaku (お宅),your home,🏠
+N4,Noun,oto (音),sound; note,🔊
+N4,Verb; Godan verb; Transitive verb,otosu (落とす),to drop,⬇️
+N4,Noun,otsuri (お釣り),change (for a purchase)​,💴
+N4,Noun,otto (夫),husband,👨
+N4,Noun,owari (終わり),the end,🔚
+N4,Noun,oya (親),parents,👨‍👩‍👦
+N4,Noun,oyogikata (泳ぎ方),way of swimming,🏊
+N4,Noun; Katakana,paato (パート),part; part time,⏰
+N4,Noun; Katakana,pasokon (パソコン),personal computer,👦
+N4,Noun; Katakana,piano (ピアノ),piano,🎹
+N4,Noun; Katakana,purezento (プレゼント),present; gift,🎁
+N4,Noun; Suru verb,reibou (冷房),air conditioning,❄️
+N4,Noun; Katakana,reji (レジ),cashier​,🛒
+N4,Noun,rekishi (歴史),history,📜
+N4,Suru verb,renraku (連絡),to contact; to get in touch​,📥
+N4,Noun; Katakana,repooto (レポート),report,📋
+N4,Noun; Verb; Suru verb,riyou (利用),use; utilization; application,🐱
+N4,Noun,riyuu (理由),reason,👦
+N4,Noun; Suru verb,rusu (留守),absence,🏠
+N4,Noun,ryokan (旅館),traditional inn; Japanese-style lodging,🏨
+N4,Noun,ryouhou (両方),both sides,↔️
+N4,Adjective; い-adjective,sabishii (寂しい),lonely,1️⃣
+N4,Verb; Godan verb; Intransitive verb,sagaru (下がる),to get down,📥
+N4,Verb; Godan verb; Transitive verb,sagasu (探す),to look for,👀
+N4,Verb; Ichidan verb; Transitive verb,sageru (下げる),to lower,⬇️
+N4,Noun,saigo (最後),end; last,🔚
+N4,Noun; Adverbial Noun,saikin (最近),recently,🕐
+N4,Noun; Adverbial Noun,saisho (最初),beginning; first,1️⃣
+N4,Noun,saka (坂),slope; hill,⛰️
+N4,Adjective; な-adjective,sakan (盛ん),popularity; prosperous,📈
+N4,Noun; Adverbial Noun,sakuya (昨夜),last night,🌙
+N4,Noun; Katakana,sandaru (サンダル),sandal,👡
+N4,Noun; Katakana,sandoicchi (サンドイッチ),sandwich,🥪
+N4,Noun,sangyou (産業),industry,🏭
+N4,Noun; Katakana,sarada (サラダ),salad,🥗
+N4,Noun; Adverbial Noun,saraigetsu (再来月),month after next,📅
+N4,Noun; Adverbial Noun,saraishuu (再来週),week after next,📅
+N4,Verb; Ichidan verb; Transitive verb,sashiageru (差し上げる),to give,🎁
+N4,Verb; Godan verb; Intransitive verb,sawagu (騒ぐ),to make noise;to be excited,🔊
+N4,Verb; Godan verb; Intransitive verb,sawaru (触る),to touch,✋
+N4,Noun,seibutsu (生物),living thing,📦
+N4,Noun,seiji (政治),politics,🏛️
+N4,Noun; Suru verb,seikatsu (生活),to live,🏡
+N4,Noun,seimei (生命),life,🫀
+N4,Noun; Suru verb,seisan (生産),production,🏭
+N4,Noun,seiyou (西洋),the west; Western countries,🧭
+N4,Noun,sekai (世界),the world,🌎
+N4,Noun,seki (席),seat,🌊
+N4,Noun,sen (線),line,➖
+N4,Noun,senaka (背中),back (of body),🧍
+N4,Noun,senpai (先輩),senior,👔
+N4,Noun; Suru verb,sensou (戦争),war,⚔️
+N4,Noun; Verb; Suru verb,setsumei (説明),explanation,🌍
+N4,Noun,shachou (社長),company president; manager; director,👨
+N4,Noun,shakai (社会),society; public; community; the world,👥
+N4,Noun,shi (市),city,🏙️
+N4,Noun; Suru verb,shiai (試合),match;game,🎮
+N4,Verb; Godan verb; Transitive verb,shikaru (叱る),to scold,🧊
+N4,Noun,shikata (仕方),way; method,🤔
+N4,Noun; Suru verb,shiken (試験),examination,✍️
+N4,Adverb; Suru verb,shikkari (しっかり),firmly; steadily,🍵
+N4,Noun,shima (島),island,🏝️
+N4,Noun,shimin (市民),citizen,👥
+N4,Noun,shinamono (品物),goods; article; thing,🚶
+N4,Noun,shinbunsha (新聞社),newspaper company,📄
+N4,Noun; Adjective; な-adjective,shinsetsu (親切),kindness,😊
+N4,Noun; Suru verb,shippai (失敗),failure,❌
+N4,Verb; Ichidan verb; Transitive verb,shiraberu (調べる),to investigate,🔍
+N4,Verb; Ichidan verb; Transitive verb,shiraseru (知らせる),to notify,📢
+N4,Noun,shitagi (下着),underwear,👂
+N4,Noun,shokuryouhin (食料品),food; groceries,🍱
+N4,Noun,shougakkou (小学校),elementary school,🏫
+N4,Verb; Ichidan verb; Transitive verb,shoujiru (生じる),to produce,⚡
+N4,Noun; Suru verb,shoukai (紹介),introduction,👥
+N4,Noun; Adverbial Noun,shourai (将来),future,⏭️
+N4,Noun,shousetsu (小説),novel,📖
+N4,Noun,shumi (趣味),hobby; pastime; preference,⏰
+N4,Noun,shuukan (習慣),habit; custom; cultural practice.,🎯
+N4,Noun,sobo (祖母),grandmother,👩
+N4,Verb; Ichidan verb; Transitive verb,sodateru (育てる),to rear;to bring up,👂
+N4,Noun,sofu (祖父),grandfather,👨
+N4,Noun; Katakana,sofuto (ソフト),soft,☁️
+N4,Pre-noun adjectival,sonna (そんな),that sort of,🎩
+N4,Conjunction,sore de (それで),because of that,🎩
+N4,Adverb,sore hodo (それほど),to that extent,🎩
+N4,Adverb,sorosoro (そろそろ),gradually; soon,💯
+N4,Noun; Suru verb,sotsugyou (卒業),graduation,🎓
+N4,Noun; Suru verb,soudan (相談),to discuss,💬
+N4,Adjective; い-adjective,subarashii (素晴らしい),wonderful,⭐
+N4,Verb; Godan verb; Intransitive verb,suberu (滑る),to slide; to slip,🛝
+N4,Adjective; い-adjective,sugoi (凄い),terrific,😲
+N4,Noun,suidou (水道),water supply,💧
+N4,Noun; Suru verb,suiei (水泳),swimming,🏊
+N4,Adverb,sukkari (すっかり),completely,💯
+N4,Verb; Godan verb; Intransitive verb,suku (空く),to be hungry,🤤
+N4,Noun; Katakana,sukuriin (スクリーン),screen,🖥️
+N4,Noun,sumi (隅),corner; nook,📐
+N4,Verb; Godan verb; Intransitive verb,sumu (済む),to finish,✅
+N4,Noun,suna (砂),sand,🏖️
+N4,Noun,suri (すり),pickpocket,🥷
+N4,Noun; Katakana,sustsukeesu (スーツケース),suitcase,🧳
+N4,Verb; Godan verb; Intransitive verb,susumu (進む),to make progress,⏩
+N4,Noun; Katakana,suteeki (ステーキ),steak,🍵
+N4,Noun; Katakana,sutereo (ステレオ),stereo,🔊
+N4,Verb; Ichidan verb; Transitive verb,suteru (捨てる),to throw away,🗑️
+N4,Noun,suugaku (数学),mathematics; arithmetic,🔢
+N4,Noun; Katakana,suutsu (スーツ),suit,👔
+N4,Adjective; い-adjective,tadashii (正しい),right; correct,✅
+N4,Noun; Verb; Suru verb,tai'in (退院),leaving hospital; discharge from hospital,🏥
+N4,Noun,taifuu (台風),typhoon,🌀
+N4,Noun,taipu (タイプ),type;style,⌨️
+N4,Noun; Adjective; な-adjective; Adverb,taitei (たいてい),usually,💯
+N4,Adverb,tamani (たまに),occasionally,💯
+N4,Noun,tana (棚),shelves,🗄️
+N4,Noun; Suru verb,tanjou (誕生),birth,👶
+N4,Noun; Adjective; な-adjective,tanoshimi (楽しみ),looking forward to​,👑
+N4,Verb; Ichidan verb; Intransitive verb,taoreru (倒れる),to fall (over; down),⬇️
+N4,Verb; Ichidan verb; Intransitive verb,tariru (足りる),to be sufficient; to be enough,✔️
+N4,Verb; Godan verb; Transitive verb,tasu (足す),to add (numbers / something),🔢
+N4,Noun,tatami (畳),Japanese straw mat,🎌
+N4,Verb; Ichidan verb; Transitive verb,tateru (建てる),to build,🏗️
+N4,Verb; Ichidan verb; Transitive verb,tazuneru (尋ねる),to ask,❓
+N4,Verb; Ichidan verb; Transitive verb,tazuneru (訪ねる),to visit,🚶
+N4,Noun,tebukuro (手袋),glove,❤️
+N4,Noun; Adjective; な-adjective,teinei (丁寧),polite,🙇
+N4,Noun; Katakana,tekisuto (テキスト),text; textbook,📖
+N4,Noun; Adjective; な-adjective,tekitou (適当),suitable,🪑
+N4,Noun,ten (点),point; dot,•
+N4,Noun,ten'in (店員),employee (of a store); shop assistant; clerk,🏪
+N4,Noun; Katakana,tenisu (テニス),tennis,🎾
+N4,Noun,tenkiyohou (天気予報),weather forecast,🍽️
+N4,Noun,tenrankai (展覧会),exhibition,🖼️
+N4,Noun,tera (寺),temple,⛩️
+N4,Verb; Godan verb; Transitive verb,tetsudau (手伝う),to help; to assist; to aid​,🤝
+N4,Noun; Adverbial Noun,tochuu (途中),on the way,🛤️
+N4,Verb; Ichidan verb; Transitive verb,todokeru (届ける),to send​,📤
+N4,Noun,tokkyuu (特急),limited express (train; faster than an express),🌧️
+N4,Noun,tokoya (床屋),barber,💈
+N4,Noun; Adjective; な-adjective,tokubetsu (特別),special; particular; extraordinary; exceptional,⭐
+N4,Adverb,tokuni (特に),particularly; especially; in particular; expressly,💯
+N4,Verb; Godan verb; Intransitive verb,tomaru (泊まる),to stay at,🛏️
+N4,Verb; Ichidan verb; Transitive verb,tomeru (止める),to stop something,🔝
+N4,Noun; Adverbial Noun,tooku (遠く),distant,🔭
+N4,Verb; Godan verb; Intransitive verb,tooru (通る),to go through,🚶
+N4,Verb; Ichidan verb; Transitive verb,torikaeru (取り替える),to exchange; to swap; to replace,🔄
+N4,Adverb,toutou (到頭),finally; after all,💯
+N4,Verb; Ichidan verb; Transitive verb,tsudzukeru (続ける),to continue; to keep up; to keep on,⬆️
+N4,Verb; Godan verb; Intransitive verb,tsudzuku (続く),to continue,➡️
+N4,Noun; Adverb,tsugou (都合),convenience,📅
+N4,Verb; Ichidan verb; Transitive verb,tsukamaeru (捕まえる),to catch,🐱
+N4,Verb; Ichidan verb; Transitive verb,tsukeru (漬ける),to soak; to pickle,🥒
+N4,Noun,tsuki (月),moon,🌙
+N4,Verb; Godan verb; Intransitive verb,tsuku (付く),to be attached,📎
+N4,Noun,tsuma (妻),(humble) wife,👩
+N4,Verb; Ichidan verb; Transitive verb,tsureru (連れる),to take (someone) with one,1️⃣
+N4,Verb; Godan verb; Transitive verb,tsuru (釣る),to fish,🐟
+N4,Verb; Ichidan verb; Transitive verb,tsutaeru (伝える),to report; to tell,📣
+N4,Verb; Godan verb; Transitive verb,tsutsumu (包む),to wrap,🎁
+N4,Noun,ude (腕),arm,💪
+N4,Verb; Ichidan verb; Transitive verb,ueru (植える),to plant; to grow,🌱
+N4,Verb; Godan verb; Intransitive verb,ugoku (動く),to move,🏃
+N4,Verb; Godan verb; Transitive verb,ukagau (伺う),to visit,🚶‍♂️
+N4,Verb; Ichidan verb; Transitive verb,ukeru (受ける),to take a lesson or test,👦
+N4,Noun,uketsuke (受付),reception (desk); information desk​,🪑
+N4,Noun,umare (生まれ),birth,👶
+N4,Noun,untenshu (運転手),driver; chauffeur,🏞️
+N4,Noun,ura (裏),reverse side,🔙
+N4,Adjective; い-adjective,ureshii (嬉しい),happy,😊
+N4,Noun,uriba (売り場),selling area,💰
+N4,Noun,uso (嘘),a lie,❌
+N4,Verb; Godan verb; Transitive verb,utsu (打つ),to hit,👊
+N4,Adjective; い-adjective,utsukushii (美しい),beautiful,✨
+N4,Verb; Godan verb; Intransitive verb,utsuru (移る),to move house or transfer,🏠
+N4,Verb; Godan verb; Transitive verb,utsusu (写す),to copy or photograph,📷
+N4,Noun; Katakana,waapuro (ワープロ),word processor,⌨️
+N4,Verb; Ichidan verb; Intransitive verb,wakareru (別れる),to separate,👋
+N4,Verb; Godan verb; Transitive verb,wakasu (沸かす),to boil; to heat,🍽️
+N4,Verb; Godan verb; Intransitive verb,waku (沸く),to boil,♨️
+N4,Verb; Godan verb; Intransitive verb,warau (笑う),to laugh; to smile,😂
+N4,Verb; Ichidan verb; Intransitive verb,wareru (割れる),to break,💥
+N4,Noun,wariai (割合),rate; ratio,📊
+N4,Noun,wasuremono (忘れ物),lost article,🔍
+N4,Verb; Ichidan verb; Intransitive verb,yakeru (焼ける),to burn; to be roasted,🔥
+N4,Verb; Godan verb; Transitive verb,yaku (焼く),to bake; to grill,🍳
+N4,Verb; Godan verb; Expression,yakunitatsu (役に立つ),to be helpful,👍
+N4,Noun; Suru verb,yakusoku (約束),promise,🤝
+N4,Verb; Godan verb; Intransitive verb,yamu (止む),to stop,🔝
+N4,Adverb,yappari (やっぱり),as I thought,💭
+N4,Adjective; い-adjective,yasashii (優しい),kind,💕
+N4,Verb; Ichidan verb; Intransitive verb,yaseru (痩せる),to become thin,👋
+N4,Adjective; い-adjective,yawarakai (柔らかい),soft,🧸
+N4,Verb; Ichidan verb; Intransitive verb,yogoreru (汚れる),to get dirty,📥
+N4,Verb; Godan verb,yorokobu (喜ぶ),to be delighted,😄
+N4,Verb; Godan verb; Intransitive verb,yoru (寄る),to visit; to drop by,🚶
+N4,Noun; Verb; Suru verb,yoshuu (予習),preparation for a lesson,👦
+N4,Noun; Suru verb,yotei (予定),plan,📆
+N4,Noun; Suffix,you (用),business; task; errand; use; purpose,🚌
+N4,Noun; Verb; Suru verb,youi (用意),preparation; arrangements; provision; getting ready,📖
+N4,Noun,youji (用事),tasks; things to do; errand; business (to take care of),🚗
+N4,Noun; Suru verb,yoyaku (予約),reservation,📅
+N4,Noun,yu (湯),hot water,💧
+N4,Noun,yubi (指),finger,👆
+N4,Noun,yubiwa (指輪),finger ring,👆
+N4,Noun,yume (夢),dream,💤
+N4,Verb; Ichidan verb; Intransitive verb,yureru (揺れる),to shake,📳
+N4,Noun; Adjective; な-adjective,zannen (残念),regrettable; unfortunate,🪑
+N4,Adverb,zenzen (全然),not entirely (used in a negative sentence),🚫
+N5,Verb; Ichidan verb; Transitive verb,abiru (浴びる),to bathe; to shower,🚿
+N5,Adjective; い-adjective,abunai (危ない),dangerous,⚠️
+N5,Pronoun,acchi (あっち),over there,👉
+N5,Pronoun,achira (あちら),there,👈
+N5,Verb; Ichidan verb; Transitive verb,ageru (上げる),to raise; to elevate; to give,🎁
+N5,Noun,aka (赤),red; crimson; scarlet​,🚗
+N5,Adjective; い-adjective,akai (赤い),red; crimson; scarlet​,🚗
+N5,Adjective; い-adjective,akarui (明るい),bright; light,✅
+N5,Verb; Ichidan verb; Transitive verb,akeru (開ける),to open (a door; etc.); to unwrap (e.g. parcel; package); to unlock,🔓
+N5,Noun,aki (秋),autumn; fall,🍂
+N5,Verb; Godan verb; Intransitive verb,aku (開く),to open (e.g. doors; business; etc),🚌
+N5,Adjective; い-adjective,amai (甘い),sweet; sweet-tasting; sugary; naive; indulgent,🍯
+N5,Noun,ame (雨),rain,🌧️
+N5,Noun,ame (飴),candy,🍬
+N5,Pronoun,anata (あなた),you,👤
+N5,Noun,ane (姉),older sister; elder sister​,👧
+N5,Noun,ani (兄),elder brother; older brother​,👦
+N5,Pre-noun adjectival,ano (あの),that,🎩
+N5,Noun,ao (青),blue; azure,🔵
+N5,Adjective; い-adjective,aoi (青い),blue; azure,🔵
+N5,Noun; Katakana,apaato (アパート),apartment,🏢
+N5,Verb; Godan verb; Transitive verb,arau (洗う),to wash,🧼
+N5,Pronoun,are (あれ),that,🎩
+N5,Verb; Godan verb; Intransitive verb,aru (ある),to be; to have,✔️
+N5,Verb; Godan verb; Intransitive verb,aruku (歩く),to walk,🚶
+N5,Noun,asa (朝),morning,🌅
+N5,Noun,asagohan (朝ご飯),breakfast,🍳
+N5,Noun,asatte (明後日),day after tomorrow,📅
+N5,Noun,ashi (足),foot; leg; paw; arm,🦶
+N5,Noun; Temporal noun,ashita (明日),tomorrow,📅
+N5,Verb; Godan verb; Intransitive verb,asobu (遊ぶ),to play; to enjoy oneself,🎮
+N5,Pronoun,asoko (あそこ),over there,👇
+N5,Noun,atama (頭),head,🧠
+N5,Adjective; い-adjective,atarashii (新しい),new; novel; fresh; recent; latest,✨
+N5,Adjective; い-adjective,atatakai (暖かい),warm,💪
+N5,Noun,ato (後),behind; after; remainder; left; also,⬅️
+N5,Adjective; い-adjective,atsui (暑い),hot; sultry,🔥
+N5,Adjective; い-adjective,atsui (厚い),thick,📚
+N5,Adjective; い-adjective,atsui (熱い),hot,🔥
+N5,Verb; Godan verb; Intransitive verb,au (会う),to meet; to encounter; to see,👀
+N5,Noun,bangohan (晩ご飯),dinner; evening meal,🌆
+N5,Noun,bangou (番号),number,🔢
+N5,Noun; Katakana,basu (バス),bus,🚌
+N5,Noun; Katakana,bataa (バター),butter​,🧈
+N5,Noun; Katakana,beddo (ベッド),bed,🛏️
+N5,Noun; Suru verb,benkyou (勉強),to study,📖
+N5,な-adjective,benri (便利),convenient; handy; useful,✋
+N5,Noun; Katakana,boorupen (ボールペン),ball-point pen,🖊️
+N5,Noun; Katakana,botan (ボタン),button,🔘
+N5,Noun,boushi (帽子),hat; cap,🎩
+N5,Noun,bunshou (文章),sentence,📄
+N5,Noun,butaniku (豚肉),pork,🥓
+N5,Noun,byouin (病院),hospital,🏥
+N5,Noun,byouki (病気),illness; disease; sickness,🌊
+N5,Noun,chairo (茶色),brown,🟤
+N5,Noun,chawan (茶碗),rice bowl; tea cup; teacup,🍚
+N5,Noun,chichi (父),father,👨
+N5,Verb; Godan verb; Intransitive verb,chigau (違う),to differ,≠
+N5,Adjective; い-adjective,chiisai (小さい),small; little; tiny,⬇️
+N5,Pre-noun adjectival,chiisana (小さな),small; little; tiny​,⬇️
+N5,い-adjective,chikai (近い),near; close,👂
+N5,Noun,chikatetsu (地下鉄),subway; underground train,🌧️
+N5,Noun,chizu (地図),map,🗺️
+N5,Adverb,chotto (ちょっと),a little,🔢
+N5,Adverb,choudo (丁度),exactly,🎯
+N5,Noun,daidokoro (台所),kitchen,🍳
+N5,Noun,daigaku (大学),university; college,🦵
+N5,Adjective; な-adjective; Adverb,daijoubu (大丈夫),OK; okay; alright; problem free,✅
+N5,Adjective; な-adjective,daisuki (大好き),love; like; like very much,❤️
+N5,Adverb,dandan (だんだん),gradually,💯
+N5,Pronoun,dare (誰),who,❓
+N5,Pronoun,dareka (誰か),someone; somebody,🧍
+N5,Verb; Godan verb; Transitive verb,dasu (出す),to take out; to get out; to put out; to reveal,📥
+N5,Noun,deguchi (出口),exit; gateway; way out,🚪
+N5,Verb; Ichidan verb; Intransitive verb,dekakeru (出かける),to go out; to leave; to depart,🚶
+N5,Noun,denki (電気),electricity,⚡
+N5,Noun,densha (電車),train; electric train,🌧️
+N5,Noun; Verb; Suru verb,denwa (電話),telephone (call / device)l; phone call,📱
+N5,Noun; Katakana,depaato (デパート),department store,🏪
+N5,Verb; Ichidan verb; Intransitive verb,deru (出る),to leave; to exit; to appear; to go out,👂
+N5,Noun; Katakana,doa (ドア),door,🚪
+N5,Pronoun,docchi (どっち),which; which one,1️⃣
+N5,Pronoun,dochira (どちら),which of two,2️⃣
+N5,Pronoun,doko (どこ),where; what place​,🎩
+N5,Noun,donata (どなた),who,❓
+N5,Pre-noun adjectival,dono (どの),which,❔
+N5,Pronoun,dore (どれ),which (of three or more)​,3️⃣
+N5,Adverb,dou (どう),how; in what way; how about​,🎩
+N5,Noun,doubutsu (動物),animal,🐾
+N5,Adverb,doumo (どうも),thank you; thanks,🙇‍♂️
+N5,Adverb,douzo (どうぞ),please,🙏
+N5,Noun,doyoubi (土曜日),Saturday,📅
+N5,Noun,e (絵),picture,🖼️
+N5,Noun,ee (ええ),yes; that is correct; right,🎩
+N5,Noun,eiga (映画),movie; film,🎬
+N5,Noun,eigakan (映画館),movie theater; cinema,🎭
+N5,Noun,eigo (英語),English language,💬
+N5,Noun,eki (駅),station,🚉
+N5,Noun,enpitsu (鉛筆),pencil,🖊️
+N5,Noun; Katakana,erebeetaa (エレベーター),elevator,🛗
+N5,Noun; Katakana,firumu (フィルム),film,📽️
+N5,Noun; Katakana,fooku (フォーク),fork,🍴
+N5,Noun,fuku (服),clothes,👔
+N5,Verb; Godan verb; Intransitive verb,fuku (吹く),to blow (of the wind),💨
+N5,Verb; Godan verb; Intransitive verb,furu (降る),to fall,💯
+N5,い-adjective,furui (古い),old (not used for people),📜
+N5,Noun,futari (二人),two people; pair; couple,2️⃣
+N5,Noun; Numeric,futatsu (二つ),two; 2,2️⃣
+N5,Adjective; い-adjective,futoi (太い),fat; thick,⬛
+N5,Noun,futsuka (二日),the second day of the month / 2 days,2️⃣
+N5,Noun,fuutou (封筒),envelope,✉️
+N5,Noun,fuyu (冬),winter,❄️
+N5,Noun,gaikoku (外国),foreign country,🌍
+N5,Noun,gaikokujin (外国人),foreigner; foreign citizen; foreign national; alien; non-Japanese,🌍
+N5,Noun,gakkou (学校),school,🏫
+N5,Noun,gakusei (学生),student,👨‍🎓
+N5,Noun,genkan (玄関),entrance,🚪
+N5,Noun; Adjective; な-adjective,genki (元気),lively; full of spirit; energetic; healthy,📥
+N5,Noun,getsuyoubi (月曜日),Monday,📅
+N5,Noun,ginkou (銀行),bank,🏦
+N5,Noun; Katakana,gitaa (ギター),guitar,🎸
+N5,Noun; Numeric,go (五),five; 5,5️⃣
+N5,Noun,gogo (午後),afternoon; p.m.,🕐
+N5,Noun,gohan (ご飯),cooked rice; meal,🍽️
+N5,Noun,gozen (午前),morning; a.m.,🌅
+N5,Noun; Katakana,guramu (グラム),gram,⚖️
+N5,Noun,gyuuniku (牛肉),beef,🐝
+N5,Noun,gyuunyuu (牛乳),(cow's) milk,🐄
+N5,Noun,ha (歯),tooth,🦷
+N5,Noun; Numeric,hachi (八),eight: 8,8️⃣
+N5,Noun,hagaki (葉書),postcard,🚗
+N5,Noun,haha (母),mother,👩
+N5,Noun,hai (はい),yes; that is correct​,🎩
+N5,Verb; Godan verb; Intransitive verb,hairu (入る),to enter; to go into,🚪
+N5,Noun,haizara (灰皿),ashtray,🚬
+N5,Verb; Godan verb; Intransitive verb,hajimaru (始まる),to begin,▶️
+N5,Adverb,hajimete (初めて),for the first time,⏰
+N5,Noun,hako (箱),box; crate,📦
+N5,Verb; Godan verb; Transitive verb,haku (履く),to wear; to put on trousers,👂
+N5,Noun,han (半),half; semi-; half-past,⏮️
+N5,Noun,hana (花),flower,🌸
+N5,Noun,hana (鼻),nose,👃
+N5,Noun,hanashi (話),talk; speech; chat; conversation​,🎩
+N5,Verb; Godan verb; Transitive verb,hanasu (話す),to speak; to talk; to converse,💬
+N5,Noun,hanbun (半分),half,½
+N5,Noun; Katakana,hankachi (ハンカチ),handkerchief​,✋
+N5,Noun,hare (晴れ),clear weather,👂
+N5,Verb; Ichidan verb; Intransitive verb,hareru (晴れる),to be sunny,☀️
+N5,Noun,haru (春),spring; springtime,🌸
+N5,Verb; Godan verb; Transitive verb,haru (貼る),to stick; to paste,⏮️
+N5,Noun,hashi (箸),chopsticks,🥢
+N5,Noun,hashi (橋),bridge,🌉
+N5,Verb; Godan verb; Intransitive verb,hashiru (走る),to run,🏃
+N5,Noun,hatachi (二十歳),20 years old; twenty years old,👂
+N5,Verb; Godan verb; Intransitive verb,hataraku (働く),to work,💼
+N5,Noun,hatsuka (二十日),twentieth day of the month / 20 days,📅
+N5,Adjective; い-adjective,hayai (速い),fast; quick; hasty; brisk,⚡
+N5,Adjective; い-adjective,hayai (早い),fast; early,👂
+N5,Noun,hen (辺),area,📍
+N5,Noun; Adjective; な-adjective,heta (下手),unskillful; poor; awkward​,💪
+N5,Noun,heya (部屋),room,🚪
+N5,Noun,hidari (左),left; left hand side,✋
+N5,Noun,higashi (東),east,🧭
+N5,Noun,hikouki (飛行機),airplane; aircraft,✈️
+N5,Verb; Godan verb; Transitive verb,hiku (引く),to pull,⬅️
+N5,Verb; Godan verb; Transitive verb,hiku (弾く),to play,🎮
+N5,い-adjective,hikui (低い),short;low,📏
+N5,Noun; な-adjective,hima (暇),free time,⏰
+N5,い-adjective,hiroi (広い),spacious; vast; wide,🏞️
+N5,Noun,hiru (昼),noon; midday; daytime; lunch,🍱
+N5,Noun,hirugohan (昼ご飯),lunch,🍱
+N5,Noun,hito (人),person; human,👦
+N5,Noun; Adverb,hitori (一人),one person​; alone; single,👦
+N5,Noun; Numeric,hitotsu (一つ),one thing; only,1️⃣
+N5,Noun,hoka (ほか),other (place; thing; person); the rest,👦
+N5,Noun,hon (本),book; volume; script,📖
+N5,Noun,hondana (本棚),bookshelf; bookcase,📖
+N5,Noun; Adjective; な-adjective,hontou (本当),truth; reality; actuality; fact,✅
+N5,Adjective; い-adjective,hoshii (欲しい),want,🙏
+N5,Adjective; い-adjective,hosoi (細い),thin; slender,📏
+N5,Noun; Katakana,hoteru (ホテル),hotel,🏨
+N5,Noun; Numeric,hyaku (百),100; hundred,🔴
+N5,Noun; Prefix; Suffix; Numeric,ichi (一),one; best; first; foremost; start,⭐
+N5,Noun; Adverb,ichiban (一番),number one; first; 1st; first place​; best; most​,🔢
+N5,Noun; Adverbial Noun,ichinichi (一日),one day; all day,1️⃣
+N5,Noun,ie (家),house; residence; family,🏠
+N5,Adverb,ikaga (いかが),how; in what way; how about​,🎩
+N5,Noun,ike (池),pond,🏞️
+N5,Verb; Godan verb; Intransitive verb,iku (行く),to go; to move,🚶
+N5,Noun; Adverb,ikura (いくら),how much?; how many?​,👨
+N5,Adverb,ikutsu (いくつ),how many?;how old?,👨
+N5,Noun; Adverbial Noun,ima (今),now; the present time; soon,⏰
+N5,Noun,imi (意味),meaning; significance; sense,💡
+N5,Noun,imouto (妹),younger sister,👧
+N5,Noun,inu (犬),dog,🐕
+N5,Verb; Ichidan verb; Transitive verb,ireru (入れる),to put in; to let in; to take in; to bring in; to insert; to install,📏
+N5,Noun,iriguchi (入口),entrance; entry; gate,🚪
+N5,Noun,iro (色),colour; color,🎨
+N5,Noun; Adjective; な-adjective; Adverb,iroiro (色々),various,🌈
+N5,Verb; Godan verb; Intransitive verb,iru (要る),to be needed,✅
+N5,Verb; Ichidan verb; Intransitive verb,iru (居る),to be; to have,👤
+N5,Noun,isha (医者),(medical) doctor; physician,👨‍⚕️
+N5,Adjective; い-adjective,isogashii (忙しい),busy,🚌
+N5,Noun,issho (一緒),together; at the same time; same; identical,📥
+N5,Noun,isu (椅子),chair,🪑
+N5,Adjective; い-adjective,itai (痛い),painful; sore​,😣
+N5,Pronoun,itsu (いつ),when,❓
+N5,Noun,itsuka (五日),the fifth day of the month / 5 days,📅
+N5,Noun; Numeric,itsutsu (五つ),five; 5,5️⃣
+N5,Verb; Godan verb,iu (言う),to say; to call,💯
+N5,Noun; Adjective; な-adjective,iya (嫌),unpleasant,😣
+N5,Conjunction,jaa (じゃあ),then; well; so; well then,👋
+N5,Noun,jibiki (字引),dictionary,📖
+N5,Pronoun,jibun (自分),myself; yourself; oneself; himself; herself; i; me,1️⃣
+N5,Noun,jidousha (自動車),automobile; motorcar; motor vehicle; car,🚗
+N5,Noun,jikan (時間),time; hour(s),⏰
+N5,Noun,jisho (辞書),dictionary,📕
+N5,Noun,jitensha (自転車),bicycle,🚲
+N5,Adjective; な-adjective,joubu (丈夫),strong; durable,💪
+N5,Noun; Adjective; な-adjective,jouzu (上手),skillful; skilled; proficient; good (at),🚶
+N5,Noun; Suru verb,jugyou (授業),lesson; class work,👦
+N5,Noun; Numeric,juu (十),ten; 10,🔟
+N5,Noun,kaban (かばん),bag; basket​,👜
+N5,Noun,kabin (花瓶),a vase,🏺
+N5,Noun,kado (角),a corner; angle​,📐
+N5,Verb; Godan verb; Intransitive verb,kaeru (帰る),to go back​,🚶
+N5,Verb; Godan verb; Transitive verb,kaesu (返す),to return something,🔄
+N5,Noun,kagi (鍵),key,🔑
+N5,Noun,kaidan (階段),stairs; stairway; staircase,🪜
+N5,Noun,kaimono (買い物),shopping; purchased goods,🏪
+N5,Noun,kaisha (会社),company; corporation,🏢
+N5,Verb; Godan verb; Intransitive verb,kakaru (掛かる),to take (a resource; e.g. time or money),💰
+N5,Verb; Ichidan verb; Transitive verb,kakeru (掛ける),to hang up; to make (a call)​;,⬆️
+N5,Verb; Godan verb; Transitive verb,kaku (書く),to write; to compose; to pen; to draw,✍️
+N5,Noun; Katakana,kamera (カメラ),camera,📷
+N5,Noun,kami (紙),paper,📄
+N5,Noun,kanji (漢字),kanji,㊙️
+N5,Noun; Katakana,kappu (カップ),cup,☕
+N5,Noun,karada (体),body,🧍
+N5,い-adjective,karai (辛い),spicy,🌶️
+N5,Noun; Katakana,karee (カレー),curry,🍛
+N5,Noun; Katakana,karendaa (カレンダー),calendar,📅
+N5,Verb; Ichidan verb; Transitive verb,kariru (借りる),to borrow,📚
+N5,Adjective; い-adjective,karui (軽い),light,🪶
+N5,Noun,kasa (傘),umbrella,☂️
+N5,Verb; Godan verb; Transitive verb,kasu (貸す),to lend; to loan,💳
+N5,Noun,kata (方),way of doing something,📦
+N5,Noun,katei (家庭),household,🏠
+N5,Verb; Godan verb; Transitive verb,kau (買う),to buy; to purchase,🛒
+N5,Noun; Suffix,kawa (川),river; stream​,🏞️
+N5,Adjective; い-adjective,kawaii (可愛い),cute,🥰
+N5,Noun,kayoubi (火曜日),Tuesday,📅
+N5,Noun,kaze (風),wind,💨
+N5,Noun,kaze (風邪),a cold,🧊
+N5,Noun,kazoku (家族),family; members of a family,👨‍👩‍👦
+N5,Noun,keikan (警官),policeman; police officer,🏢
+N5,Noun; Suru verb,kekkon (結婚),marriage,💍
+N5,Noun; Adverbial Noun; Adjective; な-adjective; Adverb,kekkou (結構),splendid; enough,👌
+N5,Noun; Temporal noun,kesa (今朝),this morning,🌅
+N5,Verb; Godan verb; Transitive verb,kesu (消す),to erase; to turn off power,🔌
+N5,Noun,ki (木),tree; shrub; bush; wood; timber,🌳
+N5,Verb; Ichidan verb; Intransitive verb,kieru (消える),to disappear,👂
+N5,Adjective; い-adjective,kiiroi (黄色い),yellow,🟡
+N5,Verb; Godan verb; Transitive verb,kiku (聞く),to hear; to listen (to music); to ask; to learn of,👂
+N5,Noun,kinou (昨日),yesterday,📅
+N5,Noun,kinyoubi (金曜日),Friday,📅
+N5,Noun,kippu (切符),ticket,🎫
+N5,Noun; Adjective; な-adjective,kirai (嫌い),hate,👎
+N5,Adjective; な-adjective,kirei (綺麗),pretty; lovely; beautiful,❤️
+N5,Noun; Katakana,kiro guramu (キログラム),kilogram,⚖️
+N5,Noun; Katakana,kiro meetoru (キロメートル),kilometer,📏
+N5,Verb; Godan verb; Transitive verb,kiru (切る),to cut,✂️
+N5,Verb; Ichidan verb; Transitive verb,kiru (着る),to wear,👂
+N5,Noun,kissaten (喫茶店),coffee shop; tearoom; cafe,🍵
+N5,Noun,kita (北),north,🧭
+N5,Adjective; い-adjective,kitanai (汚い),dirty,🗑️
+N5,Noun,kitte (切手),stamp (postage),💌
+N5,Noun,kocchi (こっち),this person or way,👦
+N5,Noun,kochira (こちら),this way; this direction​,👈
+N5,Noun,kodomo (子供),child,👶
+N5,Noun,koe (声),voice,🎤
+N5,Pronoun,koko (ここ),here; this place,📍
+N5,Noun,kokonoka (九日),ninth day of the month / 9 days,📅
+N5,Noun; Numeric,kokonotsu (九つ),nine; 9,9️⃣
+N5,Verb; Godan verb; Intransitive verb,komaru (困る),to be troubled,😰
+N5,Noun,konban (今晩),tonight; this evening,🌆
+N5,Noun,kongetsu (今月),this month,📅
+N5,Pre-noun adjectival,konna (こんな),such; like this​,👍
+N5,Pre-noun adjectival,kono (この),this​,👉
+N5,Noun,konshuu (今週),this week,📅
+N5,Noun; Katakana,koohii (コーヒー),Coffee,☕
+N5,Noun; Katakana,kooto (コート),coat,🧥
+N5,Noun; Suru verb; Katakana,kopii (コピー),copy; photocopy,📷
+N5,Noun; Katakana,koppu (コップ),glass (drinking vessel); tumbler​,🥤
+N5,Pronoun,kore (これ),this,☝️
+N5,Verb; Ichidan verb; Intransitive verb,kotaeru (答える),to answer,✅
+N5,Noun,kotoba (言葉),word; words,💬
+N5,Noun,kotoshi (今年),this year,👂
+N5,Noun,kouban (交番),police box,👮
+N5,Noun,koucha (紅茶),black tea,🍵
+N5,Noun,kouen (公園),park,🏞️
+N5,Noun,kousaten (交差点),intersection,🚥
+N5,Noun,kuchi (口),mouth; opening,👄
+N5,Noun,kudamono (果物),fruit,🍎
+N5,Expression,kudasai (下さい),please,🙏
+N5,Noun,kumori (曇り),cloudiness; cloudy weather,☁️
+N5,Verb; Godan verb; Intransitive verb,kumoru (曇る),to become cloudy; to become dim,☁️
+N5,Noun,kuni (国),country; state; region,🌍
+N5,Adjective; い-adjective,kurai (暗い),dark; gloomy; murky,⚫
+N5,Noun; Katakana,kurasu (クラス),class,👨‍🏫
+N5,Noun,kuro (黒),black,⚫
+N5,い-adjective,kuroi (黒い),black,⚫
+N5,Verb; Intransitive verb,kuru (来る),to come,👋
+N5,Noun,kuruma (車),car; automobile; vehicle,🚗
+N5,Noun,kusuri (薬),medicine,💊
+N5,Noun,kutsu (靴),shoes,👞
+N5,Noun,kutsushita (靴下),socks,🧦
+N5,Noun,kyonen (去年),last year,👂
+N5,Noun; Temporal noun,kyou (今日),today; this day,📅
+N5,Noun,kyoudai (兄弟),siblings; brothers and sisters​; mate,👦
+N5,Noun,kyoushitsu (教室),classroom,👨‍🏫
+N5,Noun; Numeric,kyuu (九),nine; 9,9️⃣
+N5,Noun; Katakana,macchi (マッチ),match,🔥
+N5,Noun,machi (町),town; block; neighborhood,🏘️
+N5,Noun,mado (窓),window,💨
+N5,Noun; Suffix,mae (前),previous; before; in front; ago,🚶
+N5,Verb; Godan verb; Intransitive verb,magaru (曲がる),to turn; to bend,↪️
+N5,Noun,maiasa (毎朝),every morning,🌅
+N5,Noun,maiban (毎晩),every night,🌙
+N5,Noun,mainichi (毎日),every day,📅
+N5,Noun,maishuu (毎週),every week,📅
+N5,Noun,maitoshi / mainen (毎年),every year; yearly; annually,👂
+N5,Noun,maitsuki (毎月),every month; monthly,📅
+N5,Noun; Numeric,man (万),10;000; ten thousand,💯
+N5,Noun,mannenhitsu (万年筆),fountain pen,🖊️
+N5,Adjective; い-adjective,marui (丸い),round;circular,⭕
+N5,Noun; Adjective; な-adjective; Adverb,massugu (真っ直ぐ),straight ahead;direct,🧠
+N5,Verb; Godan verb; Intransitive verb; Transitive verb,matsu (待つ),to wait​,⏰
+N5,Adjective; い-adjective,mazui (不味い),unpleasant,🤢
+N5,Noun,me (目),eye,👁️
+N5,Noun; Katakana,meetoru (メートル),metre; meter,📐
+N5,Noun,megane (眼鏡),glasses,🥃
+N5,Noun,michi (道),road; street,🌳
+N5,Noun,midori (緑),green,🟢
+N5,Verb; Godan verb; Intransitive verb,migaku (磨く),to polish; to shine; to brush (e.g. teeth),🪥
+N5,Noun,migi (右),right; right hand side,✋
+N5,Adjective; い-adjective,mijikai (短い),short,📏
+N5,Noun,mikka (三日),the third day of the month / 3 days,📅
+N5,Noun,mimi (耳),ear; hearing,👂
+N5,Noun,minami (南),south,🧭
+N5,Noun,minasan (皆さん),everyone,1️⃣
+N5,Noun; Adverb,minna (みんな),all; everyone; everybody,🧍
+N5,Verb; Ichidan verb; Transitive verb,miru (見る),to see; to look; to watch; to view; to observe,👀
+N5,Noun,mise (店),store; shop; establishment; restaurant,🏪
+N5,Verb; Ichidan verb; Transitive verb,miseru (見せる),to show; to display,🎮
+N5,Noun; Numeric,mittsu (三つ),three; 3,3️⃣
+N5,Noun,mizu (水),water; fluid; liquid​,💧
+N5,Noun,mokuyoubi (木曜日),Thursday,📅
+N5,Noun,mon (門),gate,⛩️
+N5,Noun,mondai (問題),problem; question (e.g. on a test),❓
+N5,Noun,mono (物),thing,📦
+N5,Verb; Godan verb,motsu (持つ),to hold,📜
+N5,Adverb,motto (もっと),more; longer; further,📏
+N5,Expression,mouichido (もう一度),once more; again,🔁
+N5,Noun,muika (六日),sixth day of the month / 6 days,📅
+N5,Noun,mukou (向こう),over there,👉
+N5,Noun,mura (村),village,🏡
+N5,Noun; Numeric,muttsu (六つ),six; 6,6️⃣
+N5,Adjective; い-adjective,muzukashii (難しい),difficult,😰
+N5,Adjective; い-adjective,nagai (長い),long (distance)​; long (time); lengthy.,⏰
+N5,Noun; Katakana,naifu (ナイフ),knife,🔪
+N5,Noun,naka (中),inside; in; within; center,🚪
+N5,Verb; Godan verb; Intransitive verb,naku (鳴く),animal noise. to chirp,🔊
+N5,Verb; Godan verb; Transitive verb,nakusu (無くす),to lose (something),📦
+N5,Noun,namae (名前),name; full name; given name,🎁
+N5,Noun; Numeric,nanatsu (七つ),seven; 7,7️⃣
+N5,Noun; Pronoun; Prefix,nani (何),what,🎩
+N5,Noun,nanoka (七日),seventh day of the month / 7 days,📅
+N5,Verb; Ichidan verb; Transitive verb,naraberu (並べる),to line up;to set up,⬆️
+N5,Verb; Godan verb; Intransitive verb,narabu (並ぶ),to line up;to stand in a line,⬆️
+N5,Verb; Godan verb; Transitive verb,narau (習う),to be taught; to learn (from a teacher),🍵
+N5,Noun,natsu (夏),summer,☀️
+N5,Noun,natsuyasumi (夏休み),summer vacation; summer holiday,🐱
+N5,Adverb,naze (何故),why; how,❓
+N5,Noun,neko (猫),cat,🐱
+N5,Noun; Katakana,nekutai (ネクタイ),tie; necktie,👔
+N5,Verb; Ichidan verb; Intransitive verb,neru (寝る),to sleep; to go to bed; to lie down,😴
+N5,Noun; Numeric,ni (二),two; 2,2️⃣
+N5,Noun,nichiyoubi (日曜日),Sunday,☀️
+N5,Adjective; な-adjective,nigiyaka (賑やか),bustling;busy,🚌
+N5,Noun,nikki (日記),diary; journal,📓
+N5,Noun,niku (肉),meat,🍖
+N5,Noun,nimotsu (荷物),luggage; baggage,👜
+N5,Noun,nishi (西),west,🧭
+N5,Noun,niwa (庭),garden,🏡
+N5,Verb; Godan verb; Intransitive verb,noboru (登る),to climb,🧗
+N5,Noun,nomimono (飲み物),drink; beverage,🥤
+N5,Verb; Godan verb; Transitive verb,nomu (飲む),to drink,🥤
+N5,Noun; Katakana,nooto (ノート),notebook,📖
+N5,Verb; Godan verb; Intransitive verb,noru (乗る),to get on (train; plane; bus; ship; etc.),🌧️
+N5,Verb; Godan verb; Transitive verb,nugu (脱ぐ),to take off clothes,👔
+N5,Adjective; い-adjective,nurui (温い),luke warm,💪
+N5,Noun; Katakana,nyuusu (ニュース),news,🆕
+N5,Noun,obaasan (おばあさん),grandmother,👩
+N5,Noun,obasan (伯母さん),aunt; old lady,📜
+N5,Noun,obentou (お弁当),lunch box; Japanese box lunch,🍱
+N5,Verb; Ichidan verb; Transitive verb,oboeru (覚える),to remember,🧠
+N5,Noun,ocha (お茶),tea,🍵
+N5,Noun,ofuro (お風呂),bath,🛁
+N5,い-adjective,oishii (美味しい),delicious,😋
+N5,Noun,ojisan (伯父さん),uncle; old man; mister,👨
+N5,Noun,okaasan (お母さん),mother; mom; mum; ma,👩
+N5,Noun,okane (お金),money,💰
+N5,Noun,okashi (お菓子),confections; sweets; candy,🍭
+N5,Verb; Ichidan verb; Intransitive verb,okiru (起きる),to get up; to wake up,⏰
+N5,Verb; Godan verb; Transitive verb,oku (置く),to put; to place​,📦
+N5,Noun,okusan (奥さん),wife; your wife; his wife,👩
+N5,Noun,omawari san (お巡りさん),police officer (friendly term for policeman),🏢
+N5,い-adjective,omoi (重い),heavy,⚖️
+N5,Adjective; い-adjective,omoshiroi (面白い),interesting,😌
+N5,Noun; Adverb,onaji (同じ),same,=
+N5,Noun,onaka (お腹),stomach,🤰
+N5,Noun,oneesan (お姉さん),elder sister; young lady; miss; ma'am,👧
+N5,Noun,ongaku (音楽),music,🎵
+N5,Noun,oniisan (お兄さん),older brother; elder brother; young man; buddy,👦
+N5,Noun; Prefix,onna (女),woman; female sex,👨
+N5,Noun; Expression,onnanoko (女の子),girl; daughter; young women,👧
+N5,Adjective; い-adjective,ooi (多い),many; numerous; a lot; large quantity; frequent,👨
+N5,Adjective; い-adjective,ookii (大きい),big; large; great; important,🍽️
+N5,Pre-noun adjectival,ookina (大きな),big; large; great​,🍽️
+N5,Noun,oozei (大勢),crowd of people; great number of people,🍽️
+N5,Verb; Ichidan verb; Intransitive verb,oriru (降りる),to get off,📥
+N5,Noun,osake (お酒),alcohol,🍶
+N5,Noun,osara (お皿),plate; dish,🍽️
+N5,Verb; Ichidan verb; Transitive verb,oshieru (教える),to teach,🍵
+N5,Adjective; い-adjective,osoi (遅い),slow; time-consuming; late,⏰
+N5,Verb; Godan verb; Transitive verb,osu (押す),to push; to press​,👆
+N5,Noun,otearai (お手洗い),toilet; restroom; lavatory; bathroom,😌
+N5,Noun,otoko (男),man; male,👨
+N5,Noun; Expression,otokonoko (男の子),boy; male child; baby boy,👶
+N5,Noun,otona (大人),adult,👨‍💼
+N5,Noun,ototoi (一昨日),day before yesterday,📅
+N5,Noun,ototoshi (一昨年),year before last,👂
+N5,Noun,otousan (お父さん),father; dad; papa; pa; pop; daddy,👨
+N5,Noun,otouto (弟),younger brother,👦
+N5,Verb; Godan verb; Intransitive verb,owaru (終わる),to finish; to end,🏁
+N5,Verb; Godan verb; Intransitive verb,oyogu (泳ぐ),to swim,🏊
+N5,Noun; Katakana,paatii (パーティー),party,🎉
+N5,Noun; Katakana,pan (パン),bread,🍞
+N5,Noun; Katakana,peeji (ページ),page,📄
+N5,Noun; Katakana,pen (ペン),pen,🖊️
+N5,Noun; Katakana,petto (ペット),pet,🐕
+N5,Noun,poketto (ポケット),pocket,👖
+N5,Noun; Katakana,posuto (ポスト),post,📮
+N5,Noun; Katakana,puuru (プール),swimming pool,🏊
+N5,Noun,raigetsu (来月),next month,📅
+N5,Noun,rainen (来年),next year,👂
+N5,Noun,raishuu (来週),next week,📅
+N5,Noun; Katakana,rajiio (ラジオ),radio,📻
+N5,Noun,rei (零),zero,0️⃣
+N5,Noun,reizouko (冷蔵庫),refrigerator,🧊
+N5,Noun; Katakana,rekoodo (レコード),record,💿
+N5,Noun; Verb; Suru verb,renshuu (練習),practice; practicing,🎯
+N5,Noun; Katakana,resutoran (レストラン),restaurant,🍴
+N5,Adjective; な-adjective,rippa (立派),splendid,✨
+N5,Noun; Numeric,roku (六),six; 6,6️⃣
+N5,Noun,rouka (廊下),corridor; hallway; passageway,💯
+N5,Noun; Verb; Suru verb,ryokou (旅行),travel; trip; journey; excursion; tour,🚌
+N5,Noun; Suru verb,ryouri (料理),cuisine,🍱
+N5,Noun,ryoushin (両親),parents; both parents,👨‍👩‍👦
+N5,Noun,ryuugakusei (留学生),overseas student; exchange student,🌊
+N5,Conjunction,saa (さあ),well…,💭
+N5,Noun,saifu (財布),purse; wallet,🧱
+N5,Noun,sakana (魚),fish,🐟
+N5,Noun; Prefix; Suffix,saki (先),previous; prior; first; earlier,👂
+N5,Verb; Godan verb; Intransitive verb,saku (咲く),to bloom,🌸
+N5,Noun,sakubun (作文),writing; composition,✍️
+N5,Adjective; い-adjective,samui (寒い),cold,🧊
+N5,Noun; Numeric,san (三),three; 3,3️⃣
+N5,Noun; Verb; Suru verb,sanpo (散歩),walk; stroll,🚶
+N5,Noun,sarainen (再来年),year after next,👂
+N5,Verb; Godan verb; Transitive verb,sasu (差す),to stretch out hands; to raise an umbrella,✋
+N5,Noun,satou (砂糖),sugar,🍬
+N5,Noun,se (背),height; stature; back; spine,⏪
+N5,Noun,sebiro (背広),business suit,🚌
+N5,Noun; Katakana,seetaa (セーター),sweater; jumper,🦘
+N5,Noun,seito (生徒),pupil; student,👨‍🎓
+N5,Noun,sekken (石鹼),soap,🧼
+N5,い-adjective,semai (狭い),narrow,↔️
+N5,Noun; Numeric,sen (千),1;000; thousand,💯
+N5,Noun,sengetsu (先月),last month,📅
+N5,Noun; Suffix,sensei (先生),teacher; instructor; master,🍵
+N5,Noun,senshuu (先週),last week,📅
+N5,Noun; Suru verb,sentaku (洗濯),washing; laundry,🧼
+N5,Noun,shashin (写真),photograph; photo,📷
+N5,Noun; Katakana,shatsu (シャツ),shirt,👔
+N5,Noun; Katakana,shawaa (シャワー),shower,🚿
+N5,Noun; Numeric,shi (四),four; 4,4️⃣
+N5,Noun; Numeric,shichi (七),seven; 7,7️⃣
+N5,Noun; Verb; Suru verb,shigoto (仕事),work; job; business,🚌
+N5,Verb; Godan verb; Intransitive verb,shimaru (閉まる),to close; to be closed,🔒
+N5,Verb; Ichidan verb; Transitive verb,shimeru (閉める),to close; to shut,🔒
+N5,Verb; Ichidan verb; Transitive verb,shimeru (締める),to tie; to fasten; to tighten​,⚡
+N5,Noun,shinbun (新聞),newspaper,📄
+N5,Verb; Godan verb; Intransitive verb,shinu (死ぬ),to die,💀
+N5,Noun,shio (塩),salt,🧂
+N5,Noun,shiro (白),white; innocence; innocent person,👦
+N5,Adjective; い-adjective,shiroi (白い),white,⚪
+N5,Verb; Godan verb; Transitive verb,shiru (知る),to know,⏰
+N5,Noun,shita (下),below; down; under; bottom,⬇️
+N5,Noun; Verb; Suru verb,shitsumon (質問),question; inquiry,❓
+N5,Adjective; な-adjective,shizuka (静か),quiet,🤫
+N5,Noun,shokudou (食堂),cafeteria; dining room,🍽️
+N5,Noun,shouyu (醬油),soy sauce,🥢
+N5,Noun,shukudai (宿題),homework; assignment; pending issue,🏠
+N5,Noun,soba (そば),near; beside,👂
+N5,Pronoun,socchi (そっち),that way; ​over there,🎩
+N5,Pronoun,sochira (そちら),that way (distant from speaker; close to listener); you; your family,👨‍👩‍👦
+N5,Pronoun,soko (そこ),that place​; there,🎩
+N5,Pre-noun adjectival,sono (その),that,🎩
+N5,Noun,sora (空),sky; the air,🌌
+N5,Pronoun,sore (それ),that,🎩
+N5,Expression,sore dewa (それでは),in that situation,🎩
+N5,Noun,soto (外),outside; exterior;,📤
+N5,Noun; Suru verb,souji (掃除),to clean; to sweep,✨
+N5,Adverb,sugu ni (直ぐに),immediately; right away; instantly​,✅
+N5,Noun,suiyoubi (水曜日),Wednesday,📅
+N5,Noun; Katakana,sukaato (スカート),skirt,👗
+N5,Noun; Adjective; な-adjective,suki (好き),like,👍
+N5,Noun; Adverb,sukoshi (少し),a little (bit); small quantity; few; short distance,⬇️
+N5,い-adjective,sukunai (少ない),few; a little; scarce; insufficient; seldom,🚗
+N5,Verb; Godan verb; Intransitive verb,sumu (住む),to live in; to reside; to inhabit; to dwell; to abide,🏡
+N5,Noun; Katakana,supootsu (スポーツ),sport; sports,⚽
+N5,Noun; Katakana,supuun (スプーン),spoon,🥄
+N5,Noun; Katakana,surippa (スリッパ),slipper; slippers,🩴
+N5,Noun; Katakana,sutoobu (ストーブ),heater; stove,🍽️
+N5,Verb; Godan verb; Transitive verb,suu (吸う),to smoke; to suck,🚬
+N5,Verb; Godan verb; Intransitive verb,suwaru (座る),to sit,🪑
+N5,Adjective; い-adjective,suzushii (涼しい),refreshing; cool,❄️
+N5,Noun,tabako (たばこ),tobacco; cigarette,🚬
+N5,Noun,tabemono (食べ物),food,🍱
+N5,Verb; Ichidan verb; Intransitive verb,taberu (食べる),to eat,🍽️
+N5,Adjective; な-adjective; Adverb,tabun (多分),perhaps; probably,🤔
+N5,Noun; Adjective; な-adjective; Adverb,taihen (大変),very; greatly; terribly; serious; difficult,🍽️
+N5,Noun; Adjective; な-adjective,taisetsu (大切),important; necessary; indispensable; beloved,❤️
+N5,Noun,taishikan (大使館),embassy,🏛️
+N5,Adjective; い-adjective,takai (高い),high; tall; expensive; above average,🖊️
+N5,Noun; Adverbial Noun; Adjective; な-adjective,takusan (沢山),many,👨
+N5,Noun; Katakana,takushii (タクシー),taxi,🚕
+N5,Noun,tamago (卵),eggs; egg,🥚
+N5,Noun,tanjoubi (誕生日),birthday,🎂
+N5,Verb; Godan verb; Transitive verb,tanomu (頼む),to ask,🙏
+N5,Adjective; い-adjective,tanoshii (楽しい),enjoyable; fun,😄
+N5,Noun,tate (縦),length;height,📏
+N5,Noun,tatemono (建物),building,🏢
+N5,Verb; Godan verb; Intransitive verb,tatsu (立つ),to stand; to stand up​,⬆️
+N5,Noun,te (手),hand; arm,✋
+N5,Noun; Katakana,teeburu (テーブル),table,🪑
+N5,Noun; Katakana,teepu (テープ),tape,📼
+N5,Noun; Katakana,teepu rekoodaa (テープレコーダー),tape recorder,📼
+N5,Noun,tegami (手紙),Letter (message)​,✉️
+N5,Noun,tenki (天気),weather; the elements,🍽️
+N5,Noun; Katakana,terebi (テレビ),television; TV​,📺
+N5,Noun; Suru verb; Katakana,tesuto (テスト),examination; quiz; test,✍️
+N5,Noun,to (戸),Japanese style door,🚪
+N5,Verb; Godan verb; Intransitive verb,tobu (飛ぶ),to fly; to hop,✈️
+N5,Noun; Katakana,toire (トイレ),toilet,🚽
+N5,Noun,tokei (時計),watch; clock; timepiece,⌚
+N5,Noun,toki (時),time; moment; occasion; chance,⏰
+N5,Noun; Adverb,tokidoki (時々),sometimes; at times,⏰
+N5,Noun; Suffix,tokoro (所),place,📍
+N5,Verb; Godan verb; Intransitive verb,tomaru (止まる),to stop; to come to a halt,👋
+N5,Noun,tomodachi (友達),friend; companion,👥
+N5,Noun,tonari (隣),next door to,🚪
+N5,Adjective; い-adjective,tooi (遠い),far,🔭
+N5,Noun,tooka (十日),tenth day of the month / 10 days,📅
+N5,Noun,tori (鳥),bird,🐦
+N5,Noun,toriniku (鶏肉),chicken meat,🐔
+N5,Verb; Godan verb; Transitive verb,toru (取る),to take; to pick up; to harvest; to earn; to win; to choose,👂
+N5,Verb; Godan verb; Transitive verb,toru (撮る),to take a photo or record a film,📷
+N5,Noun,toshi (年),year; age,👂
+N5,Noun,toshokan (図書館),library,📚
+N5,Noun,tsugi (次),next,⏭️
+N5,Noun,tsuitachi (一日),first day of the month,📅
+N5,Verb; Ichidan verb; Intransitive verb,tsukareru (疲れる),to get tired,📥
+N5,Verb; Godan verb; Transitive verb,tsukau (使う),to use,🔧
+N5,Verb; Ichidan verb; Transitive verb,tsukeru (つける),to turn on,💡
+N5,Verb; Ichidan verb; Transitive verb,tsukeru (付ける),to attach; affix; add; apply,📎
+N5,Verb; Godan verb; Intransitive verb,tsuku (着く),to arrive at,🎯
+N5,Noun,tsukue (机),desk,🪑
+N5,Verb; Godan verb; Transitive verb,tsukuru (作る),to make,🔨
+N5,Adjective; い-adjective,tsumaranai (詰まらない),boring,😑
+N5,い-adjective,tsumetai (冷たい),cold to the touch,🧊
+N5,Verb; Ichidan verb; Transitive verb,tsutomeru (勤める),to work for someone,💼
+N5,Adjective; い-adjective,tsuyoi (強い),powerful,💪
+N5,Noun; Suffix,ue (上),above; up; over; top; surface,😊
+N5,Verb; Ichidan verb; Intransitive verb,umareru (生まれる),to be born,👶
+N5,Noun,umi (海),sea,🌊
+N5,Verb; Godan verb; Transitive verb,uru (売る),to sell,💰
+N5,い-adjective,urusai (煩い),noisy; annoying,🔊
+N5,Noun,ushiro (後ろ),back; behind; rear,👂
+N5,Adjective; い-adjective,usui (薄い),thin; weak,📄
+N5,Noun,uta (歌),song,👦
+N5,Verb; Godan verb; Intransitive verb; Transitive verb,utau (歌う),to sing,🎤
+N5,Noun,uwagi (上着),coat; tunic; jacket; outer garment,💪
+N5,Noun; Katakana; Wasei,wai shatsu (ワイシャツ),shirt,👔
+N5,Adjective; い-adjective,wakai (若い),young,👶
+N5,Verb; Godan verb; Intransitive verb,wakaru (分かる),to understand; to comprehend; to grasp; to see; to get; to follow,👀
+N5,Adjective; い-adjective,warui (悪い),bad; poor; undesirable,👎
+N5,Verb; Ichidan verb; Transitive verb,wasureru (忘れる),to forget,📥
+N5,Verb; Godan verb; Intransitive verb,wataru (渡る),to go across,🚶
+N5,Pronoun,watashi (私),I; myself,👤
+N5,Verb; Godan verb; Transitive verb,watasu (渡す),to hand over,✋
+N5,Noun,yama (山),mountain; hill,⛰️
+N5,Noun,yaoya (八百屋),greengrocer; fruit and vegetable shop; versatile,🥬
+N5,Verb; Godan verb; Transitive verb,yaru (やる),to do,✅
+N5,Noun,yasai (野菜),vegetable,🥬
+N5,Adjective; い-adjective,yasashii (易しい),easy; simple,👍
+N5,Adjective; い-adjective,yasui (安い),cheap; inexpensive,🖊️
+N5,Noun,yasumi (休み),rest; vacation; holiday,🐱
+N5,Verb; Godan verb; Intransitive verb,yasumu (休む),to be absent; to take a day off; to rest,😌
+N5,Noun; Numeric,yattsu (八つ),eight: 8,8️⃣
+N5,Verb; Godan verb; Transitive verb,yobu (呼ぶ),to call out; to invite,💯
+N5,Adjective; い-adjective,yoi/ii (良い),good,🚶
+N5,Noun,yokka (四日),fourth day of the month / 4 days,📅
+N5,Noun,yoko (横),beside;side;width,↔️
+N5,Adverb,yoku (よく),often; well,👍
+N5,Verb; Godan verb; Transitive verb,yomu (読む),to read; to guess; to predict; to read (someone's thoughts),📖
+N5,Noun,yoru (夜),evening; night,🌆
+N5,Noun; Numeric,yotsu (四つ),four; 4,4️⃣
+N5,Noun,youfuku (洋服),western clothes,👔
+N5,Noun,youka (八日),eighth day of the month / 8 days,📅
+N5,Adjective; い-adjective,yowai (弱い),weak,😰
+N5,Noun,yuki (雪),snow,❄️
+N5,Adverb,yukkuri (ゆっくり),slowly,🐌
+N5,Noun,yuube (昨夜),last night,🌙
+N5,Noun,yuubinkyoku (郵便局),post office,🏢
+N5,Noun,yuugata (夕方),evening; dusk,🌆
+N5,Noun,yuuhan (夕飯),evening meal,🌆
+N5,Noun; Adjective; な-adjective,yuumei (有名),famous,⭐
+N5,Noun,zasshi (雑誌),magazine,📰
+N5,Noun; Adverbial Noun,zenbu (全部),all,💯
+N5,Noun,zero (ゼロ),zero,0️⃣
+N5,Noun; Katakana,zubon (ズボン),trousers; pants,👖

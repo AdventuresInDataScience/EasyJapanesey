@@ -22,24 +22,25 @@ class VocabularyRepository(private val context: Context) {
         reader.readLine()
         
         // Parse CSV into grouped structure
-        val categoryMap = mutableMapOf<String, MutableMap<String, MutableMap<String, MutableList<VocabularyCard>>>>()
+        // New format: Level,Type,Vocabulary,Meaning,Emoji
+        // Level = Category (e.g., N5, N4, N3, N2, N1)
+        // Type = Level1 (e.g., Noun, Verb, Adjective, etc.)
+        val categoryMap = mutableMapOf<String, MutableMap<String, MutableList<VocabularyCard>>>()
         
         reader.forEachLine { line ->
             val parts = line.split(",")
             if (parts.size >= 5) {
-                val category = parts[0].trim()
-                val level1 = parts[1].trim()
-                val level2 = parts[2].trim()
-                val emoji = parts[3].trim()
-                val english = parts[4].trim()
-                val romaji = parts[5].trim()
+                val level = parts[0].trim()       // Category (e.g., N5, N4)
+                val type = parts[1].trim()        // Level1 (e.g., Noun, Verb)
+                val vocabulary = parts[2].trim()  // The vocabulary word
+                val meaning = parts[3].trim()     // English meaning
+                val emoji = parts[4].trim()       // Emoji
                 
-                val card = VocabularyCard(emoji, english, romaji)
+                val card = VocabularyCard(emoji, meaning, vocabulary)
                 
                 categoryMap
-                    .getOrPut(category) { mutableMapOf() }
-                    .getOrPut(level1) { mutableMapOf() }
-                    .getOrPut(level2) { mutableListOf() }
+                    .getOrPut(level) { mutableMapOf() }
+                    .getOrPut(type) { mutableListOf() }
                     .add(card)
             }
         }
@@ -47,22 +48,13 @@ class VocabularyRepository(private val context: Context) {
         reader.close()
         
         // Convert to data classes
-        val categories = categoryMap.map { (categoryName, level1Map) ->
-            val level1Groups = level1Map.map { (level1Name, level2Map) ->
-                if (level2Map.size == 1 && level2Map.containsKey("")) {
-                    // Single level - cards directly under level1
-                    Level1Group(level1Name, emptyList(), level2Map[""]!!)
-                } else {
-                    // Two levels - level2 groups under level1
-                    val level2Groups = level2Map
-                        .filter { it.key.isNotEmpty() }
-                        .map { (level2Name, cards) ->
-                            Level2Group(level2Name, cards)
-                        }
-                    Level1Group(level1Name, level2Groups, emptyList())
-                }
+        val categories = categoryMap.map { (levelName, typeMap) ->
+            val level1Groups = typeMap.map { (typeName, cards) ->
+                // Vocabulary has two levels: Level (category) and Type (level1)
+                // Cards are directly under Type with no further subdivision
+                Level1Group(typeName, emptyList(), cards)
             }
-            Category(categoryName, level1Groups)
+            Category(levelName, level1Groups)
         }
         
         cachedCategories = categories

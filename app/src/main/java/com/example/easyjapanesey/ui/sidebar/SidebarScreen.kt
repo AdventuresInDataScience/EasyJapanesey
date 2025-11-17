@@ -21,6 +21,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.easyjapanesey.data.model.Category
 import com.example.easyjapanesey.data.model.Level1Group
 import com.example.easyjapanesey.data.model.Level2Group
+import com.example.easyjapanesey.data.repository.PhrasesRepository
 import com.example.easyjapanesey.data.repository.VocabularyRepository
 import com.example.easyjapanesey.navigation.Screen
 
@@ -28,8 +29,10 @@ import com.example.easyjapanesey.navigation.Screen
 @Composable
 fun SidebarScreen(navController: NavController) {
     val context = LocalContext.current
-    val repository = remember { VocabularyRepository(context) }
-    val categories = remember { repository.loadVocabulary() }
+    val vocabularyRepository = remember { VocabularyRepository(context) }
+    val phrasesRepository = remember { PhrasesRepository(context) }
+    val vocabularyCategories = remember { vocabularyRepository.loadVocabulary() }
+    val phrasesCategories = remember { phrasesRepository.loadPhrases() }
     
     Scaffold(
         topBar = {
@@ -52,18 +55,89 @@ fun SidebarScreen(navController: NavController) {
                 .padding(paddingValues)
                 .padding(16.dp)
         ) {
-            // Grammar placeholder
+            // Phrases section
             item {
-                GrammarPlaceholder()
+                PhrasesSection(
+                    categories = phrasesCategories,
+                    navController = navController
+                )
                 Spacer(modifier = Modifier.height(8.dp))
             }
             
             // Vocabulary section
             item {
                 VocabularySection(
-                    categories = categories,
+                    categories = vocabularyCategories,
                     navController = navController
                 )
+                Spacer(modifier = Modifier.height(8.dp))
+            }
+            
+            // Grammar placeholder
+            item {
+                GrammarPlaceholder()
+            }
+        }
+    }
+}
+
+@Composable
+fun PhrasesSection(
+    categories: List<Category>,
+    navController: NavController
+) {
+    val context = LocalContext.current
+    val progressRepo = remember { com.example.easyjapanesey.data.preferences.UserProgressRepository(context) }
+    var expanded by remember { mutableStateOf(progressRepo.isMenuExpanded("phrases_section")) }
+    
+    Card(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(vertical = 4.dp)
+    ) {
+        Column {
+            // Phrases header
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable { 
+                        expanded = !expanded
+                        progressRepo.setMenuExpanded("phrases_section", expanded)
+                    }
+                    .padding(16.dp),
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Icon(
+                    imageVector = if (expanded) Icons.Default.KeyboardArrowDown else Icons.Default.KeyboardArrowRight,
+                    contentDescription = if (expanded) "Collapse" else "Expand"
+                )
+                Spacer(modifier = Modifier.width(8.dp))
+                Text(
+                    text = "💬 Phrases",
+                    style = MaterialTheme.typography.titleMedium
+                )
+            }
+            
+            // Expanded content - Show levels (N1, N2, etc.) directly
+            AnimatedVisibility(visible = expanded) {
+                Column(modifier = Modifier.padding(start = 24.dp, end = 16.dp, bottom = 8.dp)) {
+                    categories.forEach { category ->
+                        // Each category is a level (N1, N2, etc.)
+                        Text(
+                            text = category.name,
+                            style = MaterialTheme.typography.bodyLarge,
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .clickable {
+                                    navController.navigate(
+                                        Screen.Flashcard.createRoute(category.name, "All", null)
+                                    )
+                                }
+                                .padding(vertical = 8.dp),
+                            color = MaterialTheme.colorScheme.primary
+                        )
+                    }
+                }
             }
         }
     }
@@ -96,7 +170,9 @@ fun VocabularySection(
     categories: List<Category>,
     navController: NavController
 ) {
-    var expanded by remember { mutableStateOf(false) }
+    val context = LocalContext.current
+    val progressRepo = remember { com.example.easyjapanesey.data.preferences.UserProgressRepository(context) }
+    var expanded by remember { mutableStateOf(progressRepo.isMenuExpanded("vocabulary_section")) }
     
     Card(
         modifier = Modifier
@@ -108,7 +184,10 @@ fun VocabularySection(
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .clickable { expanded = !expanded }
+                    .clickable { 
+                        expanded = !expanded
+                        progressRepo.setMenuExpanded("vocabulary_section", expanded)
+                    }
                     .padding(16.dp),
                 verticalAlignment = Alignment.CenterVertically
             ) {
@@ -143,7 +222,10 @@ fun CategoryItem(
     category: Category,
     navController: NavController
 ) {
-    var expanded by remember { mutableStateOf(false) }
+    val context = LocalContext.current
+    val progressRepo = remember { com.example.easyjapanesey.data.preferences.UserProgressRepository(context) }
+    val menuKey = "category_${category.name}"
+    var expanded by remember { mutableStateOf(progressRepo.isMenuExpanded(menuKey)) }
     
     val categoryEmoji = when (category.name) {
         "Noun" -> "📦"
@@ -158,7 +240,10 @@ fun CategoryItem(
         Row(
             modifier = Modifier
                 .fillMaxWidth()
-                .clickable { expanded = !expanded }
+                .clickable { 
+                    expanded = !expanded
+                    progressRepo.setMenuExpanded(menuKey, expanded)
+                }
                 .padding(vertical = 8.dp),
             verticalAlignment = Alignment.CenterVertically
         ) {
@@ -195,15 +280,22 @@ fun Level1Item(
     level1: Level1Group,
     navController: NavController
 ) {
+    val context = LocalContext.current
+    val progressRepo = remember { com.example.easyjapanesey.data.preferences.UserProgressRepository(context) }
+    
     if (level1.hasSubLevels) {
         // Has level 2 - show expandable
-        var expanded by remember { mutableStateOf(false) }
+        val menuKey = "level1_${category}_${level1.name}"
+        var expanded by remember { mutableStateOf(progressRepo.isMenuExpanded(menuKey)) }
         
         Column {
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .clickable { expanded = !expanded }
+                    .clickable { 
+                        expanded = !expanded
+                        progressRepo.setMenuExpanded(menuKey, expanded)
+                    }
                     .padding(vertical = 8.dp),
                 verticalAlignment = Alignment.CenterVertically
             ) {

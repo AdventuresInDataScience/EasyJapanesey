@@ -1,0 +1,1544 @@
+
+category,level1,level2,emoji,english,romaji
+Noun,Animals,Pet,🐕,dog,inu
+Noun,Animals,Pet,🐈,cat,neko
+Noun,Animals,Pet,🐇,rabbit,usagi
+Noun,Animals,Pet,🐹,hamster,hamusutā
+Noun,Animals,Pet,🐦,bird,tori
+Noun,Animals,Pet,🐠,fish,sakana
+Noun,Animals,Pet,🐢,turtle,kame
+Noun,Animals,Pet,🐁,mouse,nezumi
+Noun,Animals,Pet,🦎,lizard,tokage
+Noun,Animals,Pet,🐍,snake,hebi
+Noun,Animals,Pet,🦜,parrot,ōmu
+Noun,Animals,Pet,🐩,poodle,pūdoru
+Noun,Animals,Pet,🐈‍⬛,black cat,kuro neko
+Noun,Animals,Pet,🦮,guide dog,mōdōken
+Noun,Animals,Pet,🐕‍🦺,service dog,kaigo inu
+Noun,Animals,Farm,🐄,cow,ushi
+Noun,Animals,Farm,🐷,pig,buta
+Noun,Animals,Farm,🐴,horse,uma
+Noun,Animals,Farm,🐑,sheep,hitsuji
+Noun,Animals,Farm,🐐,goat,yagi
+Noun,Animals,Farm,🐔,chicken,niwatori
+Noun,Animals,Farm,🐓,rooster,ondori
+Noun,Animals,Farm,🦆,duck,ahiru
+Noun,Animals,Farm,🦃,turkey,shichimenchō
+Noun,Animals,Farm,🐇,rabbit,usagi
+Noun,Animals,Farm,🐎,donkey,roba
+Noun,Animals,Farm,🦙,llama,rama
+Noun,Animals,Farm,🐖,piglet,kobu
+Noun,Animals,Farm,🐏,ram,osu hitsuji
+Noun,Animals,Farm,🥚,egg,tamago
+Noun,Animals,Wild,🦁,lion,raion
+Noun,Animals,Wild,🐯,tiger,tora
+Noun,Animals,Wild,🐻,bear,kuma
+Noun,Animals,Wild,🐺,wolf,ōkami
+Noun,Animals,Wild,🦊,fox,kitsune
+Noun,Animals,Wild,🐵,monkey,saru
+Noun,Animals,Wild,🦍,gorilla,gorira
+Noun,Animals,Wild,🐘,elephant,zō
+Noun,Animals,Wild,🦏,rhinoceros,sai
+Noun,Animals,Wild,🦛,hippopotamus,kaba
+Noun,Animals,Wild,🦒,giraffe,kirin
+Noun,Animals,Wild,🦓,zebra,shimauma
+Noun,Animals,Wild,🦘,kangaroo,kangarū
+Noun,Animals,Wild,🐨,koala,koara
+Noun,Animals,Wild,🐼,panda,panda
+Noun,Animals,Wild,🦥,sloth,namakemono
+Noun,Animals,Wild,🦦,otter,rakko
+Noun,Animals,Wild,🦨,skunk,sukanku
+Noun,Animals,Wild,🦡,badger,anaguma
+Noun,Animals,Wild,🐗,boar,inoshishi
+Noun,Animals,Wild,🦌,deer,shika
+Noun,Animals,Wild,🐿️,squirrel,risu
+Noun,Animals,Wild,🦇,bat,kōmori
+Noun,Animals,Wild,🦔,hedgehog,harinezumi
+Noun,Animals,Wild,🐆,leopard,hyō
+Noun,Animals,Wild,🐅,tiger,toraneko
+Noun,Animals,Wild,🦮,raccoon,araiguma
+Noun,Animals,Sea,🐟,fish,sakana
+Noun,Animals,Sea,🐠,tropical fish,nettai-gyo
+Noun,Animals,Sea,🐡,pufferfish,fugu
+Noun,Animals,Sea,🦈,shark,same
+Noun,Animals,Sea,🐬,dolphin,iruka
+Noun,Animals,Sea,🐳,whale,kujira
+Noun,Animals,Sea,🐙,octopus,tako
+Noun,Animals,Sea,🦑,squid,ika
+Noun,Animals,Sea,🦐,shrimp,ebi
+Noun,Animals,Sea,🦞,lobster,robusutā
+Noun,Animals,Sea,🦀,crab,kani
+Noun,Animals,Sea,🐚,shellfish,kai
+Noun,Animals,Sea,🦪,oyster,kaki
+Noun,Animals,Sea,🐌,snail,katatsumuri
+Noun,Animals,Sea,🦭,seal,azarashi
+Noun,Animals,Sea,🦦,sea otter,rakko
+Noun,Animals,Sea,🐧,penguin,pengin
+Noun,Animals,Sea,🦈,stingray,ei
+Noun,Animals,Sea,🐡,jellyfish,kurage
+Noun,Animals,Sea,⭐,starfish,hitode
+Noun,Animals,Sea,🦑,cuttlefish,kōika
+Noun,Animals,Birds,🐦,bird,tori
+Noun,Animals,Birds,🦅,eagle,washi
+Noun,Animals,Birds,🦉,owl,fukurō
+Noun,Animals,Birds,🦜,parrot,ōmu
+Noun,Animals,Birds,🦚,peacock,kujaku
+Noun,Animals,Birds,🦩,flamingo,furamingo
+Noun,Animals,Birds,🐧,penguin,pengin
+Noun,Animals,Birds,🕊️,dove,hato
+Noun,Animals,Birds,🦢,swan,hakuchō
+Noun,Animals,Birds,🦆,duck,ahiru
+Noun,Animals,Birds,🦃,turkey,shichimenchō
+Noun,Animals,Birds,🐓,rooster,ondori
+Noun,Animals,Birds,🐔,chicken,niwatori
+Noun,Animals,Birds,🐤,chick,hiyoko
+Noun,Animals,Birds,🐣,hatching chick,hina
+Noun,Animals,Birds,🦇,bat,kōmori
+Noun,Animals,Birds,🐦‍⬛,crow,karasu
+Noun,Animals,Birds,🦅,hawk,taka
+Noun,Animals,Birds,🪶,feather,hane
+Noun,Animals,Birds,🥚,egg,tamago
+Noun,Animals,Birds,🪹,nest,su
+Noun,Animals,Insects,🐛,caterpillar,kemushi
+Noun,Animals,Insects,🦋,butterfly,chō
+Noun,Animals,Insects,🐝,bee,hachi
+Noun,Animals,Insects,🐜,ant,ari
+Noun,Animals,Insects,🦗,cricket,kōrogi
+Noun,Animals,Insects,🪲,beetle,kabutomushi
+Noun,Animals,Insects,🐞,ladybug,tentōmushi
+Noun,Animals,Insects,🦟,mosquito,ka
+Noun,Animals,Insects,🪰,fly,hae
+Noun,Animals,Insects,🕷️,spider,kumo
+Noun,Animals,Insects,🕸️,spider web,kumo no su
+Noun,Animals,Insects,🦂,scorpion,sasori
+Noun,Animals,Insects,🐌,snail,katatsumuri
+Noun,Animals,Insects,🦠,bug,mushi
+Noun,Animals,Insects,🐛,worm,mimizu
+Noun,Animals,Insects,🦎,dragonfly,tombo
+Noun,Animals,Insects,🪳,cockroach,gokiburi
+Noun,Animals,Insects,🐝,hornet,suzumebachi
+Noun,Animals,Reptiles,🐍,snake,hebi
+Noun,Animals,Reptiles,🦎,lizard,tokage
+Noun,Animals,Reptiles,🐊,crocodile,wani
+Noun,Animals,Reptiles,🐢,turtle,kame
+Noun,Animals,Reptiles,🐸,frog,kaeru
+Noun,Animals,Reptiles,🦕,dinosaur,kyōryū
+Noun,Animals,Reptiles,🦖,T-Rex,tiranosouru
+Noun,Animals,Reptiles,🐲,dragon,ryū
+Noun,Buildings,Shops,🏪,shop,mise
+Noun,Buildings,Shops,🏬,store,sutoa
+Noun,Buildings,Shops,🛒,supermarket,sūpā
+Noun,Buildings,Shops,🏪,convenience store,konbini
+Noun,Buildings,Shops,🍞,bakery,panya
+Noun,Buildings,Shops,📚,bookstore,honya
+Noun,Buildings,Shops,💊,pharmacy,yakkyoku
+Noun,Buildings,Shops,🛍️,department store,depāto
+Noun,Buildings,Shops,🛒,grocery store,shokuryōhinten
+Noun,Buildings,Shops,💐,flower shop,hanaya
+Noun,Buildings,Shops,🥩,butcher,nikuya
+Noun,Buildings,Shops,🐟,fish market,sakanaya
+Noun,Buildings,Shops,🍎,fruit shop,kudamonoya
+Noun,Buildings,Shops,👕,clothing store,yōfukuya
+Noun,Buildings,Shops,👞,shoe store,kutsuya
+Noun,Buildings,Shops,💍,jewelry store,hōsekiten
+Noun,Buildings,Shops,📱,electronics store,denkiya
+Noun,Buildings,Shops,🪑,furniture store,kaguya
+Noun,Buildings,Shops,🎁,gift shop,omiyageya
+Noun,Buildings,Shops,🧸,toy store,omocha ya
+Noun,Buildings,Shops,📖,stationery store,bunbōguya
+Noun,Buildings,Shops,🛠️,hardware store,kanamonoya
+Noun,Buildings,Shops,🏬,shopping mall,shoppingu mōru
+Noun,Buildings,Shops,🎪,market,ichiba
+Noun,Buildings,Shops,🪟,shopping center,shoppingu sentā
+Noun,Buildings,Food,🍽️,restaurant,resutoran
+Noun,Buildings,Food,☕,cafe,kafe
+Noun,Buildings,Food,🍺,bar,bā
+Noun,Buildings,Food,🍜,ramen shop,rāmenya
+Noun,Buildings,Food,🍣,sushi restaurant,sushiya
+Noun,Buildings,Food,🍔,fast food,fasuto fūdo
+Noun,Buildings,Food,🍕,pizzeria,pizaya
+Noun,Buildings,Food,🥘,izakaya,izakaya
+Noun,Buildings,Food,🍵,tea house,ochaya
+Noun,Buildings,Food,🍰,cake shop,kēkiya
+Noun,Buildings,Food,🍦,ice cream shop,aisukurīmuya
+Noun,Buildings,Food,☕,coffee shop,kissaten
+Noun,Buildings,Food,🍱,bento shop,bentōya
+Noun,Buildings,Food,🏪,food court,fūdo kōto
+Noun,Buildings,Food,🥡,takeout,teikuauto
+Noun,Buildings,Civic,📚,library,toshokan
+Noun,Buildings,Civic,👮,police station,keisatsusho
+Noun,Buildings,Civic,🚒,fire station,shōbōsho
+Noun,Buildings,Civic,📮,post office,yūbinkyoku
+Noun,Buildings,Civic,🏛️,city hall,shiyakusho
+Noun,Buildings,Civic,⚖️,court,saibansho
+Noun,Buildings,Civic,🏛️,government office,yakusho
+Noun,Buildings,Civic,🏛️,town hall,kōkaido
+Noun,Buildings,Civic,🆔,ward office,kuyakusho
+Noun,Buildings,Civic,🏛️,embassy,taishikan
+Noun,Buildings,Civic,🏛️,museum,hakubutsukan
+Noun,Buildings,Civic,🎨,art gallery,bijutsukan
+Noun,Buildings,Civic,🎭,theater,gekijō
+Noun,Buildings,Civic,🎬,cinema,eigakan
+Noun,Buildings,Civic,🏞️,zoo,dōbutsuen
+Noun,Buildings,Civic,🌺,botanical garden,shokubutsuen
+Noun,Buildings,Civic,🏊,swimming pool,pūru
+Noun,Buildings,Civic,🏟️,stadium,sutajiamu
+Noun,Buildings,Civic,🏛️,community center,kōminkan
+Noun,Buildings,Work,🏢,office,jimusho
+Noun,Buildings,Work,🏭,factory,kōjō
+Noun,Buildings,Work,🏢,company,kaisha
+Noun,Buildings,Work,🏗️,construction site,kōji genba
+Noun,Buildings,Work,🏢,headquarters,honsha
+Noun,Buildings,Work,🏢,branch office,shisha
+Noun,Buildings,Work,📞,call center,kōru sentā
+Noun,Buildings,Work,🏢,corporate building,bijinessu biru
+Noun,Buildings,Work,🏭,warehouse,sōko
+Noun,Buildings,Work,🏢,studio,sutajio
+Noun,Buildings,Work,🏢,workshop,kōbō
+Noun,Buildings,Work,🚜,farm,nōjō
+Noun,Buildings,Education,🏫,school,gakkō
+Noun,Buildings,Education,🎓,university,daigaku
+Noun,Buildings,Education,🏫,high school,kōkō
+Noun,Buildings,Education,🏫,junior high,chūgakkō
+Noun,Buildings,Education,🏫,elementary school,shōgakkō
+Noun,Buildings,Education,👶,kindergarten,yōchien
+Noun,Buildings,Education,👶,nursery,hoikuen
+Noun,Buildings,Education,📖,cram school,juku
+Noun,Buildings,Education,🎓,college,tanki daigaku
+Noun,Buildings,Education,📚,academy,gakuin
+Noun,Buildings,Education,🏫,vocational school,senmon gakkō
+Noun,Buildings,Education,🎓,graduate school,daigakuin
+Noun,Buildings,Education,🌍,language school,gogaku gakkō
+Noun,Buildings,Health,🏥,hospital,byōin
+Noun,Buildings,Health,🏥,clinic,kurinikku
+Noun,Buildings,Health,💊,pharmacy,yakkyoku
+Noun,Buildings,Health,🦷,dentist,haisha
+Noun,Buildings,Health,👁️,eye doctor,gankai
+Noun,Buildings,Health,💉,doctor's office,shinryōjo
+Noun,Buildings,Health,🧪,laboratory,kensakushitsu
+Noun,Buildings,Health,🚑,emergency room,kyūkyū shitsu
+Noun,Buildings,Health,🏥,medical center,iryō sentā
+Noun,Buildings,Health,💆,massage parlor,massāji
+Noun,Buildings,Health,💇,hair salon,biyōin
+Noun,Buildings,Health,💇,barber,tokoya
+Noun,Buildings,Transport,🚉,station,eki
+Noun,Buildings,Transport,✈️,airport,kūkō
+Noun,Buildings,Transport,🚌,bus stop,basu tei
+Noun,Buildings,Transport,🚇,subway station,chikatetsu no eki
+Noun,Buildings,Transport,🚂,train station,tetsudō eki
+Noun,Buildings,Transport,🅿️,parking lot,chūshajō
+Noun,Buildings,Transport,🚕,taxi stand,takushī noriba
+Noun,Buildings,Transport,⛽,gas station,gasorinsutando
+Noun,Buildings,Transport,🚢,port,minato
+Noun,Buildings,Transport,🚢,harbor,kōwan
+Noun,Buildings,Transport,🚏,bus terminal,basu tāminaru
+Noun,Buildings,Transport,🚉,platform,hōmu
+Noun,Buildings,Transport,🎫,ticket office,kippu uriba
+Noun,Buildings,Leisure,🎬,cinema,eigakan
+Noun,Buildings,Leisure,🎭,theater,gekijō
+Noun,Buildings,Leisure,🎤,karaoke,karaoke
+Noun,Buildings,Leisure,🏟️,arena,arēna
+Noun,Buildings,Leisure,🎪,amusement park,yūenchi
+Noun,Buildings,Leisure,🎰,arcade,gēmu sentā
+Noun,Buildings,Leisure,🎳,bowling alley,bōringujō
+Noun,Buildings,Leisure,💪,gym,jimu
+Noun,Buildings,Leisure,🏋️,fitness center,fittonesu kurabu
+Noun,Buildings,Leisure,🏊,sports center,supōtsu sentā
+Noun,Buildings,Leisure,⛳,golf course,gorufu kōsu
+Noun,Buildings,Leisure,🎾,tennis court,tenisu kōto
+Noun,Buildings,Leisure,🎨,art studio,atorie
+Noun,Buildings,Leisure,📚,bookstore cafe,hon kafe
+Noun,Buildings,Leisure,🎮,manga cafe,manga kissa
+Noun,Buildings,Leisure,♨️,hot spring,onsen
+Noun,Buildings,Leisure,🛁,public bath,sentō
+Noun,Buildings,Leisure,🎪,club,kurabu
+Noun,Buildings,Leisure,🎵,live house,raibu hausu
+Noun,Buildings,Accommodation,🏨,hotel,hoteru
+Noun,Buildings,Accommodation,🏨,inn,ryokan
+Noun,Buildings,Accommodation,🏠,house,ie
+Noun,Buildings,Accommodation,🏢,apartment,apāto
+Noun,Buildings,Accommodation,🏢,mansion,manshon
+Noun,Buildings,Accommodation,🏠,home,uchi
+Noun,Buildings,Accommodation,🏚️,dormitory,ryō
+Noun,Buildings,Accommodation,🛏️,guest house,gesuto hausu
+Noun,Buildings,Accommodation,🏕️,hostel,hosuteru
+Noun,Buildings,Accommodation,🏢,condominium,kondominiyamu
+Noun,Buildings,Accommodation,🏡,villa,bessō
+Noun,Buildings,Accommodation,🏘️,housing complex,danchi
+Noun,Buildings,Financial,🏦,bank,ginkō
+Noun,Buildings,Financial,🏧,ATM,ē tī emu
+Noun,Buildings,Financial,💳,credit union,shinkin
+Noun,Buildings,Financial,💱,currency exchange,ryōgaejo
+Noun,Buildings,Financial,💼,insurance company,hoken gaisha
+Noun,Buildings,Financial,📊,stock exchange,shōken torihikijo
+Noun,Buildings,Religious,⛩️,shrine,jinja
+Noun,Buildings,Religious,🛕,temple,otera
+Noun,Buildings,Religious,⛪,church,kyōkai
+Noun,Buildings,Religious,🕌,mosque,mosuku
+Noun,Buildings,Religious,🛕,Buddhist temple,bukkyō jiin
+Noun,Buildings,Religious,⛩️,Shinto shrine,shintō jinja
+Noun,Buildings,Religious,🙏,prayer hall,reidō
+Noun,Buildings,Other,🏢,building,tatemono
+Noun,Buildings,Other,🏗️,tower,tō
+Noun,Buildings,Other,🏰,castle,shiro
+Noun,Buildings,Other,🏛️,monument,kinenhi
+Noun,Buildings,Other,⛲,fountain,funsui
+Noun,Buildings,Other,🚻,restroom,toire
+Noun,Buildings,Other,🅿️,parking garage,chūsha biru
+Noun,Buildings,Other,🏗️,skyscraper,kōsō biru
+Noun,Buildings,Other,🏢,elevator,erebētā
+Noun,Buildings,Other,🪜,stairs,kaidan
+Noun,Buildings,Other,🚪,entrance,iriguchi
+Noun,Buildings,Other,🚪,exit,deguchi
+Noun,Buildings,Other,🪟,window,mado
+Noun,Buildings,Other,🚪,door,doa
+Noun,Buildings,Other,🛗,escalator,esukarētā
+Noun,Buildings,Other,🏛️,lobby,robī
+Noun,Buildings,Other,🏢,floor,kai
+Noun,Buildings,Other,🛎️,reception,uketsuke
+Verb,Activities,Shopping,🛍️,shopping,kaimono
+Verb,Activities,Shopping,🛒,shop,kaimono suru
+Verb,Activities,Shopping,💳,buy,kau
+Verb,Activities,Shopping,💰,sell,uru
+Verb,Activities,Shopping,💵,pay,shiharau
+Verb,Activities,Shopping,🏷️,bargain,nebiki kōshō suru
+Verb,Activities,Shopping,👀,browse,mite mawaru
+Verb,Activities,Shopping,🔍,look for,sagasu
+Verb,Activities,Shopping,👜,carry,hakobu
+Verb,Activities,Shopping,💳,purchase,kōnyū suru
+Adjective,Colours,Basic,🔴,red,aka
+Adjective,Colours,Basic,🔵,blue,ao
+Adjective,Colours,Basic,🟡,yellow,kiiro
+Adjective,Colours,Basic,🟢,green,midori
+Adjective,Colours,Basic,🟠,orange,orenji
+Adjective,Colours,Basic,🟣,purple,murasaki
+Adjective,Colours,Basic,🟤,brown,chairo
+Adjective,Colours,Basic,⚫,black,kuro
+Adjective,Colours,Basic,⚪,white,shiro
+Adjective,Colours,Basic,🩷,pink,pinku
+Adjective,Colours,Basic,🩶,gray,haiiro
+Adjective,Colours,Basic,💛,gold,kin'iro
+Adjective,Colours,Basic,🩵,silver,gin'iro
+Adjective,Colours,Basic,🤎,beige,bēju
+Adjective,Colours,Basic,💚,emerald,emerarudo
+Adjective,Colours,Light,🌸,light pink,usui pinku
+Adjective,Colours,Light,💙,light blue,mizuiro
+Adjective,Colours,Light,💛,light yellow,usui kiiro
+Adjective,Colours,Light,💚,light green,usui midori
+Adjective,Colours,Light,🟨,pale yellow,usuki iro
+Adjective,Colours,Light,🤍,pure white,masshiro
+Adjective,Colours,Light,🩵,sky blue,sorairo
+Adjective,Colours,Light,💗,pale pink,usubeni
+Adjective,Colours,Light,🟦,pastel blue,pasuteruburū
+Adjective,Colours,Light,🌼,cream,kurīmu iro
+Adjective,Colours,Light,💫,ivory,aibori
+Adjective,Colours,Dark,❤️,dark red,aka kuroi
+Adjective,Colours,Dark,💙,dark blue,kon
+Adjective,Colours,Dark,💚,dark green,moyogi
+Adjective,Colours,Dark,🖤,jet black,makkuro
+Adjective,Colours,Dark,🤎,dark brown,koi chairo
+Adjective,Colours,Dark,💜,dark purple,koi murasaki
+Adjective,Colours,Dark,🟫,chocolate,chokorēto iro
+Adjective,Colours,Dark,💙,navy blue,neibī
+Adjective,Colours,Dark,🖤,charcoal,sumiro
+Adjective,Colours,Dark,🌑,midnight,mayonaka
+Adjective,Colours,Bright,❤️,bright red,akaaka
+Adjective,Colours,Bright,💙,bright blue,aoi
+Adjective,Colours,Bright,💛,bright yellow,kiiroi
+Adjective,Colours,Bright,💚,bright green,midori iro
+Adjective,Colours,Bright,🧡,vivid orange,azayaka na orenji
+Adjective,Colours,Bright,💗,hot pink,hotto pinku
+Adjective,Colours,Bright,💜,vivid purple,azayaka na murasaki
+Adjective,Colours,Bright,✨,brilliant,kagayaku
+Adjective,Colours,Bright,🌟,shiny,hikaru
+Adjective,Colours,Bright,💫,sparkling,kirakira
+Adjective,Colours,Bright,🔆,neon,neon
+Adjective,Colours,Shades,🌈,rainbow,niji
+Adjective,Colours,Shades,🎨,color,iro
+Adjective,Colours,Shades,🩷,rose,bara iro
+Adjective,Colours,Shades,💙,turquoise,tākoizu
+Adjective,Colours,Shades,💜,violet,sumire iro
+Adjective,Colours,Shades,💚,lime,raimu
+Adjective,Colours,Shades,🤎,tan,taniro
+Adjective,Colours,Shades,🩶,slate,surēto
+Adjective,Colours,Shades,💙,teal,tīru
+Adjective,Colours,Shades,💛,amber,kohaku iro
+Adjective,Colours,Shades,💜,indigo,ai iro
+Adjective,Colours,Shades,💚,jade,hisui iro
+Adjective,Colours,Shades,🤍,pearl,shinju iro
+Adjective,Colours,Shades,🤎,copper,dō iro
+Adjective,Colours,Shades,🩶,bronze,seidō iro
+Adjective,Colours,Shades,🩷,coral,sango iro
+Adjective,Colours,Shades,💜,lavender,rabendā
+Adjective,Colours,Shades,🤎,maroon,enji iro
+Adjective,Colours,Shades,💙,cyan,shian
+Adjective,Colours,Shades,💛,lemon,remon iro
+Adjective,Colours,Patterns,⚫⚪,striped,shimamoyo
+Adjective,Colours,Patterns,🔵⚪,polka dot,mizutama
+Adjective,Colours,Patterns,🟦⬜,checkered,chekku
+Adjective,Colours,Patterns,🌈,multicolored,niji iro
+Adjective,Colours,Patterns,✨,glittery,kira kira
+Adjective,Colours,Patterns,🎨,patterned,moyō
+Adjective,Colours,Patterns,🌟,metallic,kinzoku
+Adjective,Colours,Patterns,💎,transparent,tōmei
+Adjective,Colours,Patterns,🌫️,opaque,fukōmei
+Adjective,Colours,Patterns,🌊,gradient,guradiēshon
+Noun,Drinks,Beverage,💧,water,mizu
+Noun,Drinks,Beverage,🍵,tea,ocha
+Noun,Drinks,Beverage,☕,coffee,kōhī
+Noun,Drinks,Beverage,🥛,milk,gyūnyū
+Noun,Drinks,Beverage,🧃,juice,jūsu
+Noun,Drinks,Beverage,🍊,orange juice,orenji jūsu
+Noun,Drinks,Beverage,🍎,apple juice,ringo jūsu
+Noun,Drinks,Beverage,🍇,grape juice,gurēpu jūsu
+Noun,Drinks,Beverage,🍹,tropical drink,toropikaru dorinku
+Noun,Drinks,Beverage,🥤,soda,sōda
+Noun,Drinks,Beverage,🥤,cola,kōra
+Noun,Drinks,Beverage,🍋,lemonade,remonēdo
+Noun,Drinks,Beverage,🧋,bubble tea,tapioka
+Noun,Drinks,Beverage,🍵,green tea,ryokucha
+Noun,Drinks,Beverage,🍵,black tea,kōcha
+Noun,Drinks,Beverage,🫖,tea pot,kyūsu
+Noun,Drinks,Beverage,☕,hot coffee,hotto kōhī
+Noun,Drinks,Beverage,🧊,iced coffee,aisu kōhī
+Noun,Drinks,Beverage,🥤,sports drink,supōtsu dorinku
+Noun,Drinks,Beverage,🧃,vegetable juice,yasai jūsu
+Noun,Drinks,Beverage,🍅,tomato juice,tomato jūsu
+Noun,Drinks,Beverage,🥥,coconut water,kokonattsu wōtā
+Noun,Drinks,Beverage,🍼,baby milk,miruku
+Noun,Drinks,Beverage,🥛,soy milk,tōnyū
+Noun,Drinks,Beverage,🍯,honey drink,hachimitsu dorinku
+Noun,Drinks,Beverage,🫗,hot water,oyu
+Noun,Drinks,Beverage,🧊,cold water,tsumetai mizu
+Noun,Drinks,Beverage,💧,mineral water,mineraru wōtā
+Noun,Drinks,Beverage,🥤,smoothie,sumūjī
+Noun,Drinks,Beverage,🍫,hot chocolate,hotto chokorēto
+Noun,Drinks,Alcohol,🍺,beer,bīru
+Noun,Drinks,Alcohol,🍶,sake,sake
+Noun,Drinks,Alcohol,🍷,wine,wain
+Noun,Drinks,Alcohol,🍷,red wine,aka wain
+Noun,Drinks,Alcohol,🍷,white wine,shiro wain
+Noun,Drinks,Alcohol,🥃,whiskey,uisukī
+Noun,Drinks,Alcohol,🍸,cocktail,kakuteru
+Noun,Drinks,Alcohol,🍹,tropical cocktail,toropikaru kakuteru
+Noun,Drinks,Alcohol,🍾,champagne,shanpen
+Noun,Drinks,Alcohol,🥂,sparkling wine,supākuringu wain
+Noun,Drinks,Alcohol,🍻,cheers,kanpai
+Noun,Drinks,Alcohol,🥃,shochu,shōchū
+Noun,Drinks,Alcohol,🍺,draft beer,nama bīru
+Noun,Drinks,Alcohol,🍺,canned beer,kan bīru
+Noun,Drinks,Alcohol,🥃,brandy,burandē
+Noun,Drinks,Alcohol,🍸,martini,mātonī
+Noun,Drinks,Alcohol,🥃,rum,ramu
+Noun,Drinks,Alcohol,🍸,gin,jin
+Noun,Drinks,Alcohol,🥃,vodka,uokka
+Noun,Drinks,Alcohol,🍺,alcohol,osake
+</artifact>
+<artifact identifier="japanese-numbers-csv" type="application/vnd.ant.code" language="csv" title="Japanese Numbers Flashcard CSV">
+category,level1,level2,emoji,english,romaji
+Number,Numbers,Basic,1️⃣,one,ichi
+Number,Numbers,Basic,2️⃣,two,ni
+Number,Numbers,Basic,3️⃣,three,san
+Number,Numbers,Basic,4️⃣,four,shi/yon
+Number,Numbers,Basic,5️⃣,five,go
+Number,Numbers,Basic,6️⃣,six,roku
+Number,Numbers,Basic,7️⃣,seven,shichi/nana
+Number,Numbers,Basic,8️⃣,eight,hachi
+Number,Numbers,Basic,9️⃣,nine,kyū/ku
+Number,Numbers,Basic,🔟,ten,jū
+Number,Numbers,Basic,0️⃣,zero,zero/rei
+Number,Numbers,Tens,🔢,eleven,jūichi
+Number,Numbers,Tens,🔢,twelve,jūni
+Number,Numbers,Tens,🔢,thirteen,jūsan
+Number,Numbers,Tens,🔢,fourteen,jūshi/jūyon
+Number,Numbers,Tens,🔢,fifteen,jūgo
+Number,Numbers,Tens,🔢,sixteen,jūroku
+Number,Numbers,Tens,🔢,seventeen,jūshichi/jūnana
+Number,Numbers,Tens,🔢,eighteen,jūhachi
+Number,Numbers,Tens,🔢,nineteen,jūkyū/jūku
+Number,Numbers,Tens,🔢,twenty,nijū
+Number,Numbers,Tens,🔢,thirty,sanjū
+Number,Numbers,Tens,🔢,forty,yonjū
+Number,Numbers,Tens,🔢,fifty,gojū
+Number,Numbers,Tens,🔢,sixty,rokujū
+Number,Numbers,Tens,🔢,seventy,nanajū
+Number,Numbers,Tens,🔢,eighty,hachijū
+Number,Numbers,Tens,🔢,ninety,kyūjū
+Number,Numbers,Hundreds,💯,hundred,hyaku
+Number,Numbers,Hundreds,💯,two hundred,nihyaku
+Number,Numbers,Hundreds,💯,three hundred,sanbyaku
+Number,Numbers,Hundreds,💯,four hundred,yonhyaku
+Number,Numbers,Hundreds,💯,five hundred,gohyaku
+Number,Numbers,Hundreds,💯,six hundred,roppyaku
+Number,Numbers,Hundreds,💯,seven hundred,nanahyaku
+Number,Numbers,Hundreds,💯,eight hundred,happyaku
+Number,Numbers,Hundreds,💯,nine hundred,kyūhyaku
+Number,Numbers,Thousands,🔢,thousand,sen
+Number,Numbers,Thousands,🔢,two thousand,nisen
+Number,Numbers,Thousands,🔢,three thousand,sanzen
+Number,Numbers,Thousands,🔢,four thousand,yonsen
+Number,Numbers,Thousands,🔢,five thousand,gosen
+Number,Numbers,Thousands,🔢,six thousand,rokusen
+Number,Numbers,Thousands,🔢,seven thousand,nanasen
+Number,Numbers,Thousands,🔢,eight thousand,hassen
+Number,Numbers,Thousands,🔢,nine thousand,kyūsen
+Number,Numbers,Thousands,🔢,ten thousand,ichiman
+Number,Numbers,Large,🔢,ten thousand,man
+Number,Numbers,Large,🔢,hundred thousand,jūman
+Number,Numbers,Large,🔢,million,hyakuman
+Number,Numbers,Large,🔢,ten million,senman
+Number,Numbers,Large,🔢,hundred million,oku
+Number,Numbers,Large,🔢,billion,jūoku
+Number,Numbers,Large,🔢,trillion,chō
+Number,Numbers,Ordinal,🥇,first,ichiban
+Number,Numbers,Ordinal,🥈,second,niban
+Number,Numbers,Ordinal,🥉,third,sanban
+Number,Numbers,Ordinal,4️⃣,fourth,yonban
+Number,Numbers,Ordinal,5️⃣,fifth,goban
+Number,Numbers,Ordinal,🔢,last,saigo
+Number,Numbers,Counter,👤,one person,hitori
+Number,Numbers,Counter,👥,two people,futari
+Number,Numbers,Counter,👥,three people,sannin
+Number,Numbers,Counter,👥,four people,yonin
+Number,Numbers,Counter,👥,five people,gonin
+Number,Numbers,Counter,📏,one long object,ippon
+Number,Numbers,Counter,📏,two long objects,nihon
+Number,Numbers,Counter,📏,three long objects,sanbon
+Number,Numbers,Counter,📄,one flat object,ichimai
+Number,Numbers,Counter,📄,two flat objects,nimai
+Number,Numbers,Counter,📄,three flat objects,sanmai
+Number,Numbers,Counter,🐕,one animal,ippiki
+Number,Numbers,Counter,🐕,two animals,nihiki
+Number,Numbers,Counter,🐕,three animals,sanbiki
+Number,Numbers,Counter,🏢,one building,ikken
+Number,Numbers,Counter,🏢,two buildings,niken
+Number,Numbers,Counter,🏢,three buildings,sangen
+Number,Numbers,Counter,📚,one book,issatsu
+Number,Numbers,Counter,📚,two books,nisatsu
+Number,Numbers,Counter,📚,three books,sansatsu
+Number,Numbers,Counter,🚗,one vehicle,ichidai
+Number,Numbers,Counter,🚗,two vehicles,nidai
+Number,Numbers,Counter,🚗,three vehicles,sandai
+Number,Numbers,Counter,🔢,how many,ikutsu
+Number,Numbers,Counter,❓,how many people,nannin
+Number,Numbers,Counter,❓,what number,nanban
+Noun,Family,Immediate,👨,father,otōsan
+Noun,Family,Immediate,👩,mother,okāsan
+Noun,Family,Immediate,👦,older brother,onīsan
+Noun,Family,Immediate,👧,older sister,onēsan
+Noun,Family,Immediate,👶,younger brother,otōto
+Noun,Family,Immediate,👶,younger sister,imōto
+Noun,Family,Immediate,👴,grandfather,ojīsan
+Noun,Family,Immediate,👵,grandmother,obāsan
+Noun,Family,Immediate,👨‍👩‍👧‍👦,family,kazoku
+Noun,Family,Immediate,👪,parents,ryōshin
+Noun,Family,Immediate,👫,siblings,kyōdai
+Noun,Family,Immediate,👶,child,kodomo
+Noun,Family,Immediate,👦,son,musuko
+Noun,Family,Immediate,👧,daughter,musume
+Noun,Family,Immediate,👨‍👩‍👧,husband,otto
+Noun,Family,Immediate,👨‍👩‍👧,wife,tsuma
+Noun,Family,Extended,👨‍👩‍👧‍👦,uncle,ojisan
+Noun,Family,Extended,👨‍👩‍👧‍👦,aunt,obasan
+Noun,Family,Extended,👦,cousin,itoko
+Noun,Family,Extended,👶,nephew,oi
+Noun,Family,Extended,👶,niece,mei
+Noun,Family,Extended,👴,ancestors,senzo
+Noun,Family,Extended,👶,grandchild,mago
+Noun,Family,Extended,👦,grandson,magomusuko
+Noun,Family,Extended,👧,granddaughter,magomusume
+Noun,Family,Extended,👨‍👩‍👧,relatives,shinseki
+Noun,Family,Extended,🏠,household,setai
+Noun,Family,In-laws,👨,father-in-law,giri no chichi
+Noun,Family,In-laws,👩,mother-in-law,giri no haha
+Noun,Family,In-laws,👦,brother-in-law,giri no kyōdai
+Noun,Family,In-laws,👧,sister-in-law,giri no shimai
+Noun,Family,Relationship,💑,boyfriend,kareshi
+Noun,Family,Relationship,💑,girlfriend,kanojo
+Noun,Family,Relationship,💍,fiancé,iinazuke
+Noun,Family,Relationship,👶,baby,akachan
+Noun,Family,Relationship,🧒,twins,futago
+Noun,Family,Relationship,👨,eldest son,chōnan
+Noun,Family,Relationship,👧,eldest daughter,chōjo
+Noun,Family,Relationship,👶,youngest child,suekko
+Noun,Family,Relationship,🏠,only child,hitorikko
+Noun,Family,Relationship,👶,adopted child,yōshi
+Noun,Family,Relationship,👥,stepfather,mamachichi
+Noun,Family,Relationship,👥,stepmother,mamahaha
+Adjective,Emotions,Positive,😊,happy,ureshii
+Adjective,Emotions,Positive,😄,fun,tanoshii
+Adjective,Emotions,Positive,❤️,love,ai
+Adjective,Emotions,Positive,😍,like,suki
+Adjective,Emotions,Positive,🥰,loving,itoshii
+Adjective,Emotions,Positive,😆,joyful,yorokobi
+Adjective,Emotions,Positive,😌,peaceful,odayaka
+Adjective,Emotions,Positive,🤗,warm,atatakai
+Adjective,Emotions,Positive,😊,glad,yokatta
+Adjective,Emotions,Positive,🎉,excited,kōfun
+Adjective,Emotions,Positive,😁,cheerful,akarui
+Adjective,Emotions,Positive,💪,energetic,genki
+Adjective,Emotions,Positive,🙏,grateful,kansha
+Adjective,Emotions,Positive,😇,blessed,shiawase
+Adjective,Emotions,Positive,🌟,hopeful,kibō
+Adjective,Emotions,Positive,😎,confident,jishin
+Adjective,Emotions,Positive,🥳,thrilled,ōyorokobi
+Adjective,Emotions,Positive,😌,satisfied,manzoku
+Adjective,Emotions,Positive,🤩,amazed,odoroku
+Adjective,Emotions,Positive,😊,pleased,ki ni iru
+Adjective,Emotions,Negative,😢,sad,kanashii
+Adjective,Emotions,Negative,😭,crying,naku
+Adjective,Emotions,Negative,😠,angry,okoru
+Adjective,Emotions,Negative,😡,furious,ikari
+Adjective,Emotions,Negative,😰,worried,shinpai
+Adjective,Emotions,Negative,😨,scared,kowai
+Adjective,Emotions,Negative,😱,terrified,osoroshii
+Adjective,Emotions,Negative,😞,disappointed,gakkari
+Adjective,Emotions,Negative,😔,depressed,yūutsu
+Adjective,Emotions,Negative,😩,frustrated,iraira
+Adjective,Emotions,Negative,😫,tired,tsukareru
+Adjective,Emotions,Negative,😣,painful,kurushii
+Adjective,Emotions,Negative,😖,suffering,itai
+Adjective,Emotions,Negative,😤,annoyed,meiwaku
+Adjective,Emotions,Negative,😒,bored,taikutsu
+Adjective,Emotions,Negative,😟,anxious,fuan
+Adjective,Emotions,Negative,😓,nervous,kinchō
+Adjective,Emotions,Negative,😥,regretful,zannen
+Adjective,Emotions,Negative,😪,sleepy,nemui
+Adjective,Emotions,Negative,🤢,sick,kimochi warui
+Adjective,Emotions,Negative,😡,hate,kirai
+Adjective,Emotions,Negative,😭,lonely,sabishii
+Adjective,Emotions,Negative,😰,embarrassed,hazukashii
+Adjective,Emotions,Negative,😳,shy,hazukashigaru
+Adjective,Emotions,Negative,😬,awkward,kimochi
+Adjective,Emotions,Neutral,😐,calm,ochitsuku
+Adjective,Emotions,Neutral,😶,quiet,shizuka
+Adjective,Emotions,Neutral,😑,normal,futsū
+Adjective,Emotions,Neutral,🤔,thinking,kangaeru
+Adjective,Emotions,Neutral,😕,confused,mayou
+Adjective,Emotions,Neutral,😲,surprised,bikkuri
+Adjective,Emotions,Neutral,🤨,doubtful,utagau
+Adjective,Emotions,Neutral,😯,amazed,odoroki
+Adjective,Emotions,Neutral,🙄,indifferent,mudanshin
+Adjective,Emotions,Neutral,😐,serious,majime
+Adjective,Emotions,Neutral,🤐,silent,damaru
+Adjective,Emotions,Neutral,😶‍🌫️,empty,munashii
+Noun,Outdoors,Weather,☀️,sunny,hare
+Noun,Outdoors,Weather,☁️,cloudy,kumori
+Noun,Outdoors,Weather,🌧️,rainy,ame
+Noun,Outdoors,Weather,⛈️,storm,arashi
+Noun,Outdoors,Weather,❄️,snow,yuki
+Noun,Outdoors,Weather,🌨️,snowy,yuki ga furu
+Noun,Outdoors,Weather,💨,wind,kaze
+Noun,Outdoors,Weather,🌪️,typhoon,taifū
+Noun,Outdoors,Weather,⚡,thunder,kaminari
+Noun,Outdoors,Weather,🌈,rainbow,niji
+Noun,Outdoors,Weather,🌫️,fog,kiri
+Noun,Outdoors,Weather,🌡️,hot,atsui
+Noun,Outdoors,Weather,🥶,cold,samui
+Noun,Outdoors,Weather,🌡️,warm,atatakai
+Noun,Outdoors,Weather,🧊,cool,suzushii
+Noun,Outdoors,Weather,💧,humid,mushiatsui
+Noun,Outdoors,Weather,🏜️,dry,kansō
+Noun,Outdoors,Weather,🌡️,temperature,kion
+Noun,Outdoors,Weather,🌊,weather,tenki
+Noun,Outdoors,Weather,☂️,umbrella,kasa
+Noun,Outdoors,Weather,🌦️,changing weather,henkō
+Noun,Outdoors,Weather,🌅,clear sky,hareta sora
+Noun,Outdoors,Weather,🌩️,lightning,inazuma
+Noun,Outdoors,Weather,💨,breeze,soyokaze
+Noun,Outdoors,Weather,🌬️,strong wind,tsuyoi kaze
+Noun,Outdoors,Places,🏞️,park,kōen
+Noun,Outdoors,Places,⛰️,mountain,yama
+Noun,Outdoors,Places,🏖️,beach,hama
+Noun,Outdoors,Places,🏝️,island,shima
+Noun,Outdoors,Places,🌊,ocean,umi
+Noun,Outdoors,Places,🏞️,lake,mizuumi
+Noun,Outdoors,Places,🏞️,river,kawa
+Noun,Outdoors,Places,🌲,forest,mori
+Noun,Outdoors,Places,🏕️,camping,kyanpu
+Noun,Outdoors,Places,🏔️,summit,chōjō
+Noun,Outdoors,Places,🗻,Mt. Fuji,fujisan
+Noun,Outdoors,Places,🌄,valley,tani
+Noun,Outdoors,Places,🏜️,desert,sabaku
+Noun,Outdoors,Places,🌾,field,hatake
+Noun,Outdoors,Places,🛤️,trail,michi
+Noun,Outdoors,Places,🌉,bridge,hashi
+Noun,Outdoors,Places,💧,waterfall,taki
+Noun,Outdoors,Places,🏞️,pond,ike
+Noun,Outdoors,Places,🏞️,stream,ogawa
+Noun,Outdoors,Places,🏔️,cliff,gake
+Noun,Outdoors,Places,🪨,cave,dōkutsu
+Noun,Outdoors,Places,🌳,garden,niwa
+Noun,Outdoors,Places,🌾,countryside,inaka
+Noun,Outdoors,Places,🏞️,scenic spot,keishō
+Noun,Outdoors,Places,🏕️,campsite,kyanpujō
+Noun,Outdoors,Nature,🌳,tree,ki
+Noun,Outdoors,Nature,🌲,pine tree,matsu
+Noun,Outdoors,Nature,🌸,cherry blossom,sakura
+Noun,Outdoors,Nature,🌺,flower,hana
+Noun,Outdoors,Nature,🌹,rose,bara
+Noun,Outdoors,Nature,🌻,sunflower,himawari
+Noun,Outdoors,Nature,🌷,tulip,chūrippu
+Noun,Outdoors,Nature,🌾,grass,kusa
+Noun,Outdoors,Nature,🍃,leaf,ha
+Noun,Outdoors,Nature,🍂,autumn leaves,kōyō
+Noun,Outdoors,Nature,🌿,plant,shokubutsu
+Noun,Outdoors,Nature,🪴,potted plant,uekibachi
+Noun,Outdoors,Nature,🌱,sprout,me
+Noun,Outdoors,Nature,🌾,rice plant,ine
+Noun,Outdoors,Nature,🍄,mushroom,kinoko
+Noun,Outdoors,Nature,☀️,sun,taiyō
+Noun,Outdoors,Nature,🌙,moon,tsuki
+Noun,Outdoors,Nature,⭐,star,hoshi
+Noun,Outdoors,Nature,🌌,sky,sora
+Noun,Outdoors,Nature,🌃,night sky,yozora
+Noun,Outdoors,Nature,🌅,sunrise,hinode
+Noun,Outdoors,Nature,🌄,sunset,higure
+Noun,Outdoors,Nature,🌠,shooting star,nagareboshi
+Noun,Outdoors,Nature,🪨,rock,iwa
+Noun,Outdoors,Nature,🪨,stone,ishi
+Noun,Outdoors,Nature,⛰️,soil,tsuchi
+Noun,Outdoors,Nature,💧,dew,tsuyu
+Noun,Outdoors,Nature,🌊,wave,nami
+Noun,Outdoors,Nature,🌬️,air,kūki
+Noun,Outdoors,Nature,🔥,fire,hi
+Noun,Outdoors,Nature,🐦,bird,tori
+Noun,Outdoors,Nature,🦋,butterfly,chō
+Noun,Outdoors,Nature,🐝,bee,hachi
+Noun,Outdoors,Nature,🐛,insect,mushi
+Noun,Outdoors,Nature,🐿️,squirrel,risu
+Noun,Outdoors,Nature,🦌,deer,shika
+Noun,Outdoors,Nature,🐻,bear,kuma
+Noun,Outdoors,Nature,🦊,fox,kitsune
+Noun,Outdoors,Nature,🐸,frog,kaeru
+Noun,Outdoors,Nature,🐢,turtle,kame
+Noun,Outdoors,Nature,🐍,snake,hebi
+Noun,Food,Fruit,🍎,apple,ringo
+Noun,Food,Fruit,🍊,orange,mikan
+Noun,Food,Fruit,🍌,banana,banana
+Noun,Food,Fruit,🍓,strawberry,ichigo
+Noun,Food,Fruit,🍇,grape,budou
+Noun,Food,Fruit,🍑,peach,momo
+Noun,Food,Fruit,🍉,watermelon,suika
+Noun,Food,Fruit,🍈,melon,meron
+Noun,Food,Fruit,🍐,pear,nashi
+Noun,Food,Fruit,🍒,cherry,sakuranbo
+Noun,Food,Fruit,🍋,lemon,remon
+Noun,Food,Fruit,🥝,kiwi,kiwi
+Noun,Food,Fruit,🍍,pineapple,painappuru
+Noun,Food,Fruit,🥭,mango,mango
+Noun,Food,Fruit,🍏,green apple,ao-ringo
+Noun,Food,Fruit,🫐,blueberry,burūberī
+Noun,Food,Vegetable,🥕,carrot,ninjin
+Noun,Food,Vegetable,🍅,tomato,tomato
+Noun,Food,Vegetable,🥒,cucumber,kyuuri
+Noun,Food,Vegetable,🧅,onion,tamanegi
+Noun,Food,Vegetable,🥔,potato,jagaimo
+Noun,Food,Vegetable,🌽,corn,tōmorokoshi
+Noun,Food,Vegetable,🥬,lettuce,retasu
+Noun,Food,Vegetable,🥦,broccoli,burokkori
+Noun,Food,Vegetable,🫑,green pepper,pīman
+Noun,Food,Vegetable,🍆,eggplant,nasu
+Noun,Food,Vegetable,🍄,mushroom,kinoko
+Noun,Food,Vegetable,🥗,salad,sarada
+Noun,Food,Vegetable,🌶️,chili pepper,tōgarashi
+Noun,Food,Vegetable,🥜,peanut,piinattsu
+Noun,Food,Vegetable,🫛,peas,endō
+Noun,Food,Vegetable,🥑,avocado,abokado
+Noun,Food,Vegetable,🧄,garlic,ninniku
+Noun,Food,Vegetable,🫚,ginger,shōga
+Noun,Food,Vegetable,🥕,radish,daikon
+Noun,Food,Vegetable,🥬,cabbage,kyabetsu
+Noun,Food,Vegetable,🥒,spinach,hōrensō
+Noun,Food,Meals,🍚,rice,gohan
+Noun,Food,Meals,🍜,ramen,rāmen
+Noun,Food,Meals,🍱,bento,bentō
+Noun,Food,Meals,🍛,curry,karē
+Noun,Food,Meals,🍙,rice ball,onigiri
+Noun,Food,Meals,🍣,sushi,sushi
+Noun,Food,Meals,🍝,pasta,pasuta
+Noun,Food,Meals,🍕,pizza,piza
+Noun,Food,Meals,🥪,sandwich,sandoitchi
+Noun,Food,Meals,🌮,taco,tako
+Noun,Food,Meals,🍔,hamburger,hanbāgā
+Noun,Food,Meals,🍟,french fries,furaido potato
+Noun,Food,Meals,🥟,dumpling,gyōza
+Noun,Food,Meals,🍲,hot pot,nabe
+Noun,Food,Meals,🥘,paella,paeria
+Noun,Food,Meals,🍳,fried egg,medamayaki
+Noun,Food,Meals,🥙,kebab,kebabu
+Noun,Food,Meals,🌭,hot dog,hotto doggu
+Noun,Food,Meals,🥗,salad,sarada
+Noun,Food,Meals,🍖,meat on bone,niku
+Noun,Food,Meals,🥩,steak,sutēki
+Noun,Food,Meals,🍢,oden,oden
+Noun,Food,Meals,🍡,dango,dango
+Noun,Food,Meals,🥮,mooncake,geppei
+Noun,Food,Meals,🍧,shaved ice,kakigōri
+Noun,Food,Meals,🍥,fish cake,kamaboko
+Noun,Food,Meals,🥠,fortune cookie,fōchun kukkī
+Noun,Food,Meals,🥡,takeout box,teikuauto
+Noun,Food,Meals,🍴,fork and knife,fōku to naifu
+Noun,Food,Dessert,🍰,cake,kēki
+Noun,Food,Dessert,🍪,cookie,kukkī
+Noun,Food,Dessert,🍩,donut,dōnatsu
+Noun,Food,Dessert,🍫,chocolate,chokorēto
+Noun,Food,Dessert,🍬,candy,kyandī
+Noun,Food,Dessert,🍭,lollipop,kyandī
+Noun,Food,Dessert,🍮,pudding,purin
+Noun,Food,Dessert,🎂,birthday cake,bāsudē kēki
+Noun,Food,Dessert,🧁,cupcake,kappukēki
+Noun,Food,Dessert,🥧,pie,pai
+Noun,Food,Dessert,🍨,ice cream,aisukurīmu
+Noun,Food,Dessert,🍦,soft serve,sofuto kurīmu
+Noun,Food,Dessert,🍧,shaved ice,kakigōri
+Noun,Food,Dessert,🍡,dango,dango
+Noun,Food,Dessert,🍘,rice cracker,senbei
+Noun,Food,Dessert,🍥,mochi,mochi
+Noun,Food,Dessert,🥮,mooncake,geppei
+Noun,Food,Dessert,🍯,honey,hachimitsu
+Noun,Food,Dessert,🧇,waffle,waffuru
+Noun,Food,Dessert,🥞,pancake,pankēki
+Noun,Food,Mealtime,🌅,breakfast,chōshoku
+Noun,Food,Mealtime,🌞,lunch,chūshoku
+Noun,Food,Mealtime,🌙,dinner,yūshoku
+Noun,Food,Mealtime,☕,morning,asa
+Noun,Food,Mealtime,🌆,evening,yoru
+Noun,Food,Mealtime,🍽️,meal,shokuji
+Noun,Food,Mealtime,🥣,breakfast,asagohan
+Noun,Food,Mealtime,🍱,lunch,hirugohan
+Noun,Food,Mealtime,🍜,dinner,bangohan
+Noun,Food,Mealtime,🥪,snack,oyatsu
+Noun,Food,Mealtime,🍵,tea time,ochakai
+Noun,Food,Mealtime,🌃,midnight snack,yashoku
+Noun,Food,Mealtime,🍴,eating,taberu
+Noun,Food,Mealtime,🥤,drinking,nomu
+Noun,Food,Meat,🥩,beef,gyūniku
+Noun,Food,Meat,🐷,pork,butaniku
+Noun,Food,Meat,🐔,chicken,toriniku
+Noun,Food,Meat,🦆,duck,kamo
+Noun,Food,Meat,🐟,fish,sakana
+Noun,Food,Meat,🦐,shrimp,ebi
+Noun,Food,Meat,🦀,crab,kani
+Noun,Food,Meat,🦑,squid,ika
+Noun,Food,Meat,🐙,octopus,tako
+Noun,Food,Meat,🦞,lobster,robusutā
+Noun,Food,Meat,🥓,bacon,bēkon
+Noun,Food,Meat,🌭,sausage,sōsēji
+Noun,Food,Meat,🍗,chicken leg,chikin
+Noun,Food,Meat,🥩,steak,sutēki
+Noun,Food,Meat,🍖,meat,niku
+Noun,Food,Meat,🐑,lamb,ramu
+Noun,Food,Meat,🦴,bone,hone
+Noun,Food,Meat,🥚,egg,tamago
+Noun,Food,Meat,🍳,fried egg,medamayaki
+Noun,Food,Meat,🐠,tuna,maguro
+Noun,Food,Meat,🦈,salmon,sake
+Noun,Food,Meat,🐡,mackerel,saba
+Noun,Jobs,Professional,👨‍⚕️,doctor,isha
+Noun,Jobs,Professional,👩‍⚕️,nurse,kangoshi
+Noun,Jobs,Professional,👨‍🏫,teacher,sensei
+Noun,Jobs,Professional,👨‍⚖️,lawyer,bengoshi
+Noun,Jobs,Professional,👨‍💼,businessman,bijinesuman
+Noun,Jobs,Professional,👩‍💼,businesswoman,bijinesuūman
+Noun,Jobs,Professional,👨‍💻,programmer,puroguramā
+Noun,Jobs,Professional,👩‍💻,engineer,enjinia
+Noun,Jobs,Professional,👨‍🔬,scientist,kagakusha
+Noun,Jobs,Professional,👨‍🎓,professor,kyōju
+Noun,Jobs,Professional,👨‍🔧,mechanic,seibishi
+Noun,Jobs,Professional,👨‍🏭,factory worker,kōjō rōdōsha
+Noun,Jobs,Professional,👨‍🌾,farmer,nōfu
+Noun,Jobs,Professional,👨‍🍳,chef,shefu
+Noun,Jobs,Professional,👨‍🎨,artist,geijutsuka
+Noun,Jobs,Professional,👨‍✈️,pilot,pairotto
+Noun,Jobs,Professional,👮,police officer,keisatsukan
+Noun,Jobs,Professional,👨‍🚒,firefighter,shōbōshi
+Noun,Jobs,Professional,👨‍⚖️,judge,saibankan
+Noun,Jobs,Professional,🧑‍💼,accountant,kaikeishi
+Noun,Jobs,Service,💇,hairdresser,biyōshi
+Noun,Jobs,Service,🍕,waiter,weitā
+Noun,Jobs,Service,🍕,waitress,weitoresu
+Noun,Jobs,Service,🚕,taxi driver,takushī untenshu
+Noun,Jobs,Service,🚌,bus driver,basu untenshu
+Noun,Jobs,Service,📬,postal worker,yūbinkyokuinn
+Noun,Jobs,Service,🛒,cashier,rejikakarī
+Noun,Jobs,Service,🏪,shop clerk,tenin
+Noun,Jobs,Service,🏨,hotel staff,hoteru sutaffu
+Noun,Jobs,Service,✈️,flight attendant,kyakushitsu jōmuin
+Noun,Jobs,Service,🧹,cleaner,sōjinin
+Noun,Jobs,Service,🚛,delivery person,haitatsuinn
+Noun,Jobs,Service,🔧,plumber,haikanshu
+Noun,Jobs,Service,💡,electrician,denkikōji
+Noun,Jobs,Service,🎭,actor,haiyū
+Noun,Jobs,Service,🎤,singer,kashu
+Noun,Jobs,Service,🎸,musician,ongakuka
+Noun,Jobs,Creative,📰,journalist,jānarisuto
+Noun,Jobs,Creative,📷,photographer,kameraman
+Noun,Jobs,Creative,🎬,director,kantoku
+Noun,Jobs,Creative,✍️,writer,sakka
+Noun,Jobs,Creative,🎨,designer,dezainā
+Noun,Jobs,Creative,🏗️,architect,kenchikuka
+Noun,Jobs,Creative,📚,librarian,shisho
+Noun,Jobs,Creative,🎭,comedian,komedian
+Noun,Jobs,Creative,🎪,entertainer,geinin
+Noun,Jobs,Creative,📺,TV presenter,terebi shikaisya
+Noun,Jobs,Other,💼,office worker,kaishain
+Noun,Jobs,Other,👔,salaryman,sararīman
+Noun,Jobs,Other,🏢,company employee,shain
+Noun,Jobs,Other,🎓,student,gakusei
+Noun,Jobs,Other,👶,housewife,shufu
+Noun,Jobs,Other,🏃,athlete,supōtsu senshu
+Noun,Jobs,Other,⚽,soccer player,sakkā senshu
+Noun,Jobs,Other,⚾,baseball player,yakyū senshu
+Noun,Jobs,Other,🥋,martial artist,budōka
+Noun,Jobs,Other,👨‍🏫,tutor,katei kyōshi
+Noun,Games,Sports,⚽,soccer,sakkā
+Noun,Games,Sports,⚾,baseball,yakyū
+Noun,Games,Sports,🏀,basketball,basukettobōru
+Noun,Games,Sports,🏐,volleyball,barēbōru
+Noun,Games,Sports,🎾,tennis,tenisu
+Noun,Games,Sports,🏓,table tennis,takkyū
+Noun,Games,Sports,🏸,badminton,badominton
+Noun,Games,Sports,🏏,cricket,kuriketto
+Noun,Games,Sports,🏑,hockey,hokkē
+Noun,Games,Sports,🏒,ice hockey,aisu hokkē
+Noun,Games,Sports,🥊,boxing,bokushingu
+Noun,Games,Sports,🥋,martial arts,budō
+Noun,Games,Sports,🤺,fencing,fenishingu
+Noun,Games,Sports,🤼,wrestling,resuringu
+Noun,Games,Sports,🏈,football,amerikan futtobōru
+Noun,Games,Sports,🏉,rugby,ragubī
+Noun,Games,Sports,⛳,golf,gorufu
+Noun,Games,Sports,🏹,archery,kyūdō
+Noun,Games,Sports,🎣,fishing,tsuri
+Noun,Games,Sports,🏊,swimming,suiei
+Noun,Games,Sports,🏄,surfing,sāfin
+Noun,Games,Sports,⛷️,skiing,sukī
+Noun,Games,Sports,🏂,snowboarding,sunōbōdo
+Noun,Games,Sports,⛸️,ice skating,aisusukēto
+Noun,Games,Sports,🚴,cycling,saikuringu
+Noun,Games,Sports,🏃,running,ran'ningu
+Noun,Games,Sports,🧗,climbing,kuraimingu
+Noun,Games,Sports,🧘,yoga,yoga
+Noun,Games,Sports,🏇,horse racing,keiba
+Noun,Games,Sports,🥅,goalkeeper,gōrukīpā
+Noun,Games,Indoor,🎮,video games,terebi gēmu
+Noun,Games,Indoor,🎯,darts,dātsu
+Noun,Games,Indoor,🎱,billiards,biryādo
+Noun,Games,Indoor,🎳,bowling,bōringu
+Noun,Games,Indoor,♟️,chess,chesu
+Noun,Games,Indoor,🀄,mahjong,mājan
+Noun,Games,Indoor,🎴,karuta,karuta
+Noun,Games,Indoor,🃏,cards,toranpu
+Noun,Games,Indoor,🎲,dice,saikoro
+Noun,Games,Indoor,🧩,puzzle,pazuru
+Noun,Games,Indoor,🎰,pachinko,pachinko
+Noun,Games,Indoor,🎪,game,gēmu
+Noun,Games,Indoor,🕹️,arcade game,gēmusentā
+Noun,Games,Indoor,🎮,Nintendo,nintendō
+Noun,Games,Indoor,🎮,PlayStation,pureisutēshon
+Noun,Games,Traditional,🥋,judo,jūdō
+Noun,Games,Traditional,🥋,karate,karate
+Noun,Games,Traditional,🥋,kendo,kendō
+Noun,Games,Traditional,🏹,kyudo,kyūdō
+Noun,Games,Traditional,🤼,sumo,sumō
+Noun,Games,Traditional,🎴,hanafuda,hanafuda
+Noun,Games,Traditional,♟️,shogi,shōgi
+Noun,Games,Traditional,⚫⚪,go,igo
+Noun,Hobbies,Creative,🎨,painting,kaiga
+Noun,Hobbies,Creative,✏️,drawing,dessan
+Noun,Hobbies,Creative,📸,photography,shashin
+Noun,Hobbies,Creative,✂️,crafts,kōsaku
+Noun,Hobbies,Creative,🧶,knitting,amimono
+Noun,Hobbies,Creative,🪡,sewing,saiō
+Noun,Hobbies,Creative,🎭,theater,engeki
+Noun,Hobbies,Creative,🎬,movie watching,eiga kansho
+Noun,Hobbies,Creative,📺,TV watching,terebi
+Noun,Hobbies,Creative,🎤,karaoke,karaoke
+Noun,Hobbies,Creative,💃,dancing,dansu
+Noun,Hobbies,Creative,🎪,magic,tejina
+Noun,Hobbies,Creative,🎨,calligraphy,shodō
+Noun,Hobbies,Creative,🖌️,brush painting,sumi-e
+Noun,Hobbies,Creative,📖,manga,manga
+Noun,Hobbies,Creative,✍️,writing,sakubun
+Noun,Hobbies,Music,🎸,guitar,gitā
+Noun,Hobbies,Music,🎹,piano,piano
+Noun,Hobbies,Music,🥁,drums,doramu
+Noun,Hobbies,Music,🎺,trumpet,torampetto
+Noun,Hobbies,Music,🎷,saxophone,sakusofon
+Noun,Hobbies,Music,🎻,violin,baiorin
+Noun,Hobbies,Music,🎤,singing,utau
+Noun,Hobbies,Music,🎧,listening to music,ongaku kansho
+Noun,Hobbies,Music,🎼,composing,sakkyoku
+Noun,Hobbies,Music,🎵,music,ongaku
+Noun,Hobbies,Music,🪘,taiko,taiko
+Noun,Hobbies,Music,🎐,wind chime,fūrin
+Noun,Hobbies,Outdoor,🚶,walking,sanpo
+Noun,Hobbies,Outdoor,🏕️,camping,kyanpu
+Noun,Hobbies,Outdoor,🥾,hiking,haikingu
+Noun,Hobbies,Outdoor,🎣,fishing,tsuri
+Noun,Hobbies,Outdoor,🌳,gardening,engei
+Noun,Hobbies,Outdoor,🏃,jogging,jogingu
+Noun,Hobbies,Outdoor,🚴,cycling,saikuringu
+Noun,Hobbies,Outdoor,🏔️,mountain climbing,tozan
+Noun,Hobbies,Outdoor,🦅,bird watching,tanchō
+Noun,Hobbies,Outdoor,📷,nature photography,shizen shashin
+Noun,Hobbies,Outdoor,🏖️,beach activities,bīchi
+Noun,Hobbies,Indoor,📚,reading,dokusho
+Noun,Hobbies,Indoor,🎮,gaming,gēmu
+Noun,Hobbies,Indoor,🧩,puzzles,pazuru
+Noun,Hobbies,Indoor,🍳,cooking,ryōri
+Noun,Hobbies,Indoor,🍰,baking,okashi zukuri
+Noun,Hobbies,Indoor,🧘,meditation,meisō
+Noun,Hobbies,Indoor,🧩,model building,puramuderu
+Noun,Hobbies,Indoor,💻,programming,puroguramingu
+Noun,Hobbies,Indoor,🌐,internet,intānetto
+Noun,Hobbies,Indoor,📱,social media,SNS
+Noun,Hobbies,Indoor,🎬,watching movies,eiga
+Noun,Hobbies,Indoor,📺,watching anime,anime
+Noun,Hobbies,Collecting,💎,collecting,shūshū
+Noun,Hobbies,Collecting,📮,stamps,kitte
+Noun,Hobbies,Collecting,🪙,coins,kōka
+Noun,Hobbies,Collecting,🎴,cards,kādo
+Noun,Hobbies,Collecting,🧸,toys,omocha
+Noun,Hobbies,Collecting,📚,books,hon
+Noun,Hobbies,Collecting,🎵,CDs,shīdī
+Noun,Hobbies,Collecting,🎞️,DVDs,dībuidī
+Noun,Hobbies,Collecting,🖼️,art,bijutsuhin
+Noun,Hobbies,Collecting,👘,antiques,kottō
+Noun,Hobbies,Learning,📖,studying,benkyō
+Noun,Hobbies,Learning,🌏,languages,gaikokugo
+Noun,Hobbies,Learning,🗣️,conversation,kaiwa
+Noun,Hobbies,Learning,✈️,traveling,ryokō
+Noun,Hobbies,Learning,🍜,food tasting,shoku
+Noun,Hobbies,Learning,☕,cafe hopping,kafe meguri
+Noun,Hobbies,Learning,🍶,sake tasting,sake
+Noun,Hobbies,Learning,🍵,tea ceremony,sadō
+Noun,Hobbies,Learning,🌸,flower arranging,ikebana
+Noun,Hobbies,Learning,👘,wearing kimono,kimono
+Noun,Hobbies,Learning,🧠,trivia,zatsudan
+Noun,Shapes,Basic,⭕,circle,maru
+Noun,Shapes,Basic,🔴,round,marui
+Noun,Shapes,Basic,⬜,square,shikaku
+Noun,Shapes,Basic,🔲,rectangle,chōhōkei
+Noun,Shapes,Basic,🔺,triangle,sankaku
+Noun,Shapes,Basic,⬟,pentagon,gokakkei
+Noun,Shapes,Basic,⬡,hexagon,rokkakkei
+Noun,Shapes,Basic,⭐,star,hoshi
+Noun,Shapes,Basic,💎,diamond,daiya
+Noun,Shapes,Basic,💗,heart,hāto
+Noun,Shapes,Basic,🥚,oval,daenkei
+Noun,Shapes,Basic,🌙,crescent,mikazuki
+Noun,Shapes,Basic,➡️,arrow,yajirushi
+Noun,Shapes,Basic,❌,cross,jūji
+Noun,Shapes,Basic,⚪,sphere,kyū
+Noun,Shapes,3D,📦,cube,rippōtai
+Noun,Shapes,3D,🎲,box,hako
+Noun,Shapes,3D,🔮,sphere,kyūtai
+Noun,Shapes,3D,🏀,ball,bōru
+Noun,Shapes,3D,🔺,pyramid,piramiddo
+Noun,Shapes,3D,🥫,cylinder,entō
+Noun,Shapes,3D,🍦,cone,ensui
+Noun,Shapes,3D,💊,capsule,kapuseru
+Noun,Shapes,Geometric,📐,angle,kaku
+Noun,Shapes,Geometric,📏,line,sen
+Noun,Shapes,Geometric,↔️,straight,massugu
+Noun,Shapes,Geometric,🌊,curved,magatta
+Noun,Shapes,Geometric,⚡,zigzag,gizagiza
+Noun,Shapes,Geometric,〰️,wavy,nami
+Noun,Shapes,Geometric,🔄,spiral,rasen
+Noun,Shapes,Geometric,⭕,point,ten
+Noun,Shapes,Geometric,▪️,dot,tennten
+Noun,Shapes,Geometric,━,horizontal,suihei
+Noun,Shapes,Geometric,┃,vertical,suichoku
+Noun,Shapes,Geometric,╱,diagonal,naname
+Adjective,Descriptions,Color,🎨,colorful,irotoridori
+Adjective,Descriptions,Color,🌈,bright,akarui
+Adjective,Descriptions,Color,🌑,dark,kurai
+Adjective,Descriptions,Color,💡,light,akarui
+Adjective,Descriptions,Color,⚫,black,kuroi
+Adjective,Descriptions,Color,⚪,white,shiroi
+Adjective,Descriptions,Color,🔴,red,akai
+Adjective,Descriptions,Color,🔵,blue,aoi
+Adjective,Descriptions,Color,🟡,yellow,kiiroi
+Adjective,Descriptions,Color,🟢,green,midori no
+Adjective,Descriptions,Color,✨,shiny,kagayaku
+Adjective,Descriptions,Color,💫,sparkly,kirakira
+Adjective,Descriptions,Color,🌫️,pale,usui
+Adjective,Descriptions,Color,🖤,deep,koi
+Adjective,Descriptions,Color,🌟,vivid,azayaka
+Adjective,Descriptions,Texture,🧱,rough,zarazara
+Adjective,Descriptions,Texture,🪞,smooth,subesube
+Adjective,Descriptions,Texture,🧊,hard,katai
+Adjective,Descriptions,Texture,☁️,soft,yawarakai
+Adjective,Descriptions,Texture,💧,wet,nureta
+Adjective,Descriptions,Texture,🏜️,dry,kawaita
+Adjective,Descriptions,Texture,🧊,cold,tsumetai
+Adjective,Descriptions,Texture,🔥,hot,atsui
+Adjective,Descriptions,Texture,🌡️,warm,atatakai
+Adjective,Descriptions,Texture,❄️,cool,suzushii
+Adjective,Descriptions,Texture,💎,sharp,surudoi
+Adjective,Descriptions,Texture,🔘,dull,nibui
+Adjective,Descriptions,Texture,🪨,bumpy,dekoboko
+Adjective,Descriptions,Texture,🪶,fluffy,fuwafuwa
+Adjective,Descriptions,Texture,🧈,sticky,betobeto
+Adjective,Descriptions,Texture,🧼,slippery,nurunuru
+Adjective,Descriptions,Texture,🪨,solid,katai
+Adjective,Descriptions,Texture,💨,light,karui
+Adjective,Descriptions,Texture,🏋️,heavy,omoi
+Adjective,Descriptions,Texture,🧊,thick,atsui
+Adjective,Descriptions,Texture,📄,thin,usui
+Adjective,Descriptions,Shape,⭕,round,marui
+Adjective,Descriptions,Shape,⬜,square,shikakui
+Adjective,Descriptions,Shape,🔺,triangular,sankakukei
+Adjective,Descriptions,Shape,📏,long,nagai
+Adjective,Descriptions,Shape,📐,short,mijikai
+Adjective,Descriptions,Shape,↕️,tall,takai
+Adjective,Descriptions,Shape,↕️,low,hikui
+Adjective,Descriptions,Shape,↔️,wide,hiroi
+Adjective,Descriptions,Shape,🪡,narrow,semai
+Adjective,Descriptions,Shape,🥞,flat,taira
+Adjective,Descriptions,Shape,⛰️,steep,kewashii
+Adjective,Descriptions,Shape,🌊,wavy,nami no
+Adjective,Descriptions,Shape,〰️,curvy,magatta
+Adjective,Descriptions,Shape,📏,straight,massugu
+Adjective,Descriptions,Shape,🔺,pointed,togatta
+Adjective,Descriptions,Shape,🥚,oval,daenkei
+Adjective,Descriptions,Size,📏,big,ōkii
+Adjective,Descriptions,Size,📌,small,chiisai
+Adjective,Descriptions,Size,🦖,huge,kyodai
+Adjective,Descriptions,Size,🐜,tiny,chicchai
+Adjective,Descriptions,Size,🏔️,large,ōki na
+Adjective,Descriptions,Size,📱,medium,chū
+Adjective,Descriptions,Size,📏,long,nagai
+Adjective,Descriptions,Size,✂️,short,mijikai
+Adjective,Descriptions,Size,🏢,tall,takai
+Adjective,Descriptions,Size,🧍,high,takai
+Adjective,Descriptions,Size,🏞️,wide,hiroi
+Adjective,Descriptions,Size,🚪,narrow,semai
+Adjective,Descriptions,Size,📊,thick,futoi
+Adjective,Descriptions,Size,🪡,thin,hosoi
+Adjective,Descriptions,Size,⬆️,deep,fukai
+Adjective,Descriptions,Size,⬇️,shallow,asai
+Adjective,Descriptions,Size,🎯,far,tōi
+Adjective,Descriptions,Size,🤏,near,chikai
+Adjective,Personality,Positive,😊,kind,yasashii
+Adjective,Personality,Positive,😄,cheerful,akarui
+Adjective,Personality,Positive,🤣,funny,omoshiroi
+Adjective,Personality,Positive,🧠,smart,kashikoi
+Adjective,Personality,Positive,😇,gentle,otonashii
+Adjective,Personality,Positive,💪,strong,tsuyoi
+Adjective,Personality,Positive,🤝,friendly,shinsetsu
+Adjective,Personality,Positive,😌,calm,odayaka
+Adjective,Personality,Positive,🎯,serious,majime
+Adjective,Personality,Positive,💼,hardworking,kinben
+Adjective,Personality,Positive,🙏,polite,teinei
+Adjective,Personality,Positive,🎨,creative,sōzōteki
+Adjective,Personality,Positive,😊,patient,gaman zuyoi
+Adjective,Personality,Positive,🎊,lively,genki
+Adjective,Personality,Positive,❤️,loving,aijō bukai
+Adjective,Personality,Positive,🤗,warm,atatakai
+Adjective,Personality,Positive,🎭,outgoing,shakōteki
+Adjective,Personality,Positive,😁,optimistic,rakkan teki
+Adjective,Personality,Positive,💎,honest,shōjiki
+Adjective,Personality,Positive,🦸,brave,yūkan
+Adjective,Personality,Positive,🙌,generous,kandai
+Adjective,Personality,Positive,🎯,responsible,sekinin-kan
+Adjective,Personality,Positive,🌟,confident,jishin ga aru
+Adjective,Personality,Positive,🤲,humble,kenkyo
+Adjective,Personality,Positive,💝,caring,omoyari
+Adjective,Personality,Positive,😊,easygoing,nonbiri
+Adjective,Personality,Positive,🎪,energetic,katsudōteki
+Adjective,Personality,Positive,🦉,wise,kashikoi
+Adjective,Personality,Positive,🌈,positive,sekkyoku teki
+Adjective,Personality,Negative,😠,mean,ijiwaru
+Adjective,Personality,Negative,😤,rude,shitsurei
+Adjective,Personality,Negative,😔,shy,hazukashigari
+Adjective,Personality,Negative,😰,nervous,kinchō
+Adjective,Personality,Negative,😒,lazy,namakemono
+Adjective,Personality,Negative,😢,weak,yowai
+Adjective,Personality,Negative,😡,angry,okorippoi
+Adjective,Personality,Negative,😭,crybaby,nakimushi
+Adjective,Personality,Negative,😨,coward,okubyō
+Adjective,Personality,Negative,😤,selfish,wagamama
+Adjective,Personality,Negative,😏,arrogant,gōman
+Adjective,Personality,Negative,🤥,dishonest,fujitsu
+Adjective,Personality,Negative,😒,boring,tsumaranai
+Adjective,Personality,Negative,😩,stubborn,ganko
+Adjective,Personality,Negative,😠,jealous,shittobukoi
+Adjective,Personality,Negative,😤,impatient,kimijakuna
+Adjective,Personality,Negative,😈,cruel,zankoku
+Adjective,Personality,Negative,🤐,cold,tsumetai
+Adjective,Personality,Negative,😞,pessimistic,hikan teki
+Adjective,Personality,Negative,😖,anxious,fuan
+Adjective,Personality,Negative,😓,careless,fuchūi
+Adjective,Personality,Negative,😵,forgetful,wasureppoi
+Adjective,Personality,Negative,😡,aggressive,kōgeki teki
+Adjective,Personality,Negative,🤔,suspicious,utagaibukai
+Adjective,Personality,Negative,😬,awkward,bukiyō
+Adjective,Personality,Neutral,🤔,quiet,shizuka
+Adjective,Personality,Neutral,😐,shy,uchiki
+Adjective,Personality,Neutral,🤫,reserved,hikaeme
+Adjective,Personality,Neutral,😶,mysterious,nazo no
+Adjective,Personality,Neutral,🙂,normal,futsū
+Adjective,Personality,Neutral,😌,simple,shimpuru
+Adjective,Personality,Neutral,🤷,independent,dokuritsu
+Adjective,Personality,Neutral,😑,introverted,naikōteki
+Adjective,Personality,Neutral,🧘,thoughtful,shinchō
+Adjective,Personality,Neutral,📚,studious,benkyō zuki
+Verb,Stage,Beginning,▶️,start,hajimaru
+Verb,Stage,Beginning,🌱,begin,hajimeru
+Verb,Stage,Beginning,👁️,appear,arawareru
+Verb,Stage,Beginning,📈,grow,sodatsu
+Verb,Stage,Beginning,🔄,become,naru
+Verb,Stage,Beginning,📝,prepare,junbi suru
+Verb,Stage,Beginning,⏰,be late,okureru
+Verb,Stage,Continuation,⏩,continue,tsuzuku
+Verb,Stage,Continuation,⏳,last,tsuzuku
+Verb,Stage,Continuation,⏱️,take time,kakaru
+Verb,Stage,Continuation,⏸️,delay,okuraseru
+Verb,Stage,Continuation,📆,put off,enki suru
+Verb,Stage,Continuation,🔁,repeat,kurikaesu
+Verb,Stage,Continuation,▶️,resume,saikai suru
+Verb,Stage,End,🏁,finish,owaru
+Verb,Stage,End,✅,complete,kanryō suru
+Verb,Stage,End,⏸️,break,chūdan suru
+Verb,Stage,End,⏸️,interrupt,saegiru
+Verb,Stage,End,⏯️,suspend,teishi suru
+Verb,Stage,End,⏹️,cease,yameru
+Verb,Stage,End,🛑,stop,tomeru
+Verb,Movement,Ways,🚶,move,ugoku
+Verb,Movement,Ways,🛑,stop,tomaru
+Verb,Movement,Ways,🚶,go,iku
+Verb,Movement,Ways,⛸️,slide,suberu
+Verb,Movement,Ways,⚽,roll,korogaru
+Verb,Movement,Ways,↩️,turn,magaru
+Verb,Movement,Ways,🪢,bend,mageru
+Verb,Movement,Ways,👋,wave,furu
+Verb,Movement,Ways,🤝,shake,yurasu
+Verb,Movement,Ways,⛷️,swing,yureru
+Verb,Movement,Ways,🏊,swim,oyogu
+Verb,Movement,Ways,🔄,rotate,kaiten suru
+Verb,Movement,Ways,⛷️,ski,sukī suru
+Verb,Movement,Ways,⛸️,skate,sukēto suru
+Verb,Movement,Upward,⬆️,raise,ageru
+Verb,Movement,Upward,📈,lift,mochi ageru
+Verb,Movement,Upward,⬆️,rise,agaru
+Verb,Movement,Upward,🧗,climb,noboru
+Verb,Movement,Upward,⛰️,ascend,tōjō suru
+Verb,Movement,Downward,⬇️,lower,sageru
+Verb,Movement,Downward,⬇️,sink,shizumu
+Verb,Movement,Downward,💧,drop,otosu
+Verb,Movement,Downward,🍂,fall,ochiru
+Verb,Movement,Downward,⬇️,descend,kudaru
+Verb,Movement,Speed,⏰,hurry,isogu
+Verb,Movement,Speed,✈️,fly,tobu
+Verb,Movement,Speed,🏇,ride,noru
+Verb,Movement,Speed,🏃,run,hashiru
+Verb,Movement,Speed,🐌,creep,hau
+Verb,Movement,Speed,🐌,crawl,yotsunbai de aruku
+Verb,Movement,Speed,🚶,walk,aruku
+Verb,Movement,Speed,⚡,speed up,kasoku suru
+Verb,Movement,Speed,🚗,brake,burēki wo kakeru
+Verb,Movement,Speed,🐢,slow down,okuraseru
+Verb,Movement,Pursuit,🏃,pursue,tsuiseki suru
+Verb,Movement,Pursuit,🚗,drive,unten suru
+Verb,Movement,Pursuit,🏃‍♂️,catch up,oitsuku
+Verb,Movement,Pursuit,🏆,surpass,koeru
+Verb,Movement,Pursuit,👋,leave behind,ato ni nokosu
+Verb,Movement,Pursuit,🤲,catch,tsukamaru
+Verb,Movement,Pursuit,🏃‍♀️,escape,nigeru
+Verb,Movement,Pursuit,🏃,flee,tōbō suru
+Verb,Movement,Pursuit,🚫,avoid,sakeru
+Verb,Movement,Cycle,🚪,depart,shuppatsu suru
+Verb,Movement,Cycle,🚶,leave,deru
+Verb,Movement,Cycle,🚪,go out,dekakeru
+Verb,Movement,Cycle,📈,advance,susumu
+Verb,Movement,Cycle,🤝,meet,au
+Verb,Movement,Cycle,👥,come across,deaukau
+Verb,Movement,Cycle,🚶,follow,shitagau
+Verb,Movement,Cycle,🚶,go along,~ni sotte iku
+Verb,Movement,Cycle,🚶,cross,wataru
+Verb,Movement,Cycle,💥,run into,butsu karu
+Verb,Movement,Cycle,👋,pass,tōrisugiru
+Verb,Movement,Cycle,↩️,turn,magaru
+Verb,Movement,Cycle,🏁,arrive,tsuku
+Verb,Movement,Cycle,👋,come,kuru
+Verb,Movement,Cycle,🎯,reach,todoku
+Verb,Movement,Cycle,🎯,attain,tasseisuru
+Verb,Movement,Cycle,↩️,return,modoru
+Verb,Movement,Cycle,🚪,enter,hairu
+Verb,Movement,Cycle,🚪,go in,naka ni hairu
+Verb,Movement,Water,🌊,flow,nagareru
+Verb,Movement,Water,🏊,swim,oyogu
+Verb,Movement,Water,🛟,float,ukabu
+Verb,Movement,Water,🚣,row,kogu
+Verb,Movement,Water,⛵,sail,kōkai suru
+Verb,Movement,Water,🤿,dive,moguru
+Verb,Movement,Water,💦,plunge,tobikomi
+Verb,Movement,Water,⬇️,sink,shizumu
+Verb,Movement,Water,💀,drown,oboreru
+Verb,Movement,Water,⬆️,emerge,ukabi agaru
+Verb,Everyday,Live,👶,bear,umu
+Verb,Everyday,Live,👶,give birth,shussan suru
+Verb,Everyday,Live,👶,be born,umareru
+Verb,Everyday,Live,🏠,live,kurasu
+Verb,Everyday,Live,💚,be alive,ikite iru
+Verb,Everyday,Live,😮‍💨,breathe,kokyū suru
+Verb,Everyday,Live,📛,name,namae wo tsukeru
+Verb,Everyday,Live,💍,marry,kekkon suru
+Verb,Everyday,Live,🏡,dwell,sumu
+Verb,Everyday,Work,💼,work,hataraku
+Verb,Everyday,Work,💼,take a job,shūshoku suru
+Verb,Everyday,Work,🤝,employ,koyō suru
+Verb,Everyday,Work,👋,dismiss,kaiko suru
+Verb,Everyday,Work,💰,earn,kasegu
+Verb,Everyday,Work,💵,pay,harau
+Verb,Everyday,Work,💸,spend,tsukau
+Verb,Everyday,Work,💰,economize,setsuyaku suru
+Verb,Everyday,Work,🏦,save,tameru
+Verb,Everyday,Work,💸,waste,muda ni suru
+Verb,Everyday,Work,😴,rest,yasumu
+Verb,Everyday,Eat,🍽️,eat,taberu
+Verb,Everyday,Eat,😋,be hungry,onaka ga suita
+Verb,Everyday,Eat,🍼,feed,tabeaseru
+Verb,Everyday,Eat,😬,bite,kamu
+Verb,Everyday,Eat,😋,chew,kamu
+Verb,Everyday,Eat,😮,swallow,nomikomu
+Verb,Everyday,Eat,🥤,drink,nomu
+Verb,Everyday,Eat,😓,be thirsty,nodo ga kawaita
+Verb,Everyday,Eat,🍳,cook,ryōri suru
+Verb,Everyday,Eat,🍰,bake,yaku
+Verb,Everyday,Eat,🍳,fry,itameru
+Verb,Everyday,Eat,♨️,boil,wakasu
+Verb,Everyday,Eat,🍲,stew,niru
+Verb,Everyday,Dress,👔,wear,kiru
+Verb,Everyday,Dress,👗,dress,kigaeru
+Verb,Everyday,Dress,👕,put on,kiru
+Verb,Everyday,Dress,👕,take off,nugu
+Verb,Everyday,Dress,🧺,wash,arau
+Verb,Everyday,Dress,🧺,launder,sentaku suru
+Verb,Everyday,Dress,👗,iron,airon wo kakeru
+Verb,Everyday,Dress,📝,order,chūmon suru
+Verb,Everyday,Dress,🪡,sew,nuu
+Verb,Everyday,Dress,✂️,cut out,kiru
+Verb,Everyday,Dress,👔,fit,au
+Verb,Everyday,Dress,👗,suit,niau
+Verb,Everyday,Dress,✨,be in fashion,hayatte iru
+Verb,Everyday,Dress,📉,be out of fashion,hayattenai
+Verb,Everyday,Sleep,😴,sleep,neru
+Verb,Everyday,Sleep,😴,fall asleep,nemuru
+Verb,Everyday,Sleep,🛏️,go to bed,neru
+Verb,Everyday,Sleep,⏰,wake,okiru
+Verb,Everyday,Sleep,🛏️,get up,okiru
+Verb,Everyday,Sleep,🛏️,get out of bed,beddo kara deru
+Verb,Everyday,Sleep,🚿,wash oneself,kao wo arau
+Verb,Everyday,Sleep,🦷,brush teeth,ha wo migaku
+Verb,Everyday,Sleep,💇,comb hair,kami wo tokasu
+Verb,Everyday,Sleep,🧖,dry oneself,karada wo fuku
+Verb,Everyday,Sleep,🪒,shave,hige wo soru
+Verb,Everyday,Sleep,💄,make up,kesho suru
+Verb,Everyday,Sleep,💇,do hair,kami wo setto suru
+Verb,Everyday,Sleep,💇,perm,pāma wo kakeru
+Verb,Everyday,Illness,🤒,be ill,byōki da
+Verb,Everyday,Illness,😣,ache,itamu
+Verb,Everyday,Illness,🤧,catch cold,kaze wo hiku
+Verb,Everyday,Illness,😷,cough,seki wo suru
+Verb,Everyday,Illness,🤧,sneeze,kushami wo suru
+Verb,Everyday,Illness,😊,recover,kaifuku suru
+Verb,Everyday,Illness,💊,treat,chiryō suru
+Verb,Everyday,Illness,✅,cure,naosu
+Verb,Everyday,Illness,🩹,heal,iyasu
+Verb,Everyday,Illness,😔,weaken,yowaru
+Verb,Everyday,Illness,💀,die,shinu
+Verb,Everyday,Illness,⚰️,bury,hōmuru
+Verb,Feeling,Good,❤️,love,ai suru
+Verb,Feeling,Good,💕,fall in love,koi ni ochiru
+Verb,Feeling,Good,😊,like,suki da
+Verb,Feeling,Good,👍,prefer,konomu
+Verb,Feeling,Good,🙏,respect,sonkei suru
+Verb,Feeling,Good,⭐,esteem,tattō suru
+Verb,Feeling,Good,👏,praise,homeru
+Verb,Feeling,Good,😍,admire,kanshin suru
+Verb,Feeling,Good,🥰,adore,aishite yamanu
+Verb,Feeling,Bad,😡,hate,nikumu
+Verb,Feeling,Bad,😒,dislike,kirai da
+Verb,Feeling,Bad,🙈,disregard,mushi suru
+Verb,Feeling,Bad,😠,quarrel,kenka suru
+Verb,Feeling,Bad,😤,scold,shikaru
+Verb,Feeling,Bad,😔,reproach,hinan suru
+Verb,Feeling,Bad,👎,accuse,semeru
+Verb,Feeling,Bad,😒,envy,urayamu
+Verb,Feeling,Grief,😢,suffer,kurushimu
+Verb,Feeling,Grief,😣,endure,taeru
+Verb,Feeling,Grief,💪,bear,taekomu
+Verb,Feeling,Grief,🦾,stand,taekomu
+Verb,Feeling,Grief,🏳️,give up,akirameru
+Verb,Feeling,Grief,🏳️,surrender,kōsan suru
+Verb,Feeling,Grief,😢,complain,fuhei wo iu
+Verb,Feeling,Grief,😭,weep,naku
+Verb,Feeling,Grief,😭,cry,naku
+Verb,Feeling,Grief,😰,worry,shinpai suru
+Verb,Feeling,Grief,🤗,comfort,nagusameru
+Verb,Feeling,Grief,😌,calm down,ochitsuku
+Verb,Feeling,Joy,😄,laugh,warau
+Verb,Feeling,Joy,😊,smile,hohoemu
+Verb,Feeling,Joy,🎉,rejoice,yorokobu
+Verb,Feeling,Joy,😌,enjoy,tanoshimu
+Verb,Feeling,Pride,😎,be proud,hokori ni omou
+Verb,Feeling,Pride,😏,boast,jiman suru
+Verb,Feeling,Pride,😤,put on airs,kidoru
+Verb,Feeling,Pride,😠,be insolent,zōchō da
+Verb,Feeling,Pride,😤,be impudent,atsukamashii
+Verb,Feeling,Modesty,😊,be modest,kenkyo da
+Verb,Feeling,Modesty,😳,be shy,hazukashigaru
+Verb,Feeling,Confidence,🙏,hope,kibō suru
+Verb,Feeling,Confidence,🙏,believe,shinjiru
+Verb,Feeling,Confidence,🤝,rely,tayoru
+Verb,Feeling,Confidence,✅,be sure,tashika da
+Verb,Feeling,Doubt,🤔,doubt,utagau
+Verb,Feeling,Doubt,🤷,hesitate,tamerau
+Verb,Feeling,Doubt,🤨,suspect,ayashimu
+Verb,Feeling,Diligence,💪,care,ki wo tsukeru
+Verb,Feeling,Diligence,💯,try best,zenryoku wo tsukusu
+Verb,Feeling,Laziness,😴,be lazy,namakeru
+Verb,Feeling,Laziness,🙈,neglect,nageru
+Verb,Feeling,Laziness,😴,shirk,saboru
+Verb,Feeling,Laziness,😫,be tired,tsukareru
+Verb,Feeling,Laziness,😩,get tired,tsukarete kuru
+Verb,Feeling,Emotion,😲,excite,kōfun saseru
+Verb,Feeling,Emotion,😰,agitate,dōyō saseru
+Verb,Feeling,Emotion,😢,move,kandō saseru
+Verb,Feeling,Emotion,😱,frighten,odosu
+Verb,Feeling,Emotion,😨,fear,osoreru
+Verb,Feeling,Emotion,😮,surprise,odoroku
+Verb,Feeling,Emotion,😲,astonish,bikkuri saseru
+Verb,Feeling,Emotion,🤯,amaze,kyōtan saseru
+Verb,Feeling,Emotion,😔,hurt,kizutsukeru
+Verb,Feeling,Emotion,😠,offend,fuyukai ni suru
+Verb,Feeling,Emotion,🗡️,wound,kizutsukeru
+Verb,Feeling,Emotion,😡,be angry,okoru
+Verb,Perception,See,👀,see,miru
+Verb,Perception,See,👁️,look,mimoru
+Verb,Perception,See,👓,watch,mitsumeru
+Verb,Perception,See,🔍,observe,kansatsu suru
+Verb,Perception,See,👀,notice,kizuku
+Verb,Perception,See,🔍,examine,shiruberu
+Verb,Perception,See,🔎,inspect,kensa suru
+Verb,Perception,See,👁️,view,nagameru
+Verb,Perception,See,👀,glimpse,chira to miru
+Verb,Perception,See,🔦,spot,mitsukeru
+Verb,Perception,Hear,👂,hear,kiku
+Verb,Perception,Hear,👂,listen,kiku
+Verb,Perception,Hear,🎧,listen to,kiku
+Verb,Perception,Touch,🤚,touch,sawaru
+Verb,Perception,Touch,🤲,feel,kanjiru
+Verb,Perception,Touch,👋,stroke,naderu
+Verb,Perception,Touch,🫴,handle,atsukai
+Verb,Perception,Touch,🤝,grasp,tsukamu
+Verb,Perception,Smell,👃,smell,nioi ga suru
+Verb,Perception,Smell,🌹,sniff,kagu
+Verb,Perception,Taste,👅,taste,aji wo miru
+Verb,Perception,Taste,😋,savor,ajiwau
+Verb,Working,Think,🤔,think,kangaeru
+Verb,Working,Think,💭,consider,kosatsu suru
+Verb,Working,Think,🧠,reason,suiron suru
+Verb,Working,Think,💡,realize,satoru
+Verb,Working,Think,🎯,understand,rikai suru
+Verb,Working,Think,📖,know,shiru
+Verb,Working,Think,🧠,remember,oboeru
+Verb,Working,Think,🤷,forget,wasureru
+Verb,Working,Think,💭,imagine,sōzō suru
+Verb,Working,Think,💡,recognize,mitomeru
+Verb,Working,Learn,📚,learn,manabu
+Verb,Working,Learn,📖,study,benkyō suru
+Verb,Working,Learn,👨‍🏫,teach,oshieru
+Verb,Working,Learn,📝,practice,renshū suru
+Verb,Working,Learn,✅,master,shūtoku suru
+Verb,Working,Learn,📖,read,yomu
+Verb,Working,Learn,✍️,write,kaku
+Verb,Working,Learn,🧮,calculate,keisan suru
+Verb,Working,Learn,📐,measure,hakaru
+Verb,Working,Learn,🔬,research,kenkyū suru
+Verb,Working,Make,🏗️,make,tsukuru
+Verb,Working,Make,🔨,build,tateru
+Verb,Working,Make,🎨,create,sōzō suru
+Verb,Working,Make,🔨,construct,kenchiku suru
+Verb,Working,Make,🔧,assemble,kumitate
+Verb,Working,Make,🏭,produce,seisan suru
+Verb,Working,Make,🏭,manufacture,seizō suru
+Verb,Working,Make,✂️,cut,kiru
+Verb,Working,Make,🪚,saw,noko de kiru
+Verb,Working,Make,🔨,hammer,kanazuchi de utsu
+Verb,Working,Change,🔄,change,kaeru
+Verb,Working,Change,🔧,fix,shūri suru
+Verb,Working,Change,🔧,repair,naos
+Verb,Working,Change,✨,improve,kaizen suru
+Verb,Working,Change,🔄,transform,henkei saseru
+Verb,Working,Change,🔄,adjust,chōsei suru
+Verb,Working,Change,🔄,modify,henkō suru
+Verb,Working,Change,📈,develop,hatten saseru
+Verb,Working,Break,💥,break,kowasu
+Verb,Working,Break,🔨,smash,kudaku
+Verb,Working,Break,🗡️,destroy,hakai suru
+Verb,Working,Break,💥,damage,songai wo ataeru
+Verb,Working,Break,🔪,cut,kiru
+Verb,Working,Break,✂️,tear,yabuku
+Verb,Working,Break,🔥,burn,yakeru
+Verb,Intercourse,Speak,🗣️,speak,hanasu
+Verb,Intercourse,Speak,💬,talk,hanashi au
+Verb,Intercourse,Speak,🗣️,say,iu
+Verb,Intercourse,Speak,📢,tell,tsugeru
+Verb,Intercourse,Speak,📞,call,yobu
+Verb,Intercourse,Speak,📣,shout,sakebu
+Verb,Intercourse,Speak,🗣️,cry out,sakende iu
+Verb,Intercourse,Speak,🤫,whisper,sasayaku
+Verb,Intercourse,Speak,💬,chat,oshaberi suru
+Verb,Intercourse,Speak,🗨️,mention,noberu
+Verb,Intercourse,Ask,❓,ask,kiku
+Verb,Intercourse,Ask,❔,question,situmon suru
+Verb,Intercourse,Ask,💬,inquire,toiawaseru
+Verb,Intercourse,Ask,🙏,request,irai suru
+Verb,Intercourse,Ask,🙏,beg,tanomikomu
+Verb,Intercourse,Answer,💬,answer,kotaeru
+Verb,Intercourse,Answer,💡,reply,henji suru
+Verb,Intercourse,Answer,📢,respond,ōtō suru
+Verb,Intercourse,Answer,💬,explain,setsumei suru
+Verb,Intercourse,Answer,📖,describe,byōsha suru
+Verb,Intercourse,Give,🎁,give,ageru
+Verb,Intercourse,Give,🤲,offer,teikyō suru
+Verb,Intercourse,Give,🎁,present,okurimono suru
+Verb,Intercourse,Give,🤝,share,wakeau
+Verb,Intercourse,Give,🤲,hand,watasu
+Verb,Intercourse,Take,🤚,take,toru
+Verb,Intercourse,Take,🤲,receive,uketoru
+Verb,Intercourse,Take,✅,accept,ukeireru
+Verb,Intercourse,Take,🙅,refuse,kotowaru
+Verb,Intercourse,Take,🙅,reject,kyozetsu suru
+Verb,Intercourse,Meet,🤝,meet,au
+Verb,Intercourse,Meet,👋,greet,aisatsu suru
+Verb,Intercourse,Meet,🤗,welcome,kangei suru
+Verb,Intercourse,Meet,🎉,invite,shōtai suru
+Verb,Intercourse,Meet,🚪,visit,hōmon suru
+Verb,Fighting,Attack,⚔️,attack,kōgeki suru
+Verb,Fighting,Attack,👊,fight,tatakau
+Verb,Fighting,Attack,💥,hit,naguru
+Verb,Fighting,Attack,👊,strike,utsu
+Verb,Fighting,Attack,🥊,punch,panchi suru
+Verb,Fighting,Attack,👟,kick,keru
+Verb,Fighting,Attack,🔪,stab,sasu
+Verb,Fighting,Attack,🔫,shoot,utsu
+Verb,Fighting,Attack,💣,bomb,bakugeki suru
+Verb,Fighting,Attack,🔥,set fire,hi wo tsukeru
+Verb,Fighting,Defend,🛡️,defend,mamoru
+Verb,Fighting,Defend,🛡️,protect,hogo suru
+Verb,Fighting,Defend,⚔️,resist,teikō suru
+Verb,Fighting,Defend,🏃,retreat,kōtai suru
+Verb,Fighting,Defend,🏃,flee,nigeru
+Verb,Fighting,Defend,🙅,surrender,kōsan suru
+Verb,Fighting,Win,🏆,win,katsu
+Verb,Fighting,Win,🥇,defeat,tahosu
+Verb,Fighting,Win,✅,conquer,정복suru
+Verb,Fighting,Win,👑,overcome,kokufuku suru
+Verb,Fighting,Lose,😔,lose,makeru
+Verb,Fighting,Lose,🏳️,fail,shippai suru
