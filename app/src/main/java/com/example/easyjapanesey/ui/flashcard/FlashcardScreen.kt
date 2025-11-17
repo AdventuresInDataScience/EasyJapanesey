@@ -67,11 +67,6 @@ fun FlashcardScreen(
             val configuration = LocalConfiguration.current
             val isLandscape = configuration.orientation == android.content.res.Configuration.ORIENTATION_LANDSCAPE
             
-            // Reset flip state when card changes to prevent flip glitch
-            LaunchedEffect(uiState.currentIndex) {
-                // Card change handled by ViewModel
-            }
-            
             Column(
                 modifier = Modifier
                     .fillMaxSize()
@@ -106,15 +101,17 @@ fun FlashcardScreen(
                         )
                         
                         // Card in center
-                        FlippableCard(
-                            isFlipped = uiState.isFlipped,
-                            frontContent = currentCard.english,
-                            backContent = currentCard.romaji,
-                            onFlip = { viewModel.flipCard() },
-                            modifier = Modifier
-                                .weight(1f)
-                                .height(140.dp)
-                        )
+                        key(uiState.currentIndex) {
+                            FlippableCard(
+                                isFlipped = uiState.isFlipped,
+                                frontContent = currentCard.english,
+                                backContent = currentCard.romaji,
+                                onFlip = { viewModel.flipCard() },
+                                modifier = Modifier
+                                    .weight(1f)
+                                    .height(140.dp)
+                            )
+                        }
                         
                         // Right column: Progress buttons + Speaker button stacked
                         Column(
@@ -235,15 +232,17 @@ fun FlashcardScreen(
                         Spacer(modifier = Modifier.height(32.dp))
                         
                         // Flippable card
-                        FlippableCard(
-                            isFlipped = uiState.isFlipped,
-                            frontContent = currentCard.english,
-                            backContent = currentCard.romaji,
-                            onFlip = { viewModel.flipCard() },
-                            modifier = Modifier
-                                .fillMaxWidth()
-                                .height(200.dp)
-                        )
+                        key(uiState.currentIndex) {
+                            FlippableCard(
+                                isFlipped = uiState.isFlipped,
+                                frontContent = currentCard.english,
+                                backContent = currentCard.romaji,
+                                onFlip = { viewModel.flipCard() },
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .height(200.dp)
+                            )
+                        }
                         
                         Spacer(modifier = Modifier.height(16.dp))
                         
