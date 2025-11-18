@@ -23,6 +23,7 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.compose.rememberNavController
+import com.example.easyjapanesey.data.model.CardMode
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -33,7 +34,9 @@ fun FlashcardScreen(
     level2: String?
 ) {
     val context = LocalContext.current
-    val viewModel = remember { FlashcardViewModel(context, category, level1, level2) }
+    val viewModel = remember(category, level1, level2) { 
+        FlashcardViewModel(context, category, level1, level2) 
+    }
     val uiState by viewModel.uiState.collectAsState()
     
     Scaffold(
@@ -93,19 +96,21 @@ fun FlashcardScreen(
                         horizontalArrangement = Arrangement.SpaceEvenly,
                         verticalAlignment = Alignment.CenterVertically
                     ) {
-                        // Emoji on left
-                        Text(
-                            text = currentCard.emoji,
-                            fontSize = 70.sp,
-                            modifier = Modifier.padding(8.dp)
-                        )
+                        // Emoji on left (hidden in Read mode)
+                        if (uiState.cardMode == CardMode.RECALL) {
+                            Text(
+                                text = currentCard.emoji,
+                                fontSize = 70.sp,
+                                modifier = Modifier.padding(8.dp)
+                            )
+                        }
                         
                         // Card in center
                         key(uiState.currentIndex) {
                             FlippableCard(
                                 isFlipped = uiState.isFlipped,
-                                frontContent = currentCard.english,
-                                backContent = currentCard.romaji,
+                                frontContent = if (uiState.cardMode == CardMode.RECALL) currentCard.english else currentCard.romaji,
+                                backContent = if (uiState.cardMode == CardMode.RECALL) currentCard.romaji else currentCard.english,
                                 onFlip = { viewModel.flipCard() },
                                 modifier = Modifier
                                     .weight(1f)
@@ -222,21 +227,23 @@ fun FlashcardScreen(
                         horizontalAlignment = Alignment.CenterHorizontally,
                         verticalArrangement = Arrangement.Center
                     ) {
-                        // Emoji
-                        Text(
-                            text = currentCard.emoji,
-                            fontSize = 120.sp,
-                            modifier = Modifier.padding(16.dp)
-                        )
-                        
-                        Spacer(modifier = Modifier.height(32.dp))
+                        // Emoji (hidden in Read mode)
+                        if (uiState.cardMode == CardMode.RECALL) {
+                            Text(
+                                text = currentCard.emoji,
+                                fontSize = 120.sp,
+                                modifier = Modifier.padding(16.dp)
+                            )
+                            
+                            Spacer(modifier = Modifier.height(32.dp))
+                        }
                         
                         // Flippable card
                         key(uiState.currentIndex) {
                             FlippableCard(
                                 isFlipped = uiState.isFlipped,
-                                frontContent = currentCard.english,
-                                backContent = currentCard.romaji,
+                                frontContent = if (uiState.cardMode == CardMode.RECALL) currentCard.english else currentCard.romaji,
+                                backContent = if (uiState.cardMode == CardMode.RECALL) currentCard.romaji else currentCard.english,
                                 onFlip = { viewModel.flipCard() },
                                 modifier = Modifier
                                     .fillMaxWidth()

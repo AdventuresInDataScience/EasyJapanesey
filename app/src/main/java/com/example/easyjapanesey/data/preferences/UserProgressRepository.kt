@@ -2,6 +2,7 @@ package com.example.easyjapanesey.data.preferences
 
 import android.content.Context
 import android.content.SharedPreferences
+import com.example.easyjapanesey.data.model.CardMode
 import com.example.easyjapanesey.data.model.CardStatus
 import com.example.easyjapanesey.data.model.FilterMode
 import com.google.gson.Gson
@@ -94,5 +95,15 @@ class UserProgressRepository(context: Context) {
     
     fun setMenuExpanded(menuKey: String, isExpanded: Boolean) {
         prefs.edit().putBoolean("expanded_$menuKey", isExpanded).apply()
+    }
+    
+    // Card Mode Management (Read vs Recall)
+    fun getCardMode(): CardMode {
+        val modeString = prefs.getString("card_mode", CardMode.RECALL.name)
+        return CardMode.valueOf(modeString ?: CardMode.RECALL.name)
+    }
+    
+    fun setCardMode(mode: CardMode) {
+        prefs.edit().putString("card_mode", mode.name).apply()
     }
 }

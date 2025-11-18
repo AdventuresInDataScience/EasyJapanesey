@@ -4,6 +4,7 @@ import android.content.Context
 import android.speech.tts.TextToSpeech
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.example.easyjapanesey.data.model.CardMode
 import com.example.easyjapanesey.data.model.CardStatus
 import com.example.easyjapanesey.data.model.FilterMode
 import com.example.easyjapanesey.data.model.VocabularyCard
@@ -22,7 +23,8 @@ data class FlashcardUiState(
     val currentIndex: Int = 0,
     val isFlipped: Boolean = false,
     val ttsAvailable: Boolean = false,
-    val ttsError: String? = null
+    val ttsError: String? = null,
+    val cardMode: CardMode = CardMode.RECALL
 )
 
 class FlashcardViewModel(
@@ -47,12 +49,18 @@ class FlashcardViewModel(
     init {
         loadCards(category, level1, level2)
         initializeTTS()
+        updateCardMode()
+    }
+    
+    private fun updateCardMode() {
+        val mode = progressRepo.getCardMode()
+        _uiState.value = _uiState.value.copy(cardMode = mode)
     }
     
     private fun loadCards(category: String, level1: String, level2: String?) {
         viewModelScope.launch {
-            // Check if this is a phrases category (N1, N2, N3, N4, N5)
-            allCards = if (category.matches(Regex("N[1-5]"))) {
+            // Check if this is a phrases request (category is N1-N5 AND level1 is "All")
+            allCards = if (category.matches(Regex("N[1-5]")) && level1 == "All") {
                 // It's a phrases level
                 phrasesRepository.getCardsForPath(category, level1, level2)
             } else {

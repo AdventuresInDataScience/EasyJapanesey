@@ -14,6 +14,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
+import com.example.easyjapanesey.data.model.CardMode
 import com.example.easyjapanesey.data.model.FilterMode
 import com.example.easyjapanesey.data.preferences.UserProgressRepository
 
@@ -24,6 +25,7 @@ fun SettingsScreen(navController: NavController) {
     val repository = remember { UserProgressRepository(context) }
     
     var currentFilter by remember { mutableStateOf(repository.getFilterMode()) }
+    var currentCardMode by remember { mutableStateOf(repository.getCardMode()) }
     var showResetDialog by remember { mutableStateOf(false) }
     var showPositionResetDialog by remember { mutableStateOf(false) }
     
@@ -95,6 +97,59 @@ fun SettingsScreen(navController: NavController) {
                                         FilterMode.ALL -> "Show all vocabulary cards"
                                         FilterMode.WRONG_ONLY -> "Only show cards marked wrong"
                                         FilterMode.WRONG_AND_UNSEEN -> "Show wrong and unseen cards"
+                                    },
+                                    style = MaterialTheme.typography.bodySmall,
+                                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                                )
+                            }
+                        }
+                    }
+                }
+            }
+            
+            Spacer(modifier = Modifier.height(32.dp))
+            
+            // Card Mode Section
+            Text(
+                text = "Card Display Mode",
+                style = MaterialTheme.typography.titleLarge,
+                modifier = Modifier.padding(bottom = 8.dp)
+            )
+            
+            Card(
+                modifier = Modifier.fillMaxWidth(),
+                colors = CardDefaults.cardColors(
+                    containerColor = MaterialTheme.colorScheme.surfaceVariant
+                )
+            ) {
+                Column(modifier = Modifier.padding(16.dp)) {
+                    CardMode.values().forEach { mode ->
+                        Row(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .padding(vertical = 4.dp),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            RadioButton(
+                                selected = currentCardMode == mode,
+                                onClick = {
+                                    currentCardMode = mode
+                                    repository.setCardMode(mode)
+                                }
+                            )
+                            Spacer(modifier = Modifier.width(8.dp))
+                            Column {
+                                Text(
+                                    text = when (mode) {
+                                        CardMode.RECALL -> "Recall Mode (Default)"
+                                        CardMode.READ -> "Read Mode"
+                                    },
+                                    style = MaterialTheme.typography.bodyLarge
+                                )
+                                Text(
+                                    text = when (mode) {
+                                        CardMode.RECALL -> "English first → test your recall"
+                                        CardMode.READ -> "Japanese first → practice reading (emoji hidden)"
                                     },
                                     style = MaterialTheme.typography.bodySmall,
                                     color = MaterialTheme.colorScheme.onSurfaceVariant
